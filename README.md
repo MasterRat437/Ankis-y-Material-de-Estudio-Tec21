@@ -3,4 +3,5 @@
 Los paquetes de Anki tienen terminación apkg, recuerda tener instalado Anki en tu dispositivo para abrirlo. 
 
 Si encuentras algun error por favor levanta un Issue o mándame un mensaje (estoy en los grupos de Kirón)
+
 Creado por Omar Revuelta
