@@ -1,0 +1,539 @@
+¿Cuáles son los cuatro pilares en los que se basa el principismo?	Justicia, beneficencia, no maleficencia y autonomía	IntroClínica
+¿Prima facie que establece que se debe de actor a de manera que se beneficie el paciente?	autonomía	IntroClínica
+¿Qué es la no maleficencia?	No hacer algo que pueda dañar el paciente, ya sea por acción o por omisión	IntroClínica
+¿Qué es la justicia en términos médicos?	Tratar a los pacientes con condiciones similares de maneras similares	IntroClínica
+¿Respecto a la privacidad, ¿qué es el derecho positivo?	Determinar a quien se le puede compartir algo	IntroClínica
+¿Respecto a la privacidad, ¿qué es el derecho negativo?	A que las demás personas no se metan en asuntos ajenos	IntroClínica
+¿En cuáles escenarios un profesional de la salud puede compartir información sin el consentimiento del paciente?	Cuando el paciente está en riesgo, u otra persona identificable lo está	IntroClínica
+¿Qué es la autonomía?	Derecho del paciente de decidir sobre su propia persona, respetando sus derechos y creencias	IntroClínica
+¿En qué se basa el consentimiento informado?	En el derecho de un paciente a decidir sobre su propio cuerpo	IntroClínica
+¿Qué es el privilegio terapéutico?	La capacidad de retener información si se sabe que dicha información podría afectar la toma de decisiones	IntroClínica
+¿En qué situaciones es correcta la presunción del consentimiento?	Acciones pequeñas o sin riesgo.	IntroClínica
+¿Pregunta que NO se debe de durante una entrevista médica?	¿Por qué?	IntroClínica
+¿Qué es lo primero que se debe de hacer en una entrevista médica?	Presentarse	IntroClínica
+¿Tipos de entrevistas médicas?	De primera vez, de seguimiento, especialista, emergencia	IntroClínica
+¿Técnica de entrevista donde el medico rara vez pregunta algo, y el paciente es quien guía la entrevista?	Libres	IntroClínica
+¿Cuál es el objetivo de una entrevista médica?	Establecer una relación de confianza con el paciente y recopilar información importante	IntroClínica
+¿En cuál tipo de reacción del paciente, se tiene un síntoma que necesita ser valorado, pero el paciente no lo quiere valorar porque no quiere que sea una enfermedad mala?	Conflicto	IntroClínica
+¿Estado de intranquilidad en la que el paciente siente un peligro inminente?	Ansiedad	IntroClínica
+¿Cuál termino es usado para describir un síntoma de una situación crónica de estado de ánimo decaído?	Depresión	IntroClínica
+¿Mecanismo de defensa donde el paciente actúa y piensa como si una parte de la realidad no fuera verdad?	Negación	IntroClínica
+¿Mecanismo de defensa donde se rechaza de forma inconsciente un acontecimiento emocional y lo proyectan en otras personas?	Proyección	IntroClínica
+¿Qué es la regresión?	Regresar a una etapa en la vida donde no se tenía ese padecimiento	IntroClínica
+¿Tipo de paciente muy tímido y con poca confianza propia?	Silenciosos	IntroClínica
+¿Tipo de preguntas que no son muy útiles con los pacientes silencioso?	Abiertas	IntroClínica
+¿Tipo de paciente que suele dominar la entrevista por medio de largas respuestas?	Hablador	IntroClínica
+¿Qué es un paciente seductor?	Aquel que desea tener una relación sentimental con su médico	IntroClínica
+¿Tipo de paciente que usa la ira como mecanismo para manejar la pérdida de control?	Enfadado	IntroClínica
+¿Paciente en el que se deben de evitar usar palabras tranquilizadoras?	Paranoide	IntroClínica
+¿Cuál paciente hace muchas preguntas?	Insaciable	IntroClínica
+¿Paciente que tiene miedo a dar respuestas erróneas?	Adulador	IntroClínica
+¿Qué es un paciente agresivo?	Aquel que se irrita con facilidad y puede explorar ante dificultades de la vida cotidiana	IntroClínica
+¿Qué paciente acude a múltiples consultas afirmando que las intervenciones no funcionaron?	Rechaza la ayuda	IntroClínica
+¿Paciente que usa la intimidación y la culpa para obligar a los demás a darles atención?	Exigente	IntroClínica
+¿Paciente que no puede manejar ni la ambigüedad ni la incertidumbre?	Compulsivo	IntroClínica
+¿Como deben de ser las respuestas a los pacientes compulsivos?	Concretas, detalladas y directas	IntroClínica
+¿A cuál paciente la recuperación es una amenaza?	Masoquistas	IntroClínica
+¿Cuál es el mayor temor de los niños enfermos?	Ser separados de sus padres	IntroClínica
+¿Tipo de paciente cuyas quejas nunca deben de ser atribuidas a su edad?	Paciente de la tercera edad	IntroClínica
+¿Que no se debe de suponer que sobre los pacientes viudos?	Que viven aislados	IntroClínica
+¿Paciente más difícil de tratar?	Otros médicos	IntroClínica
+Tipo de comentarios que se deben de evitar durante una exploración física?	Esto es normal, todo en orden, etc.	IntroClínica
+Objetivo de la exploración Física?	Obtener información válida sobre la salud del paciente.	IntroClínica
+¿Qué es el sesgo inadvertido?	La primera observación condiciona un sesgo de la segunda	IntroClínica
+¿Qué se tiene que revisar durante la inspección?	Estado general, situación nutricional, habito corporal, simetría del cuerpo, postura y marcha, discurso que usa	IntroClínica
+Qué se incluye en el aspecto general?	Nivel de conciencia, de aseo personal, apariencia de cabello y uñas	IntroClínica
+¿Qué cosas puede revelar información el aspecto general?	Autoestima y estado mental	IntroClínica
+Cuáles son las tres formas del cuerpo?	Ectomorfo, mesomorfo y endomorfo	IntroClínica
+Qué demuestra caminar con normalidad?	Coordinación neuromotora	IntroClínica
+El calor, rubor, dolor, edema son signos de?	Inflamación	IntroClínica
+Como es el sonido que se produce al percutir órganos huecos?	Mate	IntroClínica
+Cómo es el sonido claro pulmonar?	Fuerte y resonante	IntroClínica
+Orden de la auscultación pulmonar?	Zona superior, medias, inferior, axilar de izquierda a derecha	IntroClínica
+Espacios intercostales en orden para la auscultación cardiaca?	2D, 2I, 4I, 4I	IntroClínica
+Como es el hígado al taco?	Blando, liso y regular	IntroClínica
+La vesícula biliar se debe de palpar en circunstancias normales?	NO	IntroClínica
+En cuáles ocasiones se puede palpar el bazo?	Cuando aumenta de tamaño	IntroClínica
+Sonido producido al percutir el bazo?	Timpánico	IntroClínica
+¿Cuáles son los cuatro pilares en los que se basa el principismo?
+¿Prima facie que establece que se debe de actor a de manera que se beneficie el paciente?
+¿Qué es la no maleficencia?
+¿Qué es la justicia en términos médicos?
+¿Respecto a la privacidad, ¿qué es el derecho positivo?
+¿Respecto a la privacidad, ¿qué es el derecho negativo?
+¿En cuáles escenarios un profesional de la salud puede compartir información sin el consentimiento del paciente?
+¿Qué es la autonomía?
+¿En qué se basa el consentimiento informado?
+¿Qué es el privilegio terapéutico?
+¿En qué situaciones es correcta la presunción del consentimiento?
+¿Pregunta que se debe de durante una entrevista médica?
+¿Qué es lo primero que se debe de hacer en una entrevista médica?
+¿Tipos de entrevistas médicas?
+¿Técnica de entrevista donde el medico rara vez pregunta algo, y el paciente es quien guía la entrevista?
+¿Cuál es el objetivo de una entrevista médica?
+¿En cuál tipo de reacción del paciente, se tiene un síntoma que necesita ser valorado, pero el paciente no lo quiere valorar porque no quiere que sea una enfermedad mala?
+¿Estado de intranquilidad en la que el paciente siente un peligro inminente?
+¿Cuál termino es usado para describir un síntoma de una situación crónica de estado de ánimo decaído?
+¿Mecanismo de defensa donde el paciente actúa y piensa como si una parte de la realidad no fuera verdad?
+¿Mecanismo de defensa donde se rechaza de forma inconsciente un acontecimiento emocional y lo proyectan en otras personas?
+¿Qué es la regresión?
+¿Tipo de paciente muy tímido y con poca confianza propia?
+¿Tipo de preguntas que no son muy útiles con los pacientes silencioso?
+¿Tipo de paciente que suele dominar la entrevista por medio de largas respuestas?
+¿Qué es un paciente seductor?
+¿Tipo de paciente que usa la ira como mecanismo para manejar la pérdida de control?
+¿Paciente en el que se deben de evitar usar palabras tranquilizadoras?
+¿Cuál paciente hace muchas preguntas?
+¿Paciente que tiene miedo a dar respuestas erróneas?
+¿Qué es un paciente agresivo?
+¿Qué paciente acude a múltiples consultas afirmando que las intervenciones no funcionaron?
+¿Paciente que usa la intimidación y la culpa para obligar a los demás a darles atención?
+¿Paciente que no puede manejar ni la ambigüedad ni la incertidumbre?
+¿Como deben de ser las respuestas a los pacientes compulsivos?
+¿A cuál paciente la recuperación es una amenaza?
+¿Cuál es el mayor temor de los niños enfermos?
+¿Tipo de paciente cuyas quejas nunca deben de ser atribuidas a su edad?
+¿Que no se debe de suponer que sobre los pacientes viudos?
+¿Paciente más difícil de tratar?
+ab-	Fuera de, hacia afuera	IntroClinica Etimología
+a-	sin	IntroClinica Etimología
+an-	sin	IntroClinica Etimología
+ambi-	en ambos lados	IntroClinica Etimología
+ana- 	separación a través de	IntroClinica Etimología
+ante-	adelante, antes	IntroClinica Etimología
+anti-	contra	IntroClinica Etimología
+bi-	dos, ambos	IntroClinica Etimología
+bradi-	lento	IntroClinica Etimología
+braqui-	brazo	IntroClinica Etimología
+cata- 	hacia abajo	IntroClinica Etimología
+circun-	alrededor	IntroClinica Etimología
+co-, con-	junto, con	IntroClinica Etimología
+contra-	opuesto	IntroClinica Etimología
+des-	sin	IntroClinica Etimología
+dia-	a través de	IntroClinica Etimología
+dis-	dificultad	IntroClinica Etimología
+dólico-	largo	IntroClinica Etimología
+ec-, ecto-	fuera	IntroClinica Etimología
+em-, en-	dentro	IntroClinica Etimología
+endo-	dentro	IntroClinica Etimología
+epi-	arriba	IntroClinica Etimología
+eu-	normal	IntroClinica Etimología
+ex-	fuera	IntroClinica Etimología
+extra-	adicional	IntroClinica Etimología
+hemi-	mitad	IntroClinica Etimología
+hetero-	diferente	IntroClinica Etimología
+hiper-	más	IntroClinica Etimología
+hipo-	bajo	IntroClinica Etimología
+homo-	igual	IntroClinica Etimología
+in-	dentro	IntroClinica Etimología
+infra-	abajo	IntroClinica Etimología
+inter-	entre	IntroClinica Etimología
+intra-	dentro	IntroClinica Etimología
+iso, isos-	igual	IntroClinica Etimología
+meta-	más allá	IntroClinica Etimología
+multi-	mucho	IntroClinica Etimología
+oligo-	escaso, poco	IntroClinica Etimología
+oro-	boca	IntroClinica Etimología
+orto-	derecho	IntroClinica Etimología
+para-	cerca	IntroClinica Etimología
+per-	a través de	IntroClinica Etimología
+peri-	alrededor de	IntroClinica Etimología
+poli-	mucho	IntroClinica Etimología
+post-	después de	IntroClinica Etimología
+pre-	antes de	IntroClinica Etimología
+pro-	enfrente de	IntroClinica Etimología
+re-	de nuevo	IntroClinica Etimología
+retro-	atrás	IntroClinica Etimología
+semi-	mitad	IntroClinica Etimología
+seudo-	FALSO	IntroClinica Etimología
+sin-	junto	IntroClinica Etimología
+sub-	debajo	IntroClinica Etimología
+supra-	arriba	IntroClinica Etimología
+taqui-	rápido	IntroClinica Etimología
+tele-	lejos	IntroClinica Etimología
+trans-	a través de	IntroClinica Etimología
+tri-	tres	IntroClinica Etimología
+ultra-	en exceso	IntroClinica Etimología
+-cele	hernia, tumor	IntroClinica Etimología
+-ectasia	extirpación	IntroClinica Etimología
+-emia	sangre	IntroClinica Etimología
+-grafe, -es	descripción	IntroClinica Etimología
+-osis	condición	IntroClinica Etimología
+-itis	inflamación	IntroClinica Etimología
+-logia	tratado	IntroClinica Etimología
+-malacia	reblandecimiento	IntroClinica Etimología
+-megalia	crecimiento	IntroClinica Etimología
+-metría	medida	IntroClinica Etimología
+-oma	tumor	IntroClinica Etimología
+-osis	condición	IntroClinica Etimología
+-patos	enfermedad	IntroClinica Etimología
+-podo	pie	IntroClinica Etimología
+-ptosis	caída	IntroClinica Etimología
+-rragia	escurrimiento	IntroClinica Etimología
+-rrea	escurrimiento	IntroClinica Etimología
+-rrexis	ruptura	IntroClinica Etimología
+-tomía	corte	IntroClinica Etimología
+-centesis	punción	IntroClinica Etimología
+-desis	fijación	IntroClinica Etimología
+-ectomía	extirpación	IntroClinica Etimología
+-litos	piedra o cálculos	IntroClinica Etimología
+-oscopía	inspección	IntroClinica Etimología
+-ostomía	apertura	IntroClinica Etimología
+-pexía	suspensión	IntroClinica Etimología
+-plastia	corrección	IntroClinica Etimología
+-rrafia	sutura	IntroClinica Etimología
+-tripsia	aplastamiento	IntroClinica Etimología
+-algia	dolor	IntroClinica Etimología
+-espasmo	contracción	IntroClinica Etimología
+-genia	origen	IntroClinica Etimología
+-lisis	destrucción	IntroClinica Etimología
+-oide	semejante	IntroClinica Etimología
+-osis	condición	IntroClinica Etimología
+-penia	deficiencia	IntroClinica Etimología
+rin	nariz	IntroClinica Etimología
+rinos	nariz	IntroClinica Etimología
+sinus	seno paranasal	IntroClinica Etimología
+laringo	laringe	IntroClinica Etimología
+traqueo	tráquea	IntroClinica Etimología
+neumo	pulmón	IntroClinica Etimología
+alveol	alveolo	IntroClinica Etimología
+naso	nariz	IntroClinica Etimología
+antro	cavidad	IntroClinica Etimología
+faringo	faringe	IntroClinica Etimología
+fono	voz	IntroClinica Etimología
+bronqui	bronquio	IntroClinica Etimología
+pulmo	pulmón	IntroClinica Etimología
+pleuro	pleura	IntroClinica Etimología
+cardio	corazon	IntroClinica Etimología
+artero	arteria	IntroClinica Etimología
+embolo	embolo	IntroClinica Etimología
+anguio	vaso sanguíneo	IntroClinica Etimología
+flebo	vena	IntroClinica Etimología
+estoma	boca	IntroClinica Etimología
+gastro	estómago	IntroClinica Etimología
+entero	intestino	IntroClinica Etimología
+recto	recto	IntroClinica Etimología
+hepato	hígado	IntroClinica Etimología
+páncreas	páncreas	IntroClinica Etimología
+esófago	esófago	IntroClinica Etimología
+duodeno	duodeno	IntroClinica Etimología
+colon	intestino grueso	IntroClinica Etimología
+ano	ano	IntroClinica Etimología
+colecisto	vesícula biliar	IntroClinica Etimología
+nefro	riñon	IntroClinica Etimología
+glomérulo	glomérulo	IntroClinica Etimología
+uretra	uretra	IntroClinica Etimología
+uréter	uréter	IntroClinica Etimología
+cisto	vejiga	IntroClinica Etimología
+oftalmo	ojo	IntroClinica Etimología
+dacrio	lagrima	IntroClinica Etimología
+conjuntiva	conjuntiva	IntroClinica Etimología
+blefaro	parpado	IntroClinica Etimología
+opto	visión	IntroClinica Etimología
+oto	oído	IntroClinica Etimología
+auric	oreja	IntroClinica Etimología
+audio	oír	IntroClinica Etimología
+tímpano	membrana del oído	IntroClinica Etimología
+laberinto	laberinto	IntroClinica Etimología
+histero	útero	IntroClinica Etimología
+cérvix	cuello	IntroClinica Etimología
+vulva	vulva	IntroClinica Etimología
+salpinge	trompas uterinas	IntroClinica Etimología
+colpo	vagina	IntroClinica Etimología
+oforo	ovario	IntroClinica Etimología
+orqui	testículo	IntroClinica Etimología
+deferen	vaso deferente	IntroClinica Etimología
+falo	pene	IntroClinica Etimología
+prepucio	prepucio	IntroClinica Etimología
+epidídimo	epidídimo	IntroClinica Etimología
+semin	vesícula seminal	IntroClinica Etimología
+balano	glande	IntroClinica Etimología
+cutis	piel	IntroClinica Etimología
+onico	uña	IntroClinica Etimología
+tegumen	cobertura	IntroClinica Etimología
+derma	piel	IntroClinica Etimología
+dermato	piel	IntroClinica Etimología
+querato	cuerno	IntroClinica Etimología
+trico	piel	IntroClinica Etimología
+mielo	medula	IntroClinica Etimología
+teno	tendón	IntroClinica Etimología
+tendo	tendón	IntroClinica Etimología
+artro	articulación	IntroClinica Etimología
+bursa	bolsa serosa	IntroClinica Etimología
+osteo	hueso	IntroClinica Etimología
+condro	cartílago	IntroClinica Etimología
+mío	musculo	IntroClinica Etimología
+axón	eje	IntroClinica Etimología
+miel	medula	IntroClinica Etimología
+neuro	nervio	IntroClinica Etimología
+psique	alma/mente	IntroClinica Etimología
+céfalo	cabeza	IntroClinica Etimología
+medul	medula	IntroClinica Etimología
+nerv	nervio	IntroClinica Etimología
+radi	raíz nerviosa	IntroClinica Etimología
+hormon	excitar	IntroClinica Etimología
+crino	secretar	IntroClinica Etimología
+bocio	garganta	IntroClinica Etimología
+mieli	miel	IntroClinica Etimología
+carcino	cáncer	IntroClinica Etimología
+escirro	duro	IntroClinica Etimología
+oma	tumor	IntroClinica Etimología
+onco	masa	IntroClinica Etimología
+plasia	molde	IntroClinica Etimología
+sacro	carne	IntroClinica Etimología
+bacil	varilla, vara	IntroClinica Etimología
+bact	barra, caña	IntroClinica Etimología
+demico	relativo a la gente	IntroClinica Etimología
+micro	pequeño	IntroClinica Etimología
+virus	veneno	IntroClinica Etimología
+sepsis	infección	IntroClinica Etimología
+Rinoantritis	Inflamación de la cavidad nasal y del seno maxilar	IntroClinica Términos
+Rinitis	Inflamación de la mucosa nasal	IntroClinica Términos
+Sinusitis	Inflamación de los senos paranasales	IntroClinica Términos
+Rinorragia	Sangrado por la nariz	IntroClinica Términos
+Rinorrea	Secreciones nasales	IntroClinica Términos
+Rinoplastia	Intervención quirúrgica para corregir deformidades de la nariz	IntroClinica Términos
+Rinofaringitis	Inflamación de la parte superior de la faringe (rinofaringe)	IntroClinica Términos
+Traqueorragia	Derrame de sangre en la tráquea	IntroClinica Términos
+Traqueotomía	Procedimiento quirúrgico donde se crea una abertura a través del cuello dentro de la tráquea	IntroClinica Términos
+Bronquitis	Inflamación de las vías respiratorias en el pulmón	IntroClinica Términos
+Pleuritis	Inflamación de la pleura	IntroClinica Términos
+Neumopatía	Enfermedades que comprometen el funcionamiento de los pulmones	IntroClinica Términos
+Hipoventilación	Respiración superficial o muy lenta que no satisface las necesidades del cuerpo	IntroClinica Términos
+Hemotórax	Acumulación de sangre en el espacio entre la pared torácica y el pulmón	IntroClinica Términos
+Broncorragia	Hemorragia en la mucosa bronquial	IntroClinica Términos
+Toracocentesis	Procedimiento para drenar líquido que se encuentra entre la pleura y la pared toráxica	IntroClinica Términos
+Endotraqueal	Procedimiento en el que se coloca algo adentro de la tráquea	IntroClinica Términos
+Cardiotomía	Incisión quirúrgica en el corazon o en el cardias del estómago	IntroClinica Términos
+Valvulopatía	Enfermedades que afectan a una o más válvulas del corazón	IntroClinica Términos
+Valvulotomía	Corrección quirúrgica de una válvula cardiaca	IntroClinica Términos
+Pericarditis	Inflamación del pericardio	IntroClinica Términos
+Flebitis	Hinchazón o inflamación de una vena	IntroClinica Términos
+Flebotomía	Operación quirúrgica donde se hace una incisión en una vena	IntroClinica Términos
+Embolectomía	Extracción de un trombo por medio de una arterioctomía	IntroClinica Términos
+Bradicardia	Frecuencia cardiaca baja (<60 rpm)	IntroClinica Términos
+Taquicardia	Frecuencia cardiaca alta (>100 reposo)	IntroClinica Términos
+Flebografía	Radiografía de una vena después de usar un tinte especial	IntroClinica Términos
+Arteriografía	Radiografía de una arteria después de usar un tinte especial	IntroClinica Términos
+Venoclisis	Introducción de líquido a la luz de una vena. Establecer una via permeable entre un contenedor de una solución y el torrente sanguíneo	IntroClinica Términos
+Arteritis	Inflamación de las arterias	IntroClinica Términos
+Arterioctomía	Sección o corte a una arteria	IntroClinica Términos
+Miocarditis	Inflamación del músculo cardiaco	IntroClinica Términos
+Dextrocardia	El corazón apunta hacia el lado derecho del tórax	IntroClinica Términos
+Cardiopatía	Afecciones del corazon que involucran su estructura y funcionamiento	IntroClinica Términos
+Inflamación del esófago	Esofagitis	IntroClinica Términos
+Inflamación del estomago	Gastritis	IntroClinica Términos
+Extirpación del estomago	Gastrectomía	IntroClinica Términos
+Dolor de estomago	Gastralgia	IntroClinica Términos
+Inflamación del intestino grueso	Colitis	IntroClinica Términos
+Dolor en el hígado	Hepatitis	IntroClinica Términos
+Inflamación de la vesícula biliar	Colecistitis	IntroClinica Términos
+Cálculos en la vesícula biliar	Colelitiasis	IntroClinica Términos
+Extirpación de la vesícula biliar	Colecistectomía	IntroClinica Términos
+Inflamación del páncreas	Pancreatitis	IntroClinica Términos
+Hepatalgia	Dolor del hígado	IntroClinica Términos
+Colecistografía	Radiografía de la vesícula biliar	IntroClinica Términos
+Piocolecisto	Presencia de pus en la vesícula biliar	IntroClinica Términos
+Transoperatorio	Cuidados clínicos que se llevan a cabo en un paciente que está siendo sometido a un acto quirúrgico	IntroClinica Términos
+Nefritis	Inflamación de los tejidos del riñón	IntroClinica Términos
+Glomerulonefritis	Inflamación de los glomérulos	IntroClinica Términos
+Nefrolitiasis	Cálculos renales, piedras en el riñón	IntroClinica Términos
+Nefrectomía	Procedimiento quirúrgico donde se extirpa el riñon o una parte	IntroClinica Términos
+Uterolitasis	Cálculos en el útero	IntroClinica Términos
+Cistitis	Infección urinaria que afecta la vejiga	IntroClinica Términos
+Cistolitiasis	Formación de cálculos en la vejiga	IntroClinica Términos
+Uretritis	Inflamación de la uretra	IntroClinica Términos
+Cistorragia	Derrame de sangre en la vejiga	IntroClinica Términos
+Inflamación de la vejiga	Cistitis	IntroClinica Términos
+Blefaroconjuntivitis	Inflamación de los parpados y del ojo	IntroClinica Términos
+Blefaritis	Inflamación de los párpados	IntroClinica Términos
+Oftalmitis	Infección del ojo	IntroClinica Términos
+Blefarotomía	Corte quirúrgico de los parpados	IntroClinica Términos
+Dacriocistitis	Infección del saco lagrimal	IntroClinica Términos
+Otitis	Infección del oído medio	IntroClinica Términos
+Otalgia	Sensación de dolor en el oído	IntroClinica Términos
+Otoscopia	Examen visual de oído y de la membrana timpánica	IntroClinica Términos
+Timpanitis	Hinchazón de la cavidad timpánica	IntroClinica Términos
+Timpanectomía	Extirpación del tambor del oído	IntroClinica Términos
+Timpanoplastía	Operación quirúrgica para reparar el tímpano	IntroClinica Términos
+Retroauricular	Detrás del oído	IntroClinica Términos
+Postoperatorio	Etapa entre que el paciente sale de una cirugía hasta que se recupera completamente	IntroClinica Términos
+Preoperatorio	Antes de la operación de un paciente	IntroClinica Términos
+Histerectomía	Extirpación quirúrgica del útero	IntroClinica Términos
+Cervicitis	Inflamación del cérvix	IntroClinica Términos
+Colpocele	Hernia vaginal que se acompaña del descenso de la vejiga y/o del recto	IntroClinica Términos
+Colpoperinoplastia	Reparación de la pared vaginal anterior	IntroClinica Términos
+Vulvitis	Inflamación de la vulva	IntroClinica Términos
+Colpitis	Inflamación de la vagina	IntroClinica Términos
+Histerometria	Medición de la longitud del útero	IntroClinica Términos
+Histerosalpingografia	Radiografía del útero y las trompas de Falopio	IntroClinica Términos
+Ooforitis	Inflamación de uno o ambos ovarios	IntroClinica Términos
+Ooforectomía	Procedimiento quirúrgico donde se extirpa un ovario o ambos	IntroClinica Términos
+Inflamación del glande	Balanitis	IntroClinica Términos
+Inflamación del testículo	Orquitis	IntroClinica Términos
+Deferentitis	Inflamación de los conductos deferentes	IntroClinica Términos
+Epididimitis	Inflamación del epidídimo	IntroClinica Términos
+Faloplastia	Técnica quirúrgica para la construcción o reconstrucción del pene, o su modificación artificial	IntroClinica Términos
+Orquiectomía	Extirpación quirúrgica de uno o ambos testículos	IntroClinica Términos
+Menarquia	Primera menstruación	IntroClinica Términos
+Dismenorrea	Dolor durante la menstruación	IntroClinica Términos
+Oligomenorrea	Menstruaciones poco frecuentes (ciclos mayores a 45 días)	IntroClinica Términos
+Transvaginal	De un lado a otro, o a través de la vagina	IntroClinica Términos
+Hipermenorrea	Sangrado vaginal intenso o prolongado en el ciclo menstrual	IntroClinica Términos
+Legrado	Técnica para eliminar tejido del útero por medio de raspado para una biopsia	IntroClinica Términos
+Ecosonograma	Procedimiento en donde se usan ondas de sonido de alta energía para observar tejidos y órganos del interior del cuerpo	IntroClinica Términos
+Miomatosis	Tumores benignos del musculo liso del útero	IntroClinica Términos
+Pubarca	Aparición de vello púbico	IntroClinica Términos
+Telarca	Inicio del crecimiento de los senos	IntroClinica Términos
+Dermatitis	Irritación de la piel	IntroClinica Términos
+Celulitis	Infección bacteriana de la piel	IntroClinica Términos
+Cutáneo	Relativo a la piel	IntroClinica Términos
+Dermatología	Rama de la medicina que estudia la piel	IntroClinica Términos
+Dermatoplastia	Cirugía para reconstruir la piel	IntroClinica Términos
+Dermatotomia	Operación quirúrgica de la piel	IntroClinica Términos
+Epitelioma	Tumor maligno en tejido epitelial	IntroClinica Términos
+Hipertricosis	Crecimiento excesivo del vello (en cantidad o en grosor)	IntroClinica Términos
+Hipodermis	Capa más profunda de la piel	IntroClinica Términos
+Onicofagia	Morderse las uñas	IntroClinica Términos
+Onicomicosis	Infección por hongos en la uñas	IntroClinica Términos
+Politraumatismo	Paciente que presenta lesiones o consecuencias de un trauma que afecta a dos o más órganos.	IntroClinica Términos
+Edema	Hinchazón por acumulación de liquido	IntroClinica Términos
+Dermoepidérmicas	Entre dermis y la epidermis	IntroClinica Términos
+Osteosíntesis	Alineación de fragmentos de hueso fracturado	IntroClinica Términos
+Intramedular	Por adentro de la médula	IntroClinica Términos
+Artroscopia	Observar directamente el interior de las articulaciones	IntroClinica Términos
+Artritis	Inflamación de las articulaciones	IntroClinica Términos
+Tenoplastia	Restauración de la función normal de las articulaciones o tejidos circundantes después de una lesión	IntroClinica Términos
+Osteomielitis	Infección de los huesos	IntroClinica Términos
+Denervación	Interrupción de la conducción del dolor en una articulación al cerebro	IntroClinica Términos
+Encefalitis	Inflamación del cerebro	IntroClinica Términos
+Encefalograma	Estudio de la función cerebral y su actividad eléctrica	IntroClinica Términos
+Encefalopatía	Enfermedad cerebral que altera la función o la estructura del cerebro	IntroClinica Términos
+Mielografía	Prueba diagnóstica por imagen que busca problemas en el conducto raquídeo	IntroClinica Términos
+Mielitis	Inflamación de la médula espinal	IntroClinica Términos
+Neumoencefalografía	Radiografía del sistema ventricular y los espacios subaracnoideos	IntroClinica Términos
+Neuritis	Inflamación de uno o más nervios	IntroClinica Términos
+Neuroma	Tumor en células nerviosas	IntroClinica Términos
+Polineuritis	Inflamación de varios nervios periféricos al mismo tiempo	IntroClinica Términos
+Radioculitis	Inflamación de las raíces de los nervios espinales	IntroClinica Términos
+Hiperglucemia	Azúcar sanguínea alta	IntroClinica Términos
+Hiperinsulismo	Niveles de insulina altos	IntroClinica Términos
+Hiperparatiroidismo	Exceso de hormona paratiroidea	IntroClinica Términos
+Hipertiroidismo	Exceso de hormonas tiroideas	IntroClinica Términos
+Hipoglucemia	Azúcar sanguínea baja	IntroClinica Términos
+Melituria	Secreción de orina azucarada	IntroClinica Términos
+Tiroidectomía	Cirugía que extirpa la glándula tiroidea	IntroClinica Términos
+Tiroiditis	Inflamación de la glándula tiroides	IntroClinica Términos
+Tirotoxicosis	Exceso de hormonas tiroideas a nivel de los tejidos	IntroClinica Términos
+Adenoma	Tumor que no es canceroso	IntroClinica Términos
+Adenocarcinoma	Cáncer que se forma en el tejido glandular de los órganos internos	IntroClinica Términos
+Angioma	Tumores no cancerígenos en los vasos sanguíneos	IntroClinica Términos
+Carcinoma	Cáncer que empieza en la piel o en otros tejidos que recubren órganos internos	IntroClinica Términos
+Condroma	Tumos benigno de etiología desconocida	IntroClinica Términos
+Epitelioma	Tumor maligno formado en tejido epitelial	IntroClinica Términos
+Fibroadenoma	Tumor benigno en los senos	IntroClinica Términos
+Hemangioma	Marca de nacimiento rojo intenso y textura gomosa	IntroClinica Términos
+Hepatoma	Cáncer de hígado	IntroClinica Términos
+Meningioma	Tumor primario del sistema nervioso central	IntroClinica Términos
+Osteoma	Tumores en el hueso	IntroClinica Términos
+Neoplasia	Crecimiento descontrolado de células o tejidos anormales en el organismo	IntroClinica Términos
+Aerobio	Respiración con oxígeno	IntroClinica Términos
+Anaerobio	Respiración sin oxígeno	IntroClinica Términos
+Antibiótico	Sustancia quimica que mata o impide el crecimiento de ciertas clases de microorganismos	IntroClinica Términos
+Antibiograma	Prueba microbiológica para determinar la susceptibilidad de una bacteria a un grupo de antibióticos	IntroClinica Términos
+Asepcia	Ausencia de microorganismos que puedan acusar enfermedad	IntroClinica Términos
+Antisepsia	Procedimiento que busca eliminar o reducir la cantidad de microorganismos presentes en seres vivos	IntroClinica Términos
+Bacilo	Bacteria con forma cilíndrica alargada	IntroClinica Términos
+Bacteriólisis	Destrucción de células bacterianas	IntroClinica Términos
+Bacteriología	Rama de la medicina que estudia las bacterias	IntroClinica Términos
+Bacterioscopia	Estudio microscópico de las baterías	IntroClinica Términos
+Epidemia	Enfermedad que infecta a un numero de individuos superior al esperado en una población en un tiempo determinado	IntroClinica Términos
+Baciloscopia	Prueba para la detección de bacilos	IntroClinica Términos
+Coprocultivo	Examen de laboratorio para encontrar organismos en las heces que puedan causar enfermedad y síntomas gastrointestinales	IntroClinica Términos
+Coproparasitoscópico	Estudio de heces fecales para la búsqueda e identificación de formar parasitarias intestinales	IntroClinica Términos
+Hemocultivo	Método diagnóstico que se realiza para la detección de microorganismo en la sangre	IntroClinica Términos
+Leucocito	Célula perteneciente al sistema inmune que defiende al organismo contra infecciones	IntroClinica Términos
+Hemoglobina	Proteína de los glóbulos rojos que lleva oxigeno de los pulmones al resto del cuerpo	IntroClinica Términos
+Angicardiografía	Método de diagnóstico que muestra el flujo de la sangre a través del corazon y los principales vasos sanguíneos	IntroClinica Términos
+Rinolalia	Alteración en la articulación de algunos fonemas (m, n y ñ)	IntroClinica Términos
+Epistaxis	Hemorragia nasal	IntroClinica Términos
+Tos	Espiración forzada y coordinada, interrumpida por el cierre repetid de la glotis	IntroClinica Términos
+Expectoración	Arrancar y arrojar por la boca flemas y otras secreciones que se depositan en las vías aéreas	IntroClinica Términos
+Disfonía	Pérdida del timbre normal de la voz	IntroClinica Términos
+Hemoptisis	Expectoración de sangre	IntroClinica Términos
+Vómica	Que causa vómito	IntroClinica Términos
+Cianosis	Coloración azul de labios y dedos	IntroClinica Términos
+Disnea  	Dificultad para respirar	IntroClinica Términos
+Sibilancias	Ruidos continuos, musicales y agudos que se escuchan durante la espiración	IntroClinica Términos
+Apetito	Sensación o ganas de comer	IntroClinica Términos
+Disfagia	Dificultad para la deglución	IntroClinica Términos
+Halitosis	Mal aliento	IntroClinica Términos
+Náusea	Sensación de enfermedad o malestar en el estómago que puede aparecer con una necesidad imperiosa de vomitar	IntroClinica Términos
+Vómito	Expulsión forzada del contenido del estómago por la boca	IntroClinica Términos
+Rumiación	Regurgitación (involuntaria) de pequeñas cantidades de alimento del estómago que se vuelven a masticar y a tragar.	IntroClinica Términos
+Regurgitación	Expulsión de comida procedente del esófago o del estómago sin que haya nauseas ni contracciones abdominales	IntroClinica Términos
+Pirosis	Cuando el ácido gástrico regresa hacia el esófago. Causa dolor ardiente o incomodidad en la parte superior del pecho	IntroClinica Términos
+Aerofagia	Deglución espasmódica de aire	IntroClinica Términos
+Eructos	Expulsión de aire o gas desde el estómago o esófago a través de la boca	IntroClinica Términos
+Meteorismo	Exceso de gas en el intestino que provoca distensión abdominal, y su eliminación por el ano	IntroClinica Términos
+Flatulencia	Acumulación de gases en el intestino	IntroClinica Términos
+Hematemesis	Vomito con sangre fresca, no digerida, abundante	IntroClinica Términos
+Ictericia	Coloración amarillenta de la piel y mucosas	IntroClinica Términos
+ diarrea	Evacuación intestinal de heces flojas y liquidas tres o más veces al día	IntroClinica Términos
+Constipación	Estreñimiento donde una persona tiene tres o menos evacuaciones en una semana	IntroClinica Términos
+Acolia	Falta de secreción de bilis por la vesícula biliar, que causa la falta de color en las heces	IntroClinica Términos
+Hipocolia	Decoloración parcial de las heces	IntroClinica Términos
+Melena	Heces muy oscuras causada por la digestion de sangre. Tiene un olor muy característico. La hemorragia suele ocurrir por encima del primer segmento del duodeno	IntroClinica Términos
+Rectorragia	Emisión de sangre roja por el ano de forma aislada o junto con las heces	IntroClinica Términos
+Lienteria	Diarrea de alimentos no digeridos	IntroClinica Términos
+Esteatorrea	Heces aceitosas que flotan	IntroClinica Términos
+Pujo	Contracción violenta y dolorosa de un órgano.	IntroClinica Términos
+Tenesmo	Pujo doloroso, persistente e ineficaz para defecar	IntroClinica Términos
+Prurito anal	Picor en el ano	IntroClinica Términos
+Palpitaciones	Sensación de que el corazon late rápidamente, aletea o palpita con fuerza	IntroClinica Términos
+Dolor precordial	Malestar en el pecho que incluye dolor leve, sensación de ardor o agobio, dolor punzante que se irradia hacia el cuello y/o hombros	IntroClinica Términos
+Disnea de esfuerzo	Percepción de malestar respiratorio que aparece con niveles de actividad que niveles de actividad que normalmente no causan ese tipo de malestar	IntroClinica Términos
+Disnea paroxística	Problema de respiración cuando el paciente está acostado	IntroClinica Términos
+Apnea	Pausa de la respiración de al menos 10 segundos	IntroClinica Términos
+Acúfenos	Silbido en uno o en ambos oídos	IntroClinica Términos
+Fosfenos	Ver puntos de luz	IntroClinica Términos
+Síncope	Perdida temporal y súbita de la conciencia	IntroClinica Términos
+Lipotimias	Perdida del conocimiento por alteraciones en la irrigación cerebral	IntroClinica Términos
+Dolor renoureteral	Dolor agudo de tipo cólico unilateral o bilateral localizado en flanco que irradia a la ingle o a los genitales, originado por la obstrucción del uréter por un calculo	IntroClinica Términos
+Disuria	Ardor o molestias al orinar	IntroClinica Términos
+Anuria	Falta de la excreción de orina	IntroClinica Términos
+Oliguria	Emisión de orina menor a 500ml en 24 horas	IntroClinica Términos
+Poliuria	Eliminación mayor de 2 L en 24 sin haber tomado mucha agua	IntroClinica Términos
+Polaquiuria	Necesidad de orinar muchas veces durante el día o la noche en volúmenes normales o inferior a lo normal	IntroClinica Términos
+Hematuria	Presencia de sangre en la orina	IntroClinica Términos
+Piuria	Presencia de un número elevado de leucocitos en la orina	IntroClinica Términos
+Coluria	Orina con color muy oscuro	IntroClinica Términos
+Urgencia	Situación que no amenaza la vida del enfermo, ni de ninguna parte vital de su organismo	IntroClinica Términos
+Incontinencia	Perdida involuntaria de orina sin control del llenado y vaciado de la vejiga urinaria	IntroClinica Términos
+Priapismo	Erección prolongada y dolorosa del pene	IntroClinica Términos
+Leucorrea pag 520)	Flujo vaginal blanco	IntroClinica Términos
+Dispareunia	Dolor al tener relaciones sexuales	IntroClinica Términos
+Amenorrea	Ausencia de menstruación	IntroClinica Términos
+Polidipsia	Sed excesiva	IntroClinica Términos
+Polifagia	Hambre excesiva	IntroClinica Términos
+Poliuria	Producción anormal de grandes cantidades de orina	IntroClinica Términos
+Hirsutismo	Crecimiento excesivo de vello en mujeres	IntroClinica Términos
+Palidez	Perdida de color en la piel o de las membranas mucosas	IntroClinica Términos
+Astenia	Cansancio	IntroClinica Términos
+Equimosis	Hematoma, moretón	IntroClinica Términos
+Petequias	Sangrado dentro de la piel	IntroClinica Términos
+Adenomegalias.	Aumento anormal del tamaño de los ganglios linfáticos	IntroClinica Términos
+Mialgias	Dolores musculares	IntroClinica Términos
+Artralgias	Dolor en las articulaciones	IntroClinica Términos
+Hipotonía	Disminución del tono muscular	IntroClinica Términos
+Prurito	Comezón	IntroClinica Términos
+Hiperhidrosis	Sudoración excesiva	IntroClinica Términos
+Xerodermia	Piel seca	IntroClinica Términos
+Exantemas	Erupción generalizada	IntroClinica Términos
+Cefalea	Dolor de cabeza recurrente	IntroClinica Términos
+Paresias	Debilidad muscular	IntroClinica Términos
+Plejias	Debilidad pronunciada o parálisis	IntroClinica Términos
+Parálisis	Perdida de funciones musculares	IntroClinica Términos
+Parestesias	Sensación de quemadura o pinchazos en el cuerpo	IntroClinica Términos
+Vértigo	Trastorno del equilibrio que hace referencia a una sensación de movimiento de una persona, sin que se esté moviendo	IntroClinica Términos
+Mareos  	Alteración del equilibrio	IntroClinica Términos

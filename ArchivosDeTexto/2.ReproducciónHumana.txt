@@ -1,0 +1,75 @@
+¿Ligamentos que mantienen a los ovarios en su lugar?	Ligamentos ancho, ovárico y suspensorios	ReproducciónHumana	Anatomía_ARF
+¿Hormonas producidas por el aparato reproductor femenino?	Progesterona, estrógeno, inhibina y relaxina	ReproducciónHumana	Anatomía_ARF
+¿Componentes anatómicos del útero?	Fondo, cuerpo, cuello e istmo	ReproducciónHumana	Anatomía_ARF
+¿Irrigación del útero?	Hipogástrica/iliaca interna=>uterinas=>arqueadas=>radiales	ReproducciónHumana	Anatomía_ARF
+¿Componentes de la vulva?	Monte del pubis, labios mayores, labios menores, clítoris, vestíbulo	ReproducciónHumana	Anatomía_ARF
+¿Componentes del aparato reproductor femenino?	Ovarios, trompas uterinas, útero, vagina, vulva	ReproducciónHumana	Anatomía_ARF
+¿Estructura por la cual los ovarios reciben irrigación e inervación?	Hilios	ReproducciónHumana	Anatomía_ARF
+¿Capas de la vagina?	Mucosa, muscular y adventicia	ReproducciónHumana	Anatomía_ARF
+¿Cuáles son las capas del útero?	Perimetrio, miometrio y endometrio	ReproducciónHumana	Anatomía_ARF
+¿Tipo de células en las trompas uterinas cuya función es transportar al ovocito?	Células ciliadas	ReproducciónHumana	Anatomía_ARF
+¿Función de las glándulas de Skene?	Secreción de mucosa y de lubricación.	ReproducciónHumana	Anatomía_ARF
+¿Dónde suele ocurrir la fecundación?	Ampolla de las trompas ováricas	ReproducciónHumana	Anatomía_ARF
+¿capa del útero donde se hace la implantación?	Endometrio	ReproducciónHumana	Anatomía_ARF
+¿Dimensiones del útero?	7.5cm de largo, 5cm de ancho y 2.5 cm de grosor	ReproducciónHumana	Anatomía_ARF
+¿Función de las trompas uterinas?	conducir al ovocito hacia el útero	ReproducciónHumana	Anatomía_ARF
+¿Capas de los ovarios?	Mesotelio, túnica albugínea, corteza ovárica y medula ovárica.	ReproducciónHumana	Anatomía_ARF
+¿Función del líquido seminal?	Neutralizan pH de la vagina, da energía a los espermatozoides	ReproducciónHumana	Anatomía_ARM
+¿Función principal del conducto deferente?	Transportar e impulsar a los espermatozoides durante la eyaculación	ReproducciónHumana	Anatomía_ARM
+¿Función de las células de Leydig?	producción de testosterona	ReproducciónHumana	Anatomía_ARM
+¿Nombre de la estructura que surge de la unión de varios túbulos rectos?	Red testicular	ReproducciónHumana	Anatomía_ARM
+¿Ligamento que mantiene al pene en su lugar?	Ligamento suspensorio	ReproducciónHumana	Anatomía_ARM
+¿Función principal de los testículos?	Espermatogénesis y producción de testosterona	ReproducciónHumana	Anatomía_ARM
+¿Función del líquido prostático?	Energía de los espermatozoides, enzimas proteolíticas para destruir coagulantes y sustancias antibióticas	ReproducciónHumana	Anatomía_ARM
+¿Dimensiones de los testículos?	5cm de largo y 2.5 de ancho	ReproducciónHumana	Anatomía_ARM
+¿Hacia cual estructura se van los túbulos seminíferos?	Hacia los túbulos rectos	ReproducciónHumana	Anatomía_ARM
+¿En dónde ocurre la espermatogénesis?	Túbulos seminíferos	ReproducciónHumana	Anatomía_ARM
+¿Función de las células de Sertoli?	Soporte a los espermatozoides, forman la barrera hematotesticular	ReproducciónHumana	Anatomía_ARM
+¿Porcentaje que forma el líquido seminal del semen?	60%	ReproducciónHumana	Anatomía_ARM
+¿Capas de los testículos?	Túnica Vaginal y túnica albugínea	ReproducciónHumana	Anatomía_ARM
+¿Dónde están los túbulos seminíferos?	Dentro de los lobulillos, que a su vez están en la túnica albugínea de los testículos	ReproducciónHumana	Anatomía_ARM
+¿función principal del epidídimo?	Maduración de espermatozoides	ReproducciónHumana	Anatomía_ARM
+¿Función del pene?	Estructura de soporte para la eyaculación y la micción	ReproducciónHumana	Anatomía_ARM
+¿Componentes del aparato reproductor masculino?	Testículos, epidídimos, conducto deferente, conducto eyaculador, uretra, vesículas seminales, próstata, glándulas bulbouretrales, escroto y pene	ReproducciónHumana	Anatomía_ARM
+¿Dónde están las glándulas bulbouretrales?	Por debajo de la próstata	ReproducciónHumana	Anatomía_ARM
+¿Dónde están las células de Sertoli?	Entre los túbulos seminíferos	ReproducciónHumana	Anatomía_ARM
+¿Dónde empiezan los conductos del aparato reproductor masculino?	En los túbulos seminíferos	ReproducciónHumana	Anatomía_ARM
+¿Estructuras que separan los testículos?	Rafe y tabique escrotal	ReproducciónHumana	Anatomía_ARM
+¿Estructuras que forman al conducto eyaculador?	Vesícula seminal y ampolla del conducto deferente	ReproducciónHumana	Anatomía_ARM
+¿Función del líquido secretado por las glándulas bulbouretrales?	Neutralizar acides de la orina y lubrica ligeramente al pene	ReproducciónHumana	Anatomía_ARM
+¿En cuantas secciones se divide la uretra en el ARM?	3: prostática, intermediaria y esponjosa.	ReproducciónHumana	Anatomía_ARM
+¿De dónde a donde abarca el conducto deferente?	Desde el epidídimo hasta la uretra	ReproducciónHumana	Anatomía_ARM
+¿Fase en la que el endometrio se degenera y se desprende del útero?	Fase menstrual	ReproducciónHumana	Fisiología_ARF
+¿En qué día del ciclo menstrual suele ocurrir la ovulación?	14	ReproducciónHumana	Fisiología_ARF
+¿En cuantas fases se divide el ciclo ovárico?	2: Folicular y lútea	ReproducciónHumana	Fisiología_ARF
+¿En qué se convierte el cuerpo lúteo si no hay fecundación?	Cuerpo albicans	ReproducciónHumana	Fisiología_ARF
+¿Cuánto abarca en papel la fase menstrual?	primeros 5 días del ciclo	ReproducciónHumana	Fisiología_ARF
+¿En cuál fase del ciclo ovárico los folículos ováricos empiezan a madurar?	Fase menstrual	ReproducciónHumana	Fisiología_ARF
+¿Fase del ciclo menstrual donde el endometrio comienza a regenerarse?	Fase preovulatoria o proliferativa	ReproducciónHumana	Fisiología_ARF
+¿Hormona que causa el pico de LH?	Estrógenos	ReproducciónHumana	Fisiología_ARF
+¿Después de cuánto tiempo se degenera el cuerpo lúteo si no hubo fecundación?	2 semanas	ReproducciónHumana	Fisiología_ARF
+¿Cuál hormona estimula la reparación del endometrio?	Estrógenos	ReproducciónHumana	Fisiología_ARF
+¿Entre cuales sucesos se da la fase posovulatoria o lútea?	Entre la ovulación y la menstruación	ReproducciónHumana	Fisiología_ARF
+¿Fase del ciclo menstrual donde aparece el Folículo Dominante?	Preovulatoria	ReproducciónHumana	Fisiología_ARF
+¿Hormona que causa la formación del cuerpo lúteo?	LH	ReproducciónHumana	Fisiología_ARF
+¿Hormona que impide que el cuerpo lúteo se degenere si hubo fecundación?	Gonadotropina Coriónica Humana	ReproducciónHumana	Fisiología_ARF
+¿Hormonas secretadas desde los folículos en desarrollo?	Estrógenos e inhibina	ReproducciónHumana	Fisiología_ARF
+¿Hormonas inhibidas por la progesterona?	LH y GnRH	ReproducciónHumana	Fisiología_ARF
+¿Hormonas inhibidas por el estrógeno?	GnRH y FSH	ReproducciónHumana	Fisiología_ARF
+¿Hormona que mantiene al endometrio?	Progesterona	ReproducciónHumana	Fisiología_ARF
+¿Hormona que empieza la maduración de los folículos ováricos?	FSH	ReproducciónHumana	Fisiología_ARF
+¿Hormona que causa la ovulación?	LH	ReproducciónHumana	Fisiología_ARF
+¿Hormonas secretadas por el cuerpo lúteo?	Progesterona y Estrógeno	ReproducciónHumana	Fisiología_ARF
+¿En qué fase de la meiosis se detiene el ovocito secundario?	metafase	ReproducciónHumana	Fisiología_ARF
+¿Cuántos cuerpos polares se generan en la gametogénesis?	3 cuerpos polares	ReproducciónHumana	Fisiología_ARF
+¿Segundo paso de la espermatogénesis?	División celular de los espermatocitos 1° en 2°	ReproducciónHumana	Fisiología_ARM
+¿Qué es la espermiación?	Liberación de los espermatozoides hacia la luz del túbulo seminífero	ReproducciónHumana	Fisiología_ARM
+¿Hormona que estimula la espermatogénesis?	FSH	ReproducciónHumana	Fisiología_ARM
+¿Primer paso de la espermatogénesis?	Diferenciación de las espermatogonias en espermatocitos 1°	ReproducciónHumana	Fisiología_ARM
+¿Dónde adquieren los espermatozoides la capacidad de moverse?	Epidídimo	ReproducciónHumana	Fisiología_ARM
+Cuál es la función de la gonadotropina coriónica humana?	Somatotropina coriónica humana	ReproducciónHumana	Embarazo
+Cual hormona prepara las mamas para la lactancia y regula el metabolismo de la madre?	Somatotropina coriónica humana	ReproducciónHumana	Embarazo
+Hormona del embarazo que produce resistencia a la insulina?	Izquierda	ReproducciónHumana	Embarazo
+Hacia donde se desplaza el corazón durante el embarazo?	40%	ReproducciónHumana	Embarazo
+Cuanto aumenta el volumen sistólico durante el embarazo?	?????	ReproducciónHumana	Embarazo
+¿Ligamentos del útero?	Ancho, Uterosacro, cardinal y redondo	ReproducciónHumana	Anatomía_ARF

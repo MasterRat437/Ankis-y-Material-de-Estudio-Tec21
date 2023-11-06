@@ -1,0 +1,167 @@
+¿Mecanismo que activa la GH?	Se convierte en IGF-1 en el hígado	Crecimiento&Desarrollo	CrecimientoEstructural
+¿Etapa donde hay más crecimiento?	Fetal	Crecimiento&Desarrollo	CrecimientoEstructural
+¿Tipo de regulación hormonal de la GH	Negativa	Crecimiento&Desarrollo	CrecimientoEstructural
+¿Hormona clave para el crecimiento?	GH/somatotropina	Crecimiento&Desarrollo	CrecimientoEstructural
+¿Hormonas que influyen el crecimiento óseo?	GH, T3 y T4, estrógenos y andrógenos.	Crecimiento&Desarrollo	CrecimientoEstructural
+¿Efecto de hormonas sexuales sobre el hueso	Estimulan su crecimiento y causan el cierre de las placas epifisiarias.	Crecimiento&Desarrollo	CrecimientoEstructural
+¿Orden en el que salen los dientes	Medial-lateral	Crecimiento&Desarrollo	CrecimientoEstructural
+¿Edad a la que salen los incisivos?	Centrales 6-19 meses, laterales 9-16 meses	Crecimiento&Desarrollo	CrecimientoEstructural
+¿A qué edad se caen los incisivos?	6-7 años	Crecimiento&Desarrollo	CrecimientoEstructural
+¿Qué dientes se caen a los 10 años?	Caninos, 1ros y 2dos molares	Crecimiento&Desarrollo	CrecimientoEstructural
+¿Mecanismos de cambio óseo:	Osificación, crecimiento óseo, remodelado óseo y reparación de fracturas	Crecimiento&Desarrollo	Osificación
+¿En qué momento la edad ósea coincide bien con la edad cronológica?	12 y 14	Crecimiento&Desarrollo	Osificación
+¿Entre que huesos esta la sutura lambdoidea?	Occipitales y parietales	Crecimiento&Desarrollo	Osificación
+¿Pasos de la osificación Inframembranosa?	Desarrollo del centro de osificación, calcificación, formación de trabéculas y desarrollo del periostio	Crecimiento&Desarrollo	Osificación
+¿En dónde se calcula la edad ósea?	Mano izquierda (no dominante)	Crecimiento&Desarrollo	Osificación
+¿Cuál es el principio de Enlow?	El crecimiento óseo se da por el tipo de presión que se le ejerce. La reabsorción ocurre en el lado externo y la deposición en el interno.	Crecimiento&Desarrollo	Osificación
+¿Que causa el cierre prematuro del cráneo?	Daños y asimetrías faciales	Crecimiento&Desarrollo	Osificación
+¿Tipo de hueso que forma a la diáfisis:	Esponjoso	Crecimiento&Desarrollo	Osificación
+¿Funciones del hueso	Soporte, protección, movimiento (palancas), almacenamiento de medula ósea, almacenamiento de minerales.	Crecimiento&Desarrollo	Osificación
+¿Unidad Funcional de hueso	Osteona	Crecimiento&Desarrollo	Osificación
+¿Efecto metabólico de las hormonas sexuales sobre el hueso?	Anabólico	Crecimiento&Desarrollo	Osificación
+¿Minerales almacenados en hueso	Calcio, fosforo, magnesio, fosforo	Crecimiento&Desarrollo	Osificación
+¿Célula ósea usada para la reabsorción de hueso?	Osteoclasto	Crecimiento&Desarrollo	Osificación
+¿Hueso metabólicamente activo?	Esponjoso	Crecimiento&Desarrollo	Osificación
+¿Huesos que forman la sutura bregma?	Frontal y parietales	Crecimiento&Desarrollo	Osificación
+¿Secuencia de formación de hueso	Mesénquima, condrocito, osteoblasto y calcificación de la matriz	Crecimiento&Desarrollo	Osificación
+¿Porcentaje del hueso que está hecho de sales de calcio?	70%	Crecimiento&Desarrollo	Osificación
+¿Único mecanismo de crecimiento en grosor?	Aposición	Crecimiento&Desarrollo	Osificación
+¿Cuáles son los dos tipos de crecimiento óseo?	Intramembranoso y endocondral	Crecimiento&Desarrollo	Osificación
+¿Estructura que permite el crecimiento longitudinal del hueso?	Placas epifisiarias	Crecimiento&Desarrollo	Osificación
+¿Principal diferencia entre la osificación inframembranosa y la endocondral?	La inframembranosa se genera directamente del mesénquima, mientras que la endocondral convierte cartílago en hueso	Crecimiento&Desarrollo	Osificación
+¿Célula precursora del hueso?	osteoblasto	Crecimiento&Desarrollo	Osificación
+¿Dónde se suele ubicar el centro de osificación primario?	Diáfisis y en líneas epifisiarias	Crecimiento&Desarrollo	Osificación
+¿Célula ósea que forma osteonas al juntarse?	Osteocito	Crecimiento&Desarrollo	Osificación
+¿Capa que recubre al hueso y lo nutre	Periostio	Crecimiento&Desarrollo	Osificación
+¿Porcentaje de sangre que se almacena en huesos?	10-20%	Crecimiento&Desarrollo	Osificación
+¿Semana en la cual la osteogénesis empieza	6ta	Crecimiento&Desarrollo	Osificación
+¿Proceso en el cual se genera hueso totalmente nuevo?	Osificación/osteogénesis	Crecimiento&Desarrollo	Osificación
+¿En qué huesos suele ocurrir la osificación inframembranosa?	Huesos planos de la cabeza	Crecimiento&Desarrollo	Osificación
+¿Pasos para el crecimiento óseo en grosor?	Formación de surcos en el periostio, las crestas se juntan y forman túneles, los túneles se estrechan, el hueso crece hacia afuera	Crecimiento&Desarrollo	Osificación
+¿Función de la Gelatina de Wharton?	Cortar la circulación de los vasos sanguíneos umbilicales	Crecimiento&Desarrollo	EtapasAdaptación
+¿Sustancia que envuelve los vasos sanguíneos del cordón umbilical?	Gelatina de Wharton	Crecimiento&Desarrollo	EtapasAdaptación
+¿La carótida que rama de la aorta es? (#)	Segunda rama	Crecimiento&Desarrollo	EtapasAdaptación
+¿Función del Foramen Oval?	Que la sangre se salte la circulación pulmonar para priorizar el flujo sanguíneo hacia el corazón y el cerebro	Crecimiento&Desarrollo	EtapasAdaptación
+¿Que causa la vasoconstricción hipóxica sobre los alveolos?	Colapso	Crecimiento&Desarrollo	EtapasAdaptación
+¿Primera rama de la aorta?	Seno coronario (irrigado en la diástole)	Crecimiento&Desarrollo	EtapasAdaptación
+¿Función del Ducto Venoso?	Saltarse al hígado y aumentar la velocidad del flujo sanguíneo hacia el corazón.	Crecimiento&Desarrollo	EtapasAdaptación
+¿Alrededor de que día empieza a latir el corazón?	Día 21	Crecimiento&Desarrollo	EtapasAdaptación
+¿Función del Ducto Arterioso?	Conectar las arterias pulmonares a la aorta	Crecimiento&Desarrollo	EtapasAdaptación
+¿Métodos por los cuales un feto puede aumentar su gasto cardiaco?	Aumento de FC	Crecimiento&Desarrollo	EtapasAdaptación
+¿Los fetos respiran?	Respiran mecánicamente pero no hay intercambio gaseoso	Crecimiento&Desarrollo	EtapasAdaptación
+¿Que conlleva que la curva de disociación de la hemoglobina fetal tienda a la izquierda?	Que el oxígeno se pega menos a la hemoglobina	Crecimiento&Desarrollo	EtapasAdaptación
+¿Qué cámaras cardiacas conecta el foramen oval?	AD y AI	Crecimiento&Desarrollo	EtapasAdaptación
+¿Hacia dónde tienden las gráficas de disociación de la hemoglobina fetal?	Hacia la izquierda	Crecimiento&Desarrollo	EtapasAdaptación
+¿En cuál periodo del desarrollo pulmonar se encuentra un bebe antes del nacimiento?	Periodo de sacos terminales	Crecimiento&Desarrollo	EtapasAdaptación
+¿Qué tipo de hormonas ayudan a la maduración pulmonar?	Glucocorticoides	Crecimiento&Desarrollo	EtapasAdaptación
+¿Cuánto se tarda en cerrar el DV?	Días después del nacimiento	Crecimiento&Desarrollo	EtapasAdaptación
+¿En cuál periodo los capilares se expanden hacia los sacos terminales?	Periodo de sacos terminales	Crecimiento&Desarrollo	EtapasAdaptación
+¿Dónde se almacena el factor surfactante?	Cuerpos laminares	Crecimiento&Desarrollo	EtapasAdaptación
+¿Factores que causan que el líquido pulmonar se reabsorba o se expulse:	Estrés hormonal por catecolaminas y corticoides, y estrés físico.	Crecimiento&Desarrollo	EtapasAdaptación
+¿Hormona que causa el parto	Cortisol	Crecimiento&Desarrollo	EtapasAdaptación
+¿Cuál periodo del desarrollo pulmonar se da en la vida extrauterina?	Periodo alveolar	Crecimiento&Desarrollo	EtapasAdaptación
+¿Semana en la que se empieza a producir factor surfactante	20	Crecimiento&Desarrollo	EtapasAdaptación
+¿En la circulación fetal, la disminución del flujo sanguíneo en dónde causa vasoconstricción?	Vena umbilical y conducto arterioso	Crecimiento&Desarrollo	EtapasAdaptación
+¿Cuándo se cierra el foramen oval?	En minutos después del parto	Crecimiento&Desarrollo	EtapasAdaptación
+¿Que se causa cuando el ducto arterioso no se cierra adecuadamente?	Soplos	Crecimiento&Desarrollo	EtapasAdaptación
+¿Estructuras que se cierran horas después del parto?	Ducto arterioso y arteria umbilical	Crecimiento&Desarrollo	EtapasAdaptación
+¿Entre que semanas se da el periodo Pseudoglandular?	Entre 5-16	Crecimiento&Desarrollo	EtapasAdaptación
+¿Que representan las curvas de presión/volumen?	Retroceso elástico del parénquima pulmonar	Crecimiento&Desarrollo	EtapasAdaptación
+¿Hormonas que propician la absorción de líquido pulmonar	Catecolamina	Crecimiento&Desarrollo	EtapasAdaptación
+¿Cuántas divisiones se dan desde la tráquea hasta los sacos alveolares?	23 aprox	Crecimiento&Desarrollo	EtapasAdaptación
+¿Efecto indirecto del estrógeno sobre el miometrio	Activa a los CAPs que aumentan la contractibilidad del miometrio para inducir el trabajo de parto.	Crecimiento&Desarrollo	EtapasAdaptación
+¿Orden en el cual los cortocircuitos se cierran?	Primero foramen oval, seguido por DA y arteria umbilical. La vena umbilical y el DV son los últimos en cerrarse.	Crecimiento&Desarrollo	EtapasAdaptación
+¿Cuántos periodos del desarrollo pulmonar hay?	Cuatro: pseudoglandular, canicular, de sacos terminales y alveolar	Crecimiento&Desarrollo	EtapasAdaptación
+¿Cuáles sustancias propician el cierre del ducto venoso?	Prostaglandinas y la detección de oxígeno en la circulación pulmonar	Crecimiento&Desarrollo	EtapasAdaptación
+¿Cuál ritmo deben de seguir las contracciones para que se considere que está en la fase activa del parto?	3 contracciones cada 10 minutos	Crecimiento&Desarrollo	EtapasAdaptación
+¿Efecto de las prostaglandinas sobre el cérvix	Lo ablandan	Crecimiento&Desarrollo	EtapasAdaptación
+¿Qué le hace el cortisol a la progesterona y al estrógeno?	Inhibe progesterona y activa estrógenos.	Crecimiento&Desarrollo	EtapasAdaptación
+¿Cuál célula produce el factor surfactante?	Neumocitos tipo 2	Crecimiento&Desarrollo	EtapasAdaptación
+¿Primer estimulante del factor surfactante:	Corticoides	Crecimiento&Desarrollo	EtapasAdaptación
+¿Que causa que haya mayor resistencia en la circulación pulmonar?	La presencia de líquido en los pulmones colapsa los alveolos, cuyos capilares se cierran debido a la vasoconstricción hipóxica. Si los capilares están colapsados la sangre no puede fluir, por lo que hay mayor resistencia.	Crecimiento&Desarrollo	EtapasAdaptación
+¿Factores que pueden afectar la producción de surfactante pulmonar:	Hormonas, pH, temperatura, perfusión, asfixia, hipotermia...	Crecimiento&Desarrollo	EtapasAdaptación
+¿Qué ocurre en el periodo canicular?	Desarrollo de bronquiolos respiratorios, así como de conductos alveolares	Crecimiento&Desarrollo	EtapasAdaptación
+¿Que son las curvas de presión volumen?	Representación gráfica del volumen pulmonar en una presión estática	Crecimiento&Desarrollo	EtapasAdaptación
+¿Función del surfactante pulmonar?	Evitar que el alveolo colapse por medio de mantener la tensión superficial	Crecimiento&Desarrollo	EtapasAdaptación
+¿Qué estructuras se han desarrollado en el periodo pseudoglandular	Bronquios terminales (NO bronquiolos ni alveolos respiratorios)	Crecimiento&Desarrollo	EtapasAdaptación
+¿En qué semanas ocurre el periodo Canicular?	16-26 semanas	Crecimiento&Desarrollo	EtapasAdaptación
+¿Que causa el cierre de la arteria umbilical y el conducto arterioso?	Aumento de la oxigenación	Crecimiento&Desarrollo	EtapasAdaptación
+¿Como es el desarrollo de las vías aéreas inferiores?	Dicotómico	Crecimiento&Desarrollo	EtapasAdaptación
+¿Cuánto peso se pierde después de nacer?	5-10%	Crecimiento&Desarrollo	EtapasAdaptación
+¿SatO2 de la sangre placentaria?	75%	Crecimiento&Desarrollo	EtapasAdaptación
+¿Cuál periodo corresponde a la vida entre los 0 y 28 días?	Neonato	Crecimiento&Desarrollo	EtapasAdaptación
+¿De quién es el material genético de la placenta?	Del bebé	Crecimiento&Desarrollo	EtapasAdaptación
+¿Diferencia entre crecimiento y desarrollo?	Crecimiento es aumento en el número y tamaño de las células del cuerpo. desarrollo es la adquisición y desarrollo de nuevas Funciones.	Crecimiento&Desarrollo	EtapasAdaptación
+¿Cuál periodo abarca entre los 6 y los doce años?	Escolares	Crecimiento&Desarrollo	EtapasAdaptación
+¿Promedio de longitud al nacer?	51cm	Crecimiento&Desarrollo	EtapasAdaptación
+¿Los lactantes en que rango de edad están?	Entre los 28 días y los dos años	Crecimiento&Desarrollo	EtapasAdaptación
+¿Hasta qué edad se consideran preescolares a los niños?	Hasta los seis.	Crecimiento&Desarrollo	EtapasAdaptación
+¿En cuál periodo de vida se tienen más conductas reflejas?	Recién Nacidos	Crecimiento&Desarrollo	EtapasAdaptación
+¿Circunferencia cefálica promedio al nacer?	35cm	Crecimiento&Desarrollo	EtapasAdaptación
+¿Promedio de longitud al año?	76 cm	Crecimiento&Desarrollo	EtapasAdaptación
+¿Cuánto dura una gestación normal?	Entre 37 y 42 semanas	Crecimiento&Desarrollo	EtapasAdaptación
+¿A qué edad empieza a sonreír a sus padres?	Dos meses	Crecimiento&Desarrollo	HitosDesarrollo
+¿En cuál periodo se empieza a desarrollar la preferencia por el uso de una mano?	En la etapa preescolar	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad un bebe empieza a hacer garabatos?	A los 18 meses	Crecimiento&Desarrollo	HitosDesarrollo
+¿En cuál periodo se desarrolla la permanencia del objeto?	En la lactancia	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad es signo de alarma que no caminen por si solos?	A los 18 meses	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad un bebe empieza a hablar	Al año	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad un bebe empieza a sonreír espontáneamente?	Cuatro meses	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad un bebe es capaz de escuchar cuentos con atención?	Al año	Crecimiento&Desarrollo	HitosDesarrollo
+¿Prueba que solamente mide la respiración?	Escala de Silverman	Crecimiento&Desarrollo	HitosDesarrollo
+¿Qué es el reflejo de Moro?	Expandir extremidades cuando siente que se cae	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad un bebe empieza a agarrar cosas con índice y pulgar?	Nueve meses	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad se empieza a levantar con sus codos?	Cuatro meses	Crecimiento&Desarrollo	HitosDesarrollo
+¿En cuál periodo del crecimiento surge la rivalidad entre hermanos?	Etapa escolar	Crecimiento&Desarrollo	HitosDesarrollo
+¿Que mide la prueba de Apgar?	La apariencia, el pulso, el tono, la actividad y la respiración?	Crecimiento&Desarrollo	HitosDesarrollo
+¿Qué hitos del desarrollo motriz grueso debe de tener a los dos meses?	Mover cabeza, brazos y piernas	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad empieza a desarrollar la empatía?	A los dos años	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad un bebe empieza a señalar objetos?	A los nueve meses	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad es un signo de alarma no responder a ruidos fuertes ni seguir cosas con la mirada?	Entre los dos y cuatro meses	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad puede seguir reglas?	A los 5 años	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad puede jugar en cooperación con otros niños?	A los cuatro años	Crecimiento&Desarrollo	HitosDesarrollo
+¿En cuál periodo empieza a desaparecer los reflejos?	En los lactantes	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad un bebe entiende el concepto de propiedad?	A los tres años	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad un bebe empieza a usar vocales?	A los seis meses	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad un bebé empieza a imitar algunos movimientos?	Cuatro meses	Crecimiento&Desarrollo	HitosDesarrollo
+¿Cuáles son los hitos del desarrollo a los cuatro meses de edad en la esfera del lenguaje?	Balbucear, imitar algunos sonidos y llorar de diferentes maneras	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad empieza a responder a su nombre?	Seis meses	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad un bebe empieza a girarse boca arriba y abajo	A los seis meses	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad puede contar historias sencillas?	A los cinco años	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad puede ir al baño solo?	A los cinco años	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad un bebe se empieza a sentar?	Seis meses	Crecimiento&Desarrollo	HitosDesarrollo
+¿Menciona hitos motrices finos de un bebe de 18 meses	Hacer garabatos en papel, comer con cuchara, beber de una taza.	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad es signo de alarma no gatear ni decir mamá/papá	Al año	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad se puede separar sin problemas de sus padres?	A los tres años	Crecimiento&Desarrollo	HitosDesarrollo
+¿Cuándo perder habilidades es un signo de alarma?	SIEMPRE	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad un bebe empieza a gatear?	Nueve meses	Crecimiento&Desarrollo	HitosDesarrollo
+¿Menciona hitos del desarrollo del lenguaje a los tres años	Expresa sus emociones, demuestra afecto esporádicamente, habla con 2-3 oraciones, sabe quién es	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad puede distinguir la fantasía de la realidad?	A los cinco años	Crecimiento&Desarrollo	HitosDesarrollo
+¿Signos de alarma a los seis meses?	No agarrar cosas, no reaccionar a sonidos, no sonreír, no girarse, no emitir sonidos, no demostrar afecto	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad un bebe empieza a sostener juguetes?	Cuatro meses	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad un bebé empieza responder al afecto?	Cuatro Meses	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad un bebe puede dibujar círculos y líneas?	A los dos años	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad un bebe puede decir palabras sueltas?	A los 18 meses	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad puede usar gramática básica?	A los cuatro años	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad un bebe se empieza a pasar cosas de una mano a otra?	A los seis meses	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad un bebe empieza a levantar su cabeza?	Cuatro Meses	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad un bebe empieza a ponerse de pie?	Al año	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad un niño puede copiar algunos números y letras?	A los cuatro años	Crecimiento&Desarrollo	HitosDesarrollo
+¿Entre que meses un bebe prefiere notablemente a sus cuidadores?	Entre los 6 y los 9 meses	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad un bebe es capaz de calmarse por breves momentos?	Dos meses	Crecimiento&Desarrollo	HitosDesarrollo
+¿A qué edad puede un bebe esperar turnos?	A los tres años	Crecimiento&Desarrollo	HitosDesarrollo
+¿Dónde actúa la FSH en el hombre?	Células de Sertoli	Crecimiento&Desarrollo	Pubertad
+¿Como se llama a la primera menstruación?	Menarca	Crecimiento&Desarrollo	Pubertad
+¿En el desarrollo puberal de las mujeres, que es lo primero que ocurre acorde a la escala de Tanner?	Telarca	Crecimiento&Desarrollo	Pubertad
+¿Hormonas de la adenohipófisis que estimulan la liberación de hormonas sexuales y la producción de gametos	Luteinizante y Foliculoestimulante	Crecimiento&Desarrollo	Pubertad
+¿En qué fases de la escala de Tanner ocurre la menarca?	04-may	Crecimiento&Desarrollo	Pubertad
+¿Como se llama al crecimiento del vello púbico?	Pubarca	Crecimiento&Desarrollo	Pubertad
+¿Qué hormona actúa sobre las células de Leydig y cuál es su efecto?	LH para la producción de testosterona	Crecimiento&Desarrollo	Pubertad
+¿Genes relacionados con el inicio de la pubertad?	Kiss1, TAC3 y Dyn	Crecimiento&Desarrollo	Pubertad
+¿Qué es la Telarca?	Inicio del desarrollo de glandular mamarias	Crecimiento&Desarrollo	Pubertad
+¿Genes asociados a la pubertad que son activadores?	Kiss1 y TAC3	Crecimiento&Desarrollo	Pubertad
+¿Cuál es el volumen que los testículos deben de alcanzar para que un hombre entre en la pubertad?	3ml	Crecimiento&Desarrollo	Pubertad
+¿A qué edad se considera un inicio precoz de la pubertad?	&lt;8años	Crecimiento&Desarrollo	Pubertad
+¿Como se llama al crecimiento y engrosamiento del vello púbico por acción de hormonas sexuales?	Adrenarca	Crecimiento&Desarrollo	Pubertad
+¿Factores que influyen en el desarrollo puberal?	Disruptores endocrinos, medio ambiente (especialmente la luz), herencia y nutrición.	Crecimiento&Desarrollo	Pubertad
+¿Qué es Gonadarca?	Crecimiento de las gónadas (testículos)	Crecimiento&Desarrollo	Pubertad

@@ -1,0 +1,188 @@
+¿Cuáles son los segmentos de los túbulos más permeables al agua y por qué?	TCP y rama descendente del asa de Henle por las acuaporinas 1	Morfo	FunciónTubular
+¿Mecanismo por el cual se reabsorbe la glucosa y aminoácidos?	bombas sodio/potasio	MorfoRenal	FunciónTubular
+¿Segmento del asa de Henle que es permeable al agua?	Segmento descendente	MorfoRenal	FunciónTubular
+¿Permeabilidad del TCD?	Impermeable al agua	MorfoRenal	FunciónTubular
+¿Acuaporina en el túbulo colector?	acuaporina 2	MorfoRenal	FunciónTubular
+¿Segmento del asa de Henle que es impermeable al agua?	Ascendente delgado	MorfoRenal	FunciónTubular
+¿Ubicación de los riñones respecto a la columna vertebral	t12-L3	MorfoRenal	AnatoMacroRenal
+¿Hormonas producidas por los riñones?	renina, calcitriol y eritropoyetina	MorfoRenal	AnatoMacroRenal
+¿Cuál riñon esta más abajo y por qué?	El derecho por el hígado	MorfoRenal	AnatoMacroRenal
+¿Porcentaje de sangre que reciben los riñones?	20-25% del gasto cardiaco	MorfoRenal	AnatoMacroRenal
+¿De dentro hacia afuera, cuáles son las tres capas de los riñones?	capsula renal profunda, capsula adiposa y fascia renal	MorfoRenal	AnatoMacroRenal
+¿Cuál es la unidad Funcional de los riñones?	Nefrona	MorfoRenal	AnatoMacroRenal
+¿En cuales regiones se dividen internamente los riñones?	Corteza y medula	MorfoRenal	AnatoMacroRenal
+¿Dimensiones de los riñones?	10-12cm largo, 5-7cm ancho, 3 grosor	MorfoRenal	AnatoMacroRenal
+¿Como se encuentran los riñones respecto al peritoneo?	Retroperitoneales	MorfoRenal	AnatoMacroRenal
+¿Cuál capa de los riñones los sujeta a su lugar en la cavidad abdominal?	Fascia renal	MorfoRenal	AnatoMacroRenal
+¿Cuál capa de los riñones continua por los uréteres?	capsula renal profunda	MorfoRenal	AnatoMacroRenal
+¿Cuántas pirámides renales puede haber en un riñon?	ago-18	MorfoRenal	AnatoMacroRenal
+¿Cuál es el parénquima renal?	Pirámides renales	MorfoRenal	AnatoMacroRenal
+¿Algunas Funciones de los riñones son: r	Regulación de la composición iónica, del pH, volemia, osmolaridad, TA, producción hormonal, regulación de la glucemia, excreción de desechos y sustancias extrañas	MorfoRenal	AnatoMacroRenal
+¿Cuál capa de los riñones está formada por pirámides?	Medula	MorfoRenal	AnatoMacroRenal
+¿Estructuras que se unen para formar conductos papilares?	Túbulos colectores	MorfoRenal	AnatoMicroRenal
+¿En cuales secciones se divide una nefrona?	corpúsculo y túbulo renal	MorfoRenal	AnatoMicroRenal
+¿Cuál túbulo renal tiene epitelio cubico simple con borde de cepillo?	TCP	MorfoRenal	AnatoMicroRenal
+¿Porcentaje de nefronas corticales?	80-85%	MorfoRenal	AnatoMicroRenal
+¿En cuál parte del corpúsculo se filtra el líquido?	capsula de Bowman	MorfoRenal	AnatoMicroRenal
+¿Tipo de nefronas con asas de Henle considerablemente largas:	Nefronas yuxtamedulares	MorfoRenal	AnatoMicroRenal
+¿Tipo de nefronas que tienen un asa de Henle gruesa y una delgada?	Yuxtamedulares	MorfoRenal	AnatoMicroRenal
+¿Cuál tipo de nefrona se especializa en producir orina concentrada?	Nefronas Yuxtamedulares.	MorfoRenal	AnatoMicroRenal
+¿En cuantas secciones se divide el túbulo renal?	Tres: TCP, asa de Henle y TCD	MorfoRenal	AnatoMicroRenal
+¿Como son las tasas de Henle de las nefronas corticales?	Cortas	MorfoRenal	AnatoMicroRenal
+¿Cuáles son las tres actividades esenciales que realizan los riñones?	Filtración glomerular, reabsorción tubular y secreción tubular.	MorfoRenal	AnatoMicroRenal
+¿Par de riñones existentes en el nacimiento?	Metanefros	MorfoRenal	AnatoMacroRenal
+¿Par de riñones que desaparecen en su totalidad durante la octava semana?	Mesonefros	MorfoRenal	AnatoMacroRenal
+¿A qué edad los riñones empiezan a producir orina?	tres meses de gestación	MorfoRenal	AnatoMacroRenal
+¿En qué semana de gestación se empiezan a diferenciar los riñones?	3ra semana	MorfoRenal	AnatoMacroRenal
+¿Durante cual semana se forma el esbozo ureteral?	quinta semana	MorfoRenal	AnatoMacroRenal
+¿Cuáles son los primeros riñones en formarse?	Pronefros	MorfoRenal	AnatoMacroRenal
+¿De cual par de riñones se forman las nefronas?	Metanefros	MorfoRenal	AnatoMacroRenal
+¿Cuántos pares de riñones se forman?	3: pronefros, mesonefros, metanefros	MorfoRenal	AnatoMacroRenal
+¿En qué semana desaparecen los pronefros?	sexta semana	MorfoRenal	AnatoMacroRenal
+¿Vías de entrada a la célula del agua?	Transcelular y paracelular	MorfoRenal	FunciónTubular
+¿Cuáles iones se reabsorben en el TCD?	Sodio y cloro, y calcio cuando hay parathormona	MorfoRenal	FunciónTubular
+¿Que causa la angiotensina 2?	Aumenta reabsorción de sodio	MorfoRenal	FunciónTubular
+¿Cuál es el transporte máximo de la glucosa?	200mg/min	MorfoRenal	FunciónTubular
+¿Porcentaje de agua absorbido por las acuaporinas 1?	90%	MorfoRenal	FunciónTubular
+¿Porcentaje de agua reabsorbido por las acuaporinas 2?	10%	MorfoRenal	FunciónTubular
+¿Dónde actúa la parathormona?	TCD y TC	MorfoRenal	FunciónTubular
+¿Cuál ion es secretado en el TCP?	Hidrogeno por intercambio con bicarbonato	MorfoRenal	FunciónTubular
+¿A que sustancias esta acoplada la reabsorción de agua en el TCP?	Sodio y urea	MorfoRenal	FunciónTubular
+¿Porcentaje de potasio absorbido en el TCP?	70%	MorfoRenal	FunciónTubular
+¿Velocidad de flujo en el TCP?	80ml/min	MorfoRenal	FunciónTubular
+¿En cuál porción del TCP se hace la absorción de cloro?	Distal	MorfoRenal	FunciónTubular
+¿Mecanismos de absorción de sodio en el TCP?	Bombas Na/K, intercambiadores sodio/protón de bicarbonato y por medio de las acuaporinas 1	MorfoRenal	FunciónTubular
+¿Sustancia que es absorbida junto al agua por las acuaporinas 1?	Sodio	MorfoRenal	FunciónTubular
+¿Función de RDAH?	Concentrar la orina	MorfoRenal	FunciónTubular
+¿Cantidad de agua absorbida en RDAH?	15-20%	MorfoRenal	FunciónTubular
+¿En cuál porción de la nefrona se secreta hidrógeno?	en TCP y TC	MorfoRenal	FunciónTubular
+¿Permeabilidad a iones en la rama descendente del asa de Henle?	Impermeable	MorfoRenal	FunciónTubular
+¿Secciones de la nefrona que disminuyen la osmolaridad del líquido filtrado?	Ramas ascendentes delgadas y gruesa del asa de Henle	MorfoRenal	FunciónTubular
+¿En los túbulos de la nefrona, donde se absorbe más sodio?	TCP	MorfoRenal	FunciónTubular
+¿Porción del túbulo renal donde se sintetiza amoniaco?	TC	MorfoRenal	FunciónTubular
+¿En dónde se reabsorbe calcio por acción de PTH?	TCD y TC	MorfoRenal	FunciónTubular
+¿Como es la concentración de sodio en el túbulo renal?	Constante, e igual a la del agua	MorfoRenal	FunciónTubular
+¿Tipo de transportador que absorbe calcio y magnesio en la RAGAH?	ROMK	MorfoRenal	FunciónTubular
+¿Velocidad de flujo del líquido en RDAH?	40-45ml/min	MorfoRenal	FunciónTubular
+¿Iones absorbidos por transportadores de triple ion?	Sodio, potasio y dos cloros (Na/K/2Cl)	MorfoRenal	FunciónTubular
+¿Ion secretado en RAGAH usado para generar una gradiente electroquímica para absorber Ca y Mg?	Potasio	MorfoRenal	FunciónTubular
+¿Función del TCP?	Absorber sustancias importantes, secreción de H por intercambio de bicarbonatos	MorfoRenal	FunciónTubular
+¿Mecanismo por el cual se absorbe cloro en el TCP?	Intercambiador Na/Cl	MorfoRenal	FunciónTubular
+¿Porcentaje de agua absorbido en el TCD?	10-15%	MorfoRenal	FunciónTubular
+¿Dónde hay transportadores triples en la parte tubular de la nefrona?	RAGAH	MorfoRenal	FunciónTubular
+¿Qué tanto puede llegar la osmolaridad de la orina en RDAH?	1200%	MorfoRenal	FunciónTubular
+¿Qué parte del túbulo renal es impermeable al fosfato?	Toda el asa de Henle	MorfoRenal	FunciónTubular
+¿Porción de los túbulos de la nefrona donde más iones se absorben?	TCP	MorfoRenal	FunciónTubular
+¿Dónde se da la mayor absorción de calcio?	TCP	MorfoRenal	FunciónTubular
+¿Cuáles acuaporinas están en el TCD?	AQ2	MorfoRenal	FunciónTubular
+¿Túbulo que absorbe 70% de agua por medio de las acuaporinas 1?	TCP	MorfoRenal	FunciónTubular
+¿Dónde se da la mayoría de la absorción del magnesio?	RAGAH	MorfoRenal	FunciónTubular
+¿Secciones de la nefrona que son impermeables al agua?	Ramas ascendentes delgada y gruesa del asa de Henle	MorfoRenal	FunciónTubular
+¿Porcentaje de glucosa y a.a absorbidos?	100%	MorfoRenal	FunciónTubular
+¿Porcentaje en el cual se reabsorbe el sodio y el cloro?	60%	MorfoRenal	FunciónTubular
+¿Función del borde de cepillo?	Aumentar la superficie de contacto	MorfoRenal	FunciónTubular
+¿Mecanismo por el cual se da principalmente la reabsorción?	Bombas Na/K	MorfoRenal	FunciónTubular
+¿Cuál es el ion que menos se reabsorbe?	Magnesio (30%)	MorfoRenal	FunciónTubular
+¿Cuál túbulo contorneado absorbe más que los otros túbulos?	TCP	MorfoRenal	FunciónTubular
+¿Dónde se activa la vitamina D?	TCP	MorfoRenal	FunciónTubular
+¿Hormonas estimuladas por angiotensina II?	Aldosterona y ADH	MorfoRenal	HormonasRenales
+¿Función de la ADH?	Aumenta permeabilidad del agua en TCD y TC	MorfoRenal	HormonasRenales
+¿Hormona que inhibe la reabsorción de fosfato?	PTH	MorfoRenal	HormonasRenales
+¿Hormona que activa la conversión de angiotensinógeno en angiotensina?	Renina	MorfoRenal	HormonasRenales
+¿Como aumenta la ADH la permeabilidad del agua?	Aumenta la expresión de acuaporinas 2	MorfoRenal	HormonasRenales
+¿Cómo actúa la aldosterona?	Aumenta la permeabilidad del sodio en TC	MorfoRenal	HormonasRenales
+¿La absorción de cuales iones aumenta por angiotensina II?	Na y Cl	MorfoRenal	HormonasRenales
+¿Desde donde se libera la aldosterona?	Corteza suprarrenal	MorfoRenal	HormonasRenales
+¿Desde donde se libera la vasopresina?	Neuroadenohipófisis	MorfoRenal	HormonasRenales
+¿Desde donde se libera la parathormona?	Glándulas paratiroideas	MorfoRenal	HormonasRenales
+¿Efecto directo de la angiotensina II?	Vasoconstricción en arterias aferentes y eferentes	MorfoRenal	HormonasRenales
+¿Estimulo que causa la liberación del NAP?	Distención en las aurículas	MorfoRenal	HormonasRenales
+¿Estimulo que causa la liberación de Parathormona?	Niveles bajos de calcio en el cuerpo	MorfoRenal	HormonasRenales
+¿Función de la aldosterona?	Aumentar la reabsorción de Na y de K	MorfoRenal	HormonasRenales
+¿Estímulos que causan la liberación de aldosterona?	Concentraciones elevadas de potasio y presencia de angiotensina II	MorfoRenal	HormonasRenales
+¿Efecto de la angiotensina II en el cuerpo?	Aumento de la TFG	MorfoRenal	HormonasRenales
+¿Efectos del NAP?	Vasodilatación de AA y constricción de AE, aumenta la excreción de sodio. Disminuye la volemia y la TA	MorfoRenal	HormonasRenales
+¿Estimulo que causa producción de angiotensina II?	Cuando la volemia y la TA disminuyen	MorfoRenal	HormonasRenales
+¿Dónde se sintetizan los precursores de la angiotensina II?	Angiotensinógeno en hígado y angiotensina I en pulmones	MorfoRenal	HormonasRenales
+¿Hormona que estimula la reabsorción de calcio?	PTH	MorfoRenal	HormonasRenales
+¿Porcentaje del líquido que es extracelular?	un tercio	MorfoRenal	Líquidos
+¿Porcentaje del líquido extracelular que es plasma sanguíneo?	20%	MorfoRenal	Líquidos
+¿Cuánta agua produce el metabolismo al día?	200ml	MorfoRenal	Líquidos
+¿Porcentaje del líquido extracelular que no es plasma?	80%	MorfoRenal	Líquidos
+¿% del cuerpo que es liquido?	60-55%	MorfoRenal	Líquidos
+¿Al llegar a cuál estructura la concentración de la orina es aproximadamente 4 veces menor a del plasma?	Pelvis Renal	MorfoRenal	Micción
+¿A cuanta capacidad de la vejiga se da el reflejo de la micción?	200-400ml	MorfoRenal	Micción
+¿Capacidad promedio de la vejiga?	700-800ml	MorfoRenal	Micción
+¿En qué se apoyan los uréteres para dirigir la orina desde la pelvis renal hacia la vejiga?	Peristalsis de los uréteres, gravedad y presión hidrostática	MorfoRenal	Micción
+¿Longitud de la uretra?	4cm en mujeres y 20cm en hombres	MorfoRenal	Micción
+¿Capa de los uréteres que los fija a su lugar?	Adventicia	MorfoRenal	Micción
+¿En el hombre, donde está el esfínter uretral externo?	Uretra prostática	MorfoRenal	Micción
+¿Longitud de los uréteres?	25-30cm	MorfoRenal	Micción
+¿Dónde está el centro de la micción?	S2 y S3	MorfoRenal	Micción
+¿Osmolaridad de la orina diluida?	mOsm/L	MorfoRenal	Micción
+¿Como se llama el músculo de la vejiga que la comprime para vaciarla?	Músculo Detrusor	MorfoRenal	Micción
+¿Tipo de células en los uréteres que secretan moco?	Calciformes	MorfoRenal	Micción
+¿Qué forma al esfínter fisiológico entre los uréteres y la vejiga?	Músculos ureterales y la gravedad.	MorfoRenal	Micción
+¿Posición de los uréteres respecto al peritoneo?	retroperitoneales	MorfoRenal	Micción
+¿Orden de los túbulos por el cual viaja la orina?	Túbulos colectores, Calices menores, calices mayores, pelvis renal, uréteres, vejiga y uretra	MorfoRenal	Micción
+¿Cuál músculo forma al esfínter anatómico entre los uréteres y la vejiga?	PCT, solo es fisiológico	MorfoRenal	Micción
+¿En dónde se lleva a cabo la filtración glomerular?	en el glomérulo	MorfoRenal	FunciónTubular
+¿Si la presión hidrostática cae de cual valor la filtración se detiene?	45mmHg	MorfoRenal	FunciónTubular
+¿Capa acelular de los capilares endoteliales?	Lamina basal	MorfoRenal	FunciónTubular
+¿Qué es la tasa de filtrado glomerular?	Cantidad de líquido filtrado en ambos riñones por minuto	MorfoRenal	FunciónTubular
+¿Como debe de estar la TFG si se quedan productos de desecho en la sangre?	Mas baja de lo normal	MorfoRenal	FunciónTubular
+¿Cuánto es la presión neta de filtrado?	10mmHg	MorfoRenal	FunciónTubular
+¿Presión de los capilares glomerulares que promueve la filtración?	Presión hidrostática en el capilar glomerular	MorfoRenal	FunciónTubular
+¿Valor aproximado de la PHCG?	55mmHg	MorfoRenal	FunciónTubular
+¿Capa de los capilares glomerulares que permite el paso de moléculas muy pequeñas como agua, glucosa, iones y a.a?	Hendiduras de filtración	MorfoRenal	FunciónTubular
+¿Cuál capa de los capilares glomerulares está en contacto directo con la sangre?	Células endoteliales	MorfoRenal	FunciónTubular
+¿Ley de la física que permite el filtrado glomerular?	Ley de Starling	MorfoRenal	FunciónTubular
+¿Moléculas repelidas por la lámina basal?	Proteínas plasmáticas y moléculas con carga negativa	MorfoRenal	FunciónTubular
+¿Espacio entre los pedicelos de un podocito?	Hendiduras de filtración	MorfoRenal	FunciónTubular
+¿Carga eléctrica de la lámina basal?	Negativa	MorfoRenal	FunciónTubular
+¿Tipo de células que regulan la filtración por medio del control de la superficie de filtrado?	Células mesangiales	MorfoRenal	FunciónTubular
+¿Cuáles son las tres presiones que permiten la filtración glomerular?	Presión Hidrostática de la sangre, presión hidrostática capsular y presión oncótica	MorfoRenal	FunciónTubular
+¿Presión que ejerce el líquido presente dentro del espacio capsular?	Presión hidrostática capsular PHC	MorfoRenal	FunciónTubular
+¿Porcentaje de agua y de solutos reabsorbidos durante la reabsorción tubular?	99%	MorfoRenal	FunciónTubular
+¿Cuáles son los dos mecanismos de autorregulación renal?	Miogénica y retroalimentación tubular	MorfoRenal	FunciónTubular
+¿Cuánto es la fracción de filtrado?	16-20%	MorfoRenal	FunciónTubular
+¿Valor de la TFG?	125ml/min en hombres y 105ml/min en mujeres	MorfoRenal	FunciónTubular
+¿Cuáles son las presiones que se oponen al filtrado?	PCOS y PHC	MorfoRenal	FunciónTubular
+¿Cuál es la presión que ejerce la sangre sobre los capilares?	Presión hidrostática en el capilar glomerular PHCG	MorfoRenal	FunciónTubular
+¿Qué ocurre si la TFG es muy alta?	Se eliminan sustancias necesarias al organismo porque no se alcanzan a reabsorber	MorfoRenal	FunciónTubular
+¿Capa de los capilares glomerulares que permiten el paso de solutos pero NO de células sanguíneas?	Células endoteliales	MorfoRenal	FunciónTubular
+¿Cuál es el valor de la presión coloidosmótica sanguínea (PCOS)?	30mmHg	MorfoRenal	FunciónTubular
+¿Qué es la fracción de filtrado?	Fracción del plasma sanguíneo que se convierte en filtrado	MorfoRenal	FunciónTubular
+¿Cuál presión tiene un valor de 15mmHg?	Presión Hidrostática capsular	MorfoRenal	FunciónTubular
+¿Cuánto es el filtrado glomerular?	150L en mujeres y 180L en hombres	MorfoRenal	FunciónTubular
+¿Porcentaje del filtrado glomerular que regresa a la sangre?	99%	MorfoRenal	FunciónTubular
+¿Cuál presión se da por la presencia de proteínas y otros solutos en la sangre?	Presión coloidosmótica sanguínea PCOS	MorfoRenal	FunciónTubular
+¿Cuáles son las capas que los capilares glomerulares tienen para realizar la filtración?	Células endoteliales, Lamina Basal y Hendiduras de filtración	MorfoRenal	FunciónTubular
+¿Qué es el ultrafiltrado?	Liquido filtrado libre de proteínas sanguíneas	MorfoRenal	FunciónTubular
+¿Que causa el NAP en los capilares?	Aumento de la superficie capilar	MorfoRenal	FunciónTubular
+¿Qué le ocurre a la TFG cuando el flujo sanguíneo aumenta?	También aumenta	MorfoRenal	FunciónTubular
+¿En dónde se da la vasoconstricción causada por el aumento de flujo sanguíneo?	Arteria Aferente	MorfoRenal	FunciónTubular
+¿Tipo de estimulación neural que regula la TFG?	Simpática	MorfoRenal	FunciónTubular
+¿Cuáles células tienen mecanorreceptores para detectar la caída de la TA?	Yuxtaglomerulares	MorfoRenal	FunciónTubular
+¿Iones detectados por los quimiorreceptores de la macula densa?	Na, Cl	MorfoRenal	FunciónTubular
+¿Respecto a los mecanismos de autorregulación tubular, donde actúan los vasodilatadores?	En la arteria aferente	MorfoRenal	FunciónTubular
+¿Mecanismo de autorregulación rápido?	Regulación miogénica	MorfoRenal	FunciónTubular
+¿Dónde se libera el NAP?	Atrio derecho	MorfoRenal	FunciónTubular
+¿Hormona que convierte angiotensina 1 a 2?	Renina	MorfoRenal	FunciónTubular
+¿Cuáles hormonas están involucradas en la regulación hormonal de la TFG?	Angiotensina II y Péptido Natriurético Atrial	MorfoRenal	FunciónTubular
+¿Vasodilatador inhibido por la macula densa cuando detecta el aumento de TA?	NO	MorfoRenal	FunciónTubular
+¿Principal neurotransmisor para la regulación de la TFG?	Noradrenalina	MorfoRenal	FunciónTubular
+¿En dónde actúa la noradrenalina durante la regulación nerviosa de la TFG?	Arterias aferentes por receptores A1	MorfoRenal	FunciónTubular
+¿En dónde se encuentran más las células de la macula densa?	TCD	MorfoRenal	FunciónTubular
+¿Hormona involucrada en la regulación de la TFG que relaja a las células mesangiales?	NAP	MorfoRenal	FunciónTubular
+¿Cuál de los mecanismos de regulación renal aumentan la TFG?	Solo el NAP	MorfoRenal	FunciónTubular
+¿Efecto de la angiotensina II?	Disminución de la TFG por medio de la contracción de las arterias Aferentes y Eferentes para disminuir el flujo (más eferente)	MorfoRenal	FunciónTubular
+¿Función de las células de la mácula densa?	Detectar cambios en los niveles de sodio y de la presión arterial	MorfoRenal	FunciónTubular
+¿Dónde se activa la angiotensina I?	Pulmones	MorfoRenal	FunciónTubular
+¿Dónde se encuentran las células la mácula densa?	Túbulo colector distal	MorfoRenal	FunciónTubular
+¿Cuál sustancia secretan las células yuxtaglomerulares?	Renina	MorfoRenal	FunciónTubular
+¿Función de la renina?	Catalizar la conversión de angiotensinógeno en angiotensina 1	MorfoRenal	FunciónTubular
+¿Qué estimulo detectado por las células de la macula densa causa la secreción de renina?	Bajos niveles de sodio, presión baja, volemia baja.	MorfoRenal	FunciónTubular
+¿Función de la ECA?	Convertir angiotensina I en angiotensina II.	MorfoRenal	FunciónTubular
+¿Dónde actúa la angiotensina para estimular la secreción de ADH?	Neurohipófisis	MorfoRenal	FunciónTubular
+¿Componentes del aparato yuxtaglomerular?	Células yuxtaglomerulares y células de la mácula densa	MorfoRenal	FunciónTubular

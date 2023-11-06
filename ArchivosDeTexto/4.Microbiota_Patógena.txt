@@ -1,0 +1,355 @@
+Que es la infección?	presencia y multiplicación de un organismo dentro de un hospedero, traducido como signos y síntomas de los daños causados. 	MicroPatógena Generalidades
+Que es la patogenicidad?	Son los mecanismos bioquímicos por los cuales se causa una enfermedad	MicroPatógena Generalidades
+Qué es la virulencia?	Grado de patogenicidad de un agente, indicado por su tasa de letalidad y capacidad de invasión y de lesión. 	MicroPatógena Generalidades
+Cuáles son los factores de la patogénesis dependiente del del microorganismo?	Adherencia, multiplicación, diseminación, capacidad para evadir RI. 	MicroPatógena Generalidades
+Único tipo de bacterias que tienen esteroles en su membrana celular?	Micoplasmas. 	MicroPatógena Generalidades
+Principales tipos de microscopía?	Campo claro, oscuro, contraste de fases, fluorescencia, electrónica. 	MicroPatógena Generalidades
+Tipo de microscopia donde la luz atraviesa la muestra?	Campo claro	MicroPatógena Generalidades
+Principales limitaciones de la microscopía de campo claro?	Resolución limitada, muestras tienen que teñirse. 	MicroPatógena Generalidades
+Función de las muestras de campo oscuro?	Resolución 0.02 micrómetros, para detección de bacterias delgadas. 	MicroPatógena Generalidades
+Principal limitación de la microscopia de campo oscuro?	no se puede ver las estructuras internas	MicroPatógena Generalidades
+Función principal de la microscopia de contraste de fase?	Analizar detalles internos de microorganismos	MicroPatógena Generalidades
+Función de la microscopia electrónica?	Visión de partículas víricas individuales. 	MicroPatógena Generalidades
+Tipo de bacterias que no se tiñen con tinción de Gram?	Micobacterias y micoplasmas	MicroPatógena Generalidades
+Función de la tinción de tinta china?	Detección de organismos con cápsulas. 	MicroPatógena Generalidades
+Qué es un cultivo selectivo?	Aquellos que tienen elementos que facilitan el crecimiento de algunas bacterias mientras inhiben el crecimiento de otras. 	MicroPatógena Generalidades
+Ejemplos de cultivos selectivos?	Caldo de selenito para salmonela, yema de huevo para C.perfringens. 	MicroPatógena Generalidades
+Función de los cultivos selectivos?	Recuperación de organismos específicos de una mezcla de gérmenes. 	MicroPatógena Generalidades
+Que es un cultivo selectivo no enriquecido?	Permiten crecimiento de la mayoría de los organismos que no necesitan condiciones especiales. 	MicroPatógena Generalidades
+Función de MacConkey?	Selectivo de Gram- que distingue fermentadoras de lactosa	MicroPatógena Generalidades
+Función de sal-manitol?	aislamiento de estafilococos	MicroPatógena Generalidades
+Función de Xilosa-Lisina-Desoxicolato: detección de salmonella y Shigella		MicroPatógena Generalidades
+Función de Lowenstein-Jesen?	Micobacterias, inhibe G+	MicroPatógena Generalidades
+Función de Middlebrock?	Aislamiento de micobacterias	MicroPatógena Generalidades
+Función de CHROMagar?	Identificación de S.aureus	MicroPatógena Generalidades
+Que hace el diagnóstico de polimorfismos de longitud de fragmentos de restricción?	Distinción de cepas a partir de movilidad electroforética de fragmentos de ADN.	MicroPatógena Generalidades
+Prueba diagnóstico para infecciones de VIH?	Western Blot	MicroPatógena Generalidades
+Cuáles son las bacterias oportunistas?	Aquellas que toman ventajas de condiciones preexistentes para crecer y causar daños. 	MicroPatógena Bacterias
+Qué reconoce al lípido A?	TLR-4	MicroPatógena Bacterias
+Como se adhiere la E.coli?	Fimbria P	MicroPatógena Bacterias
+Qué usan los estreptococos para la adhesión?	MSCRAMM	MicroPatógena Bacterias
+Bacterias intracelulares que estimulan las proteinas M para adentrarse en la célula?	Salmonella y Yersinia	MicroPatógena Bacterias
+Cuál es el principal mecanismo de adhesión de los S.aureus?	Clumping factor A	MicroPatógena Bacterias
+A que se une el clumping factor A de los S.aureus?	Fibrinógeno	MicroPatógena Bacterias
+A que se une el MSCRAMM?	Componentes de la matriz extracelular	MicroPatógena Bacterias
+Cuál adhesina usan los V. cholerae para la adhesión?	Pili tipo 4	MicroPatógena Bacterias
+A que se adhieren los pili-4 de V. cholerae?	Fucosa y manosa	MicroPatógena Bacterias
+Que hacen los superantígenos?	Causan una activación excesiva del sistema inmune, causando una reacción similar a una autoinmune. 	MicroPatógena Bacterias
+Tipo de toxinas que son integrales las bacterias?	Endotoxinas	MicroPatógena Bacterias
+Interleucina que induce la fiebre?	IL-1	MicroPatógena Bacterias
+Clasificación de bacterias que secretan exotoxinas?	Gram+ y - pueden hacerlo	MicroPatógena Bacterias
+Tipo de toxinas que pueden generar la creación de antitoxinas?	Exotoxinas	MicroPatógena Bacterias
+Subunidad de las exotoxinas que entra a la célula para generar la toxicidad?	A	MicroPatógena Bacterias
+Principales blancos bioquímicos de las toxinas?	Ribosomas, mecanismos de transporte y señalización celular	MicroPatógena Bacterias
+Qué inhibe la toxina de la difteria?	Elongación de EF-2, inactiva adenosina que inhibe la síntesis de proteinas	MicroPatógena Bacterias
+A donde se une la tetanoespamina?	Membranas presináptica de neuronas motoras	MicroPatógena Bacterias
+Donde actúa la tetanoespamina?	Terminales de células inhibidoras	MicroPatógena Bacterias
+Como causa daño la tetanoespamina?	Bloquea la liberación de GABA y glicina, impidiendo la inhibición de celulas motoras traducida como parálisis espástica	MicroPatógena Bacterias
+Qué bloquea la toxina botulínica?	secreción de acetilcolina en neuronas motoras	MicroPatógena Bacterias
+Efecto de la toxina botulínica?	Falta de contracción muscular y parálisis flácida	MicroPatógena Bacterias
+A donde se une la TSST-1 de S.aureus?	MHC-II y receptores de células T	MicroPatógena Bacterias
+Qué genera la TSST-1 de S.aureus?	Producción de IL-2, INF, TNF (fiebre, exantema, shock)	MicroPatógena Bacterias
+Tipo de bacterias que producen endotoxinas?	Gram-	MicroPatógena Bacterias
+Principales endotoxinas?	LOS y LPS	MicroPatógena Bacterias
+A qué se unen las endotoxinas?	CD14 y TLR-4 de leucocitos	MicroPatógena Bacterias
+Qué estimulan las endotoxinas?	IL-1, TFN-A, IL-6 y prostaglandinas. 	MicroPatógena Bacterias
+Cuál dominio de los LPS es reconocida por el sistema inmune?	Domino A	MicroPatógena Bacterias
+Qué tan diferentes son los efectos de las endotoxinas?	Similares, independientemente de su origen. 	MicroPatógena Bacterias
+Como se causa la coagulación intravascular diseminada por G-?	LPS activa factor XII, que inicia la via de coagulación intrínseca, además de que la toxina convierte el plasminógeno en plasmina	MicroPatógena Bacterias
+Bacterias que tienen proteasas IgA1?	N.gonorrhoeae, N. meningitidis, Haemophilus influenzae, S. pneumoniae	MicroPatógena Bacterias
+Como la proteína A de S.aureus evita la fagocitosis?	Fc de IgG	MicroPatógena Bacterias
+Qué es la heterogeneidad antigénica?	Capacidad de cambiar frecuentemente los antígenos de sus superficies. 	MicroPatógena Bacterias
+Cuáles sistemas de secreción están en todas las bacterias?	Via de secreción general (sec)	MicroPatógena Bacterias
+Cuáles tipos de sistemas de secreción están en Gram-?	Sec + SS 1-6	MicroPatógena Bacterias
+Cuál es la principal toxina que causa los síntomas de Staphylococcus aureus?	SSSS	MicroPatógena Bacterias
+Clasificación de S.aureus?	Gram+, aerobio facultativa, catalasa y coagulasa positiva, no esporula	MicroPatógena Bacterias
+Diagnóstico de S. aureus?	Amplificación, culturas hemolíticas, Catalasa y coagulasa positivos	MicroPatógena Bacterias
+Mecanismos de evasión del sistema inmune de S.aureus?	Adaptación antigénica, MSCRAMM para adhesión, Proteína A se une Fc de IgG. Superantígenos de MHC-II	MicroPatógena Bacterias
+Toxinas de S.aureus?	4 hemolisinas, leucocidina, toxinas exfoliativas	MicroPatógena Bacterias
+De que es S.pyogenes la primera causa?	Faringitis bacteriana	MicroPatógena Bacterias
+Clasificación de S.pyogenes?	Gram+, anaerobia facultativa, catalasa negativa, no esporula	MicroPatógena Bacterias
+Medio de cultivo óptimo para S.pyogenes?	Agar sangre	MicroPatógena Bacterias
+Detección de S. pyogenes?	Detección de antígenos, ensayo de amplificación, cultivo desde orofaringe	MicroPatógena Bacterias
+Principal proteína de adhesión de S.pyogenes?	MSCRAMM	MicroPatógena Bacterias
+Mecanismos de evasión del sistema inmune de S.pyogenes?	Capsula de ácido hialurónico interfiere fagocitosis, proteína M bloquea unión de C3b, C5a peptidasa.	MicroPatógena Bacterias
+Qué es la estreptolisina S?	Hemolisina no inmunogénica que puede lisiar eritrocitos, leucocitos y plaquetas, y causar la liberación de contenidos lisosomales de fagocitos	MicroPatógena Bacterias
+Enzima responsable de la B-hemólisis de S.pyogenes?	Estreptolisina S	MicroPatógena Bacterias
+Que hace la estreptolisina O?	Hemolisina de eritrocitos, leucocitos, plaquetas y células	MicroPatógena Bacterias
+Enzimas de S.pyogenes?	Estreptolisinas O y S, estreptocinasas, DNasas, hialuronidasas. 	MicroPatógena Bacterias
+Principales toxinas de S.pyogenes?	Exotoxinas estreptocócicas pirogénicas (superantígenos de macrófagos y Th)	MicroPatógena Bacterias
+Toxinas de C. botulinum que afectan a humanos?	A,B,E,F	MicroPatógena Bacterias
+Clasificación de C. botulinum?	Gram + anaerobio estricto	MicroPatógena Bacterias
+Incubación de C. botulinum?	6-36 horas en alimentos, 10 dias en heridas	MicroPatógena Bacterias
+Diagnóstico de C. botulinum?	Hallazgo de toxina, cultivo de herida, detección de suero, bioensayos en ratones. 	MicroPatógena Bacterias
+Mecanismo de infección de C. botulinum?	Consumo de alimentos infectados (más común), heridas, inhalación. 	MicroPatógena Bacterias
+Población de riesgo para consumo de alimentos infectados por C. botulinum?	Infantes (miel o leche en polvo). 	MicroPatógena Bacterias
+Mecanismos de evasión del sistema inmune de C. botulinum?	Toxina inhibe formación de vesículas fagocíticas	MicroPatógena Bacterias
+Receptores a los que se une la toxina botulínica?	receptores específicos de ácido siálico y glucoproteínas. 	MicroPatógena Bacterias
+Célula diana de la toxina botulínica?	Neuronas motoras	MicroPatógena Bacterias
+Mecanismo de accion de la toxina botulínica?	Desactiva liberación de acetilcolina que bloquea la neurotramision de la sinapsis colinérgica periférica	MicroPatógena Bacterias
+Efecto final de la toxina botulínica?	Parálisis flácida	MicroPatógena Bacterias
+Toxina más toxica conocida por el ser humano?	Toxina botulínica	MicroPatógena Bacterias
+C.tetanii es invasor?	No, se queda en tejido desvitalizado	MicroPatógena Bacterias
+Clasificación de C.tetanii?	Gram+, anaeróbico, formador de esporas. 	MicroPatógena Bacterias
+Detección de C.tetanii?	Presentacion clínica (cultivos de baja sensibilidad, toxinas se absorben rápidamente). 	MicroPatógena Bacterias
+Mecanismo de infección de C.tetanii?	Inoculación accidental de esporas con eleméntenos punzocortantes contaminados o por mordedura de animales	MicroPatógena Bacterias
+Mecanismos de evasión del sistema inmune de C.tetanii?	Toxina inhibe formación de vesículas fagocíticas. 	MicroPatógena Bacterias
+Como funciona la tetanoespamina?	Endopeptidasa de zinc que corta proteinas del tráfico de neurotransmisores. Desactiva las proteinas que regulan la liberación de GABA y glicina, causando excitación no regulada de la sinapsis	MicroPatógena Bacterias
+Efecto final de la tetanoespamina?	Parálisis espástica	MicroPatógena Bacterias
+Clasificación de V. choleare?	Gram- anaerobio facultativo, no esporula	MicroPatógena Bacterias
+Principal endotoxina de V. choleare?	Lípido A	MicroPatógena Bacterias
+Serogrupos de V. choleare que pueden causar toxina colérica?	O1 y O139	MicroPatógena Bacterias
+Factores de virulencia de V. choleare?	Toxina colérica, TCP (toxin coregulated pilus, tienen los genes de su toxina).	MicroPatógena Bacterias
+Detección de V. choleare?	Microscopia de heces infectadas, detección de toxina por inmunoensayos, cultivo celular	MicroPatógena Bacterias
+Agares donde crece V. choleare?	Sangre, MacConkey, TTGA, TCBS, caldo alcalina de peptona. 	MicroPatógena Bacterias
+Qué fermenta V. cholerae?	Sacarosa y manosa, pero no arabinosa. 	MicroPatógena Bacterias
+Donde crece naturalmente V. choleare?	Agua contaminada con salinidad aumentada o con muchos moluscos. 	MicroPatógena Bacterias
+Principal medio de infección de V. choleare?	Consumo de agua o alimentos contaminados. 	MicroPatógena Bacterias
+Mecanismos de evasión del sistema inmune de V. choleare?	Inducción de apoptosis de macrófagos, evasión de fagocitosis por capsula de polisacáridos, degradación de lisina para neutralización de ácidos. 	MicroPatógena Bacterias
+A donde se une a toxina colérica?	Receptores GM de celulas epiteliales intestinales	MicroPatógena Bacterias
+Como actúa la toxina colérica?	Interacción con proteínas G que controlan Adenilato Ciclasa causa conversión catabólica de ATP en cAMP, causando un hipersecreción de agua y electrolitos. 	MicroPatógena Bacterias
+Toxinas de V. choleare?	Toxina Colérica, enterotoxina accesoria, toxina de la zona ocludens?	MicroPatógena Bacterias
+Qué hace la toxina de la zona ocludens de V. choleare?	Debilita la unión de la mucosa del intestino para aumentar su permeabilidad	MicroPatógena Bacterias
+Qué define el resultado final de la interacción entre un virus y su huésped?	Respuesta inmune del huésped ante la infección	MicroPatógena Virus
+Qué define la naturaleza de una infección viral?	Celulas y tejidos afectados.	MicroPatógena Virus
+Qué es el tropismo?	Capacidad de un virus de tener un tejido preferencial	MicroPatógena Virus
+Cuáles son los pasos de una infección viral?	Adquisición, iniciación de infección en sitio primario, activación de protecciones innatas, periodo de incubación y esparcimiento a sitio secundario, replicación en tejido diana, limitación por respuesta inmune, contagio de otras personas, resolución o persistencia de incubación	MicroPatógena Virus
+Cuáles son los síntomas del pródromo?	No específicos como fiebre, dolor de cuerpo, escalofríos	MicroPatógena Virus
+Qué causa el pródromo?	Liberación de citocinas en una respuesta inmune.	MicroPatógena Virus
+Características de los virus desnudos?	Resisten ambientes secos, detergentes, pH, temperaturas extremas.	MicroPatógena Virus
+Principales vías de infección de los virus desnudos?	Respiratorias, fecal-oral.	MicroPatógena Virus
+Características de los virus envueltos?	Necesitan mantenerse húmedos, mucho más frágiles a comparación de los virus envueltos	MicroPatógena Virus
+Principales vías de infección de los virus envueltos?	Gotas respiratorias, sangre, moco, saliva, semen, inyecciones, trasplantes	MicroPatógena Virus
+Qué son los arbovirus?	Virus que viene de artrópodos.	MicroPatógena Virus
+Cuál TLR es activado por ADN viral?	TLR-9	MicroPatógena Virus
+Cuál TLR es activado por ARN viral?	TLR-3	MicroPatógena Virus
+Como se unen los coronavirus a sus celulas diana?	Unen spike con ACE2.	MicroPatógena Virus
+Qué ocurre en la etapa temprana de la replicación viral?	Reconocimiento de célula objetivo, fijación o unión, penetración y descobertura	MicroPatógena Virus
+Qué ocurre en la etapa tardía de la replicación viral?	Síntesis de macromoléculas (ARNm temprano, genoma, ARNm tardío, proteinas estructurales, modificaciones postraslacionales), ensamblaje gemación, liberación	MicroPatógena Virus
+Cuál es el periodo de eclipse viral?	Periodo previo al ensamblaje, el genoma ya se replicó	MicroPatógena Virus
+Cuál es el periodo de latencia en la replicación viral?	Desde que una célula es infectada y el virus se está ensamblando hasta que es liberado	MicroPatógena Virus
+Vías predominantes de diseminación en una infección viral?	Sangre y sistema linfático	MicroPatógena Virus
+Ejemplos de virus entéricos?	Picornavirus y reovirus	MicroPatógena Virus
+Como entran los virus entéricos?	Unión a receptores de celulas M transloca al virus a las placas de Peyes del sistema linfático	MicroPatógena Virus
+Qué es la viremia primaria?	Transporte del virus dentro de la sangre	MicroPatógena Virus
+Qué es la viremia secundaria?	Infección viral en su tejido diana	MicroPatógena Virus
+Funciones de los factores de virulencia virales?	Promueven eficiencia de replicación, trasmisión, facilitan el acceso y unión a tejidos diana y la evasión del sistema inmune.	MicroPatógena Virus
+Posibles resultados de una infección viral?	Infección fallida, lítica, persistente, inmortalización, latencia	MicroPatógena Virus
+Qué es una infección persistente?	En aquellas donde hay replicación celular sin muerte celular	MicroPatógena Virus
+Cuáles son las infecciones latentes?	Persistencia del virus sin producción viral pero con potencial de reactivación.	MicroPatógena Virus
+Mecanismos de celulas no permisivas para limitar la replicación viral?	fosforilación del factor 2-alfa de inicio de elongación de F2alfa, AOBEC3.	MicroPatógena Virus
+Como es la replicación en celulas semipermisivas?	Replicación ineficiente o no pueden realizar algunos pasos.	MicroPatógena Virus
+Como hacen los adenovirus para la inmortalización celular?	Represión de E1A, E1B, RB y p53.	MicroPatógena Virus
+Cómo hacen los papilomavirus para la inmortalización celular?	Eliminación de E6, E7, RB y p53.	MicroPatógena Virus
+Mecanismo de inmortalización celular de retrovirus, hepatitis B y EB?	Activación de oncogenes	MicroPatógena Virus
+Como identifica el VIH a su célula diana?	CD4, CCR5 y CXCR4	MicroPatógena Virus
+Virus que son oncogénicos directos?	Papilomavirus y Epstein Barr	MicroPatógena Virus
+Virus que son oncogénicos indirectos?	Hepatitis B, C y VHH-8	MicroPatógena Virus
+Virus que evaden la respuesta inmune por antígenos?	Herpes (oculta anticuerpos), VIH (variación), hepatitis B (oculta)	MicroPatógena Virus
+Virus que evaden la respuesta inmune por bloquear la producción de anticuerpos?	Hepatitis B (bloquea transcripción), EB (BCRF-1 bloquea INF-G)	MicroPatógena Virus
+Virus que evaden la respuesta inmune por bloquear la acción de anticuerpos?	Adenovirus (MHC) y herpes (PKR)	MicroPatógena Virus
+Virus que evaden la respuesta inmune por alteración de celulas dendríticas?	Sarampión y hepatitis C	MicroPatógena Virus
+Virus que evaden la respuesta inmune por alterar la función de los linfocitos?	Herpes (impide citólisis de CD8), VIH (mata CD4), sarampión (supresión de NK), Epstein Barr (TH1)	MicroPatógena Virus
+Virus que evaden la respuesta inmune por bloquear el reconocimiento antigénico?	Adenovirus, citomegalovirus, herpes simple.	MicroPatógena Virus
+Clasificación de los virus del herpes?	Envueltos con ADN +	MicroPatógena Virus
+Virus del herpes asociados con cáncer?	EBV y HHV-8	MicroPatógena Virus
+Como son las infecciones de los virus del herpes?	Líticas, persistentes, latentes	MicroPatógena Virus
+Características de virus alphaherpesvirinae?	Diana celulas mucoepiteliales, latencia en neuronas, transmisión por contacto cercano	MicroPatógena Virus
+Cuáles son los virus alphaherpesvirinae?	simplex HHV-1, simplex HHV-2, zoster HHV-3	MicroPatógena Virus
+Características de los virus gamaherpesvirinae?	Blanco primario linfocitos B, linfocitos y celulas epiteliales. Sitio de latencia son celulas B y de memoria B. Contagio por saliva y sexual	MicroPatógena Virus
+Cuáles son los virus gamaherpesvirinae?	Epstein Barr (4) y Sarcoma de Kaposi (8).	MicroPatógena Virus
+Características de los betaherpesvirinae?	Macrófagos, linfocitos T, celulas epiteliales, neuronas. Reservorio celulas hematopoyéticas. Contagio por trasfusiones, trasplantes, sexual, 6,7 saliva	MicroPatógena Virus
+Cuáles son los betaherpesvirinae?	Citomegalovirus (5), HHV-6 y 7	MicroPatógena Virus
+Clasificación de los poliovirus?	Picornaviridae sin envoltura con ARN+ monocatenario	MicroPatógena Virus
+Ciclo de vida de los poliovirus?	Implementación de sitio de replicación en intestino y luego se disemina a tejidos reticuloendoteliales	MicroPatógena Virus
+Diagnóstico de poliovirus?	Secuenciación de proteína principal de cápside VP1 desde secreciones faríngeas	MicroPatógena Virus
+Mecanismos de infección del enterovirus?	Via-fecal oral	MicroPatógena Virus
+Tropismo del poliovirus?	Células de mucosa orofaríngea y del tracto gastrointestinal	MicroPatógena Virus
+Células más afectadas por el poliovirus?	Neuronas motoras y autónomas	MicroPatógena Virus
+Clasificación de rhabdovirus?	Envuelto ANR- de una sola cadena	MicroPatógena Virus
+Ciclo de reproducción del rhabdovirus?	Replicación en musculo del sitio de entrada (incubación), se mueve a neuronas para alcanzar el cerebro	MicroPatógena Virus
+Receptores blanco de los rhabdovirus?	Receptores nicotínicos de acetilcolina (AChR) y NCAM	MicroPatógena Virus
+Dónde se replica el rhabdovirus?	Citoplasma	MicroPatógena Virus
+Diagnóstico de rhabdovirus?	Aparición de síntomas neurológicos en un paciente mordido por un animal.	MicroPatógena Virus
+Detección de rhabdovirus?	Inmunofluorescencia o PCR de transcriptasa reversa en saliva, suero, fluidos espinales. ELISA en anticuerpos en fases muy tardías	MicroPatógena Virus
+Mecanismo de infección de rhabdovirus?	Mordida de un animal infectado (secreciones en saliva), inhalación de aerosoles, trasplantes, inoculación de membranas mucosas. 	MicroPatógena Virus
+Mecanismos de evasión del sistema inmune de los rhabdovirus?	Inhibición de MHC-I, las proteinas virales inhiben apoptosis e interferones. Se secretan pocos anticuerpos hasta las fases tardías de la enfermedad	MicroPatógena Virus
+Mecanismos de daño del rhabdovirus?	Invasión del tejido nervioso causa encefalomielitis. Es fatal una vez aparente. 	MicroPatógena Virus
+De que depende el periodo de incubación del rhabdovirus?	Concentración del virus en el inoculo, proximidad de la herida respecto al cerebro, severidad de la herida, edad del huésped, estatus inmune del huésped	MicroPatógena Virus
+Tropismo del VIH?	Celulas que expresan CD4, CCR5 y CXCR4	MicroPatógena Virus
+Clasificación del VIH?	Retrovirus, lentivius, envuelto ARN positivo	MicroPatógena Virus
+Que causa el VIH a nivel celular?	Infección lítica en celulas activadas permisivas, muerte similar a la apoptosis en celulas no permisivas. 	MicroPatógena Virus
+Proteína del VIH usada para estimular la fusión de membranas del VIH?	gp41	MicroPatógena Virus
+Diagnóstico del VIH?	Western Blot, antígeno p24, PCR, anticuerpos, recuentos de CD4	MicroPatógena Virus
+Mecanismos del VIH para la evasión del sistema inmune?	Recombinación antigénica, deriva antigénica por glucolización de gp120, destrucción de CD4 compromete la función del sistema inmune, forman sincitios	MicroPatógena Virus
+Mecanismos de daño del VIH?	Supresión inmune por falta de CD4, alteran función de celulas T, DC y macrófagos.	MicroPatógena Virus
+Cuál es la micosis que más se presenta en el mundo?	Candidiasis	MicroPatógena Hongos
+Clasificación de Candida albicans?	Ascomycete saprófito oportunista	MicroPatógena Hongos
+Principales tejidos afectados en la candidiasis?	Mucosas, piel, uñas. casos extremos en pulmones e intestinos	MicroPatógena Hongos
+Forma de la candidiasis con mayor virulencia?	Filamentos.	MicroPatógena Hongos
+A donde se adhieren los filamentos de la candidiasis?	Membrana basal.	MicroPatógena Hongos
+Forma menos virulenta de la reproducción de C.albicans?	Hifas son menos inmunogénicas que los blastoconidios	MicroPatógena Hongos
+Tinciones con las que se puede detectar C.albicans?	Hidróxido de potasio, Gram, Wright, Giemsesa, Pas, Papanicolau	MicroPatógena Hongos
+Agar selectivo para C.albicans?	Biggy/Nickerson	MicroPatógena Hongos
+Agares en donde puede crecer C.albicans?	Sabouraud dextrosa, gelosa sangre, CHOM-agar.	MicroPatógena Hongos
+Factores de predisposición a la candidiasis?	Diabetes, tuberculosis, hepatitis, inmunodeficiencias iatrogénicos (antibióticos, esteroides, citotóxicos), trasplantes, cateterismo, nutrición parenteral, quemaduras, cambios del pH.	MicroPatógena Hongos
+Mecanismos de evasión del sistema inmune?	adaptación al pH, adhesinas (mamanas), enzimas, transición morfológica (filamentos marca infección), cambio fenotípico, formación de biopelícula	MicroPatógena Hongos
+Como es detectada la C.albicans por el sistema inmune?	TLR-2, 4 y dectina detecta betaglucano.	MicroPatógena Hongos
+Mucosas favoritas de C.albicans?	Genital, oral y respiratoria.	MicroPatógena Hongos
+En cuál fase de vida de C.albicans se da la infección?	Fase de levadura	MicroPatógena Hongos
+Como causa daño C.albicans?	Invasión de tejido.	MicroPatógena Hongos
+De qué está formada el bioflim de C.albicans?	Exopolisacáridos	MicroPatógena Hongos
+Clasificación de Rhizopus arrhizus?	Mucoral filamentoso saprófito	MicroPatógena Hongos
+Cuadros clínicos que se pueden presentar en Rhizopus arrhizus?	Cuadros agudos rinocerebrales y pulmonares con trombosis, invasión vascular, isquemia tisular e infarto	MicroPatógena Hongos
+Pacientes en los que más se presentan las infecciones por Rhizopus arrhizus?	Diabéticos descompensados, o pacientes inmunocomprometidos	MicroPatógena Hongos
+Como son las esporas que R. arrhizus produce en su fase sexual?	Esporangiosporas	MicroPatógena Hongos
+Formas de R. arrhizus?	Teleomorfo/sexual, anamorfo/asexual	MicroPatógena Hongos
+Diagnóstico de R. arrhizus?	Exudados directos.	MicroPatógena Hongos
+Donde se cultivan los R. arrhizus?	Sabouraud dextrosa agar	MicroPatógena Hongos
+Vía de entrada de R. arrhizus?	Mucosa nasal y palatina.	MicroPatógena Hongos
+Como evade R. arrhizus la respuesta inmune del huésped?	Reducción morfológica, secreción de enzimas líticas, adhesión al endotelio, secreción de rizoferrina, producción de rizotoxinas, angioinvasión, resistencia a antimicóticos	MicroPatógena Hongos
+Principal hongo que causa tiñas?	Trichophython	MicroPatógena Hongos
+Síntoma de mayor importancia en Trichophython?	Prurito.	MicroPatógena Hongos
+PAMP's de Trichophyton?	Reconocimiento de mananas y betaglucanos por TLR-2 y 4, o Dectina-1.	MicroPatógena Hongos
+Citocinas producidas por Trichophyton?	INF-G, TNF-A, IL-17,6,10,23.	MicroPatógena Hongos
+Donde está principalmente Trichophyton en una infección?	Piel, uñas y pelo.	MicroPatógena Hongos
+Factores de riesgo de Trichophyton?	Clima húmedo, malos hábitos de higiene, hacinamiento, zapatos cerrados, ropa sintética, inmunosupresión.	MicroPatógena Hongos
+Principal fuente de alimento de Trichophyton?	Queratina	MicroPatógena Hongos
+Hongo que comparte muchas características con los protozoarios?	P.jirovecii	MicroPatógena Hongos
+Órgano principalmente afectado en las infecciones por P.jirovecii?	Pulmones.	MicroPatógena Hongos
+Hongo que no tiene ergosterol en su membrana?	P.jirovecii.	MicroPatógena Hongos
+Qué limita el crecimiento de P.jirovecii?	Linfocitos CD4, INF-G, macrófagos alveolares	MicroPatógena Hongos
+Como detectan los macrófagos alveolares a P. jirovecii?	Detección a manosa	MicroPatógena Hongos
+Cuál sustancia en la membrana de P.jirovecii es suprimida una vez que se inicia la infección?	Betaglucanos	MicroPatógena Hongos
+Ciclo de vida de P.jirovecii?	Quiste, esporozoito, esporozoito precoz, esporozoito intermedio, esporozoito tardío	MicroPatógena Hongos
+Formas de P.jirovecii?	Trófica, esporociticas y quistes maduros.	MicroPatógena Hongos
+Pruebas diagnósticas para P.jirovecii?	Tinción de Gomori-Grocott, Diff-Quik, azul de ortolidina y Papanicolau.	MicroPatógena Hongos
+Como se da la infección de P.jirovecii?	Reactivación de un foco latente o adquisición del hongo por vía aérea.	MicroPatógena Hongos
+Pacientes más afectados por P.jirovecii?	Pacientes inmunodeprimidos o malnutridos.	MicroPatógena Hongos
+Como evade P.jirovecii el sistema inmune?	Falta de ergosterol da resistencia antimicóticos, variabilidad antigénica, modulación de pH, captación de hierro y calcio por sideróforos, A-glucano impide el reconocimiento de levaduras.	MicroPatógena Hongos
+Reproducción de A. fumigatus?	Sexual con ascosporas, asexual con conidios hidrofóbicos.	MicroPatógena Hongos
+Clasificación de A. fumigatus?	Ascomycota saprofito	MicroPatógena Hongos
+Bajo qué condiciones A. fumitagus se reproduce sexualmente?	Estrés	MicroPatógena Hongos
+Cuales tinciones son usadas para la detección de A. fumigatus?	Metenamina de plata, gematoxilina-eosina	MicroPatógena Hongos
+Detección de A. fumigatus?	Anticuerpos, PCR, cultivos, ELISA, tinciones	MicroPatógena Hongos
+Factores de riesgo de A. fumigatus?	Edad avanzada, virus respiratorios, inmunosupresión.	MicroPatógena Hongos
+Población de riesgo de A. fumigatus?	Granjeros	MicroPatógena Hongos
+Mecanismos de daño de A. fumigatus?	Destrucción progresiva del tejido pulmonar, gliotoxina inhibe neutrófilos, RodA mata DC, capsula de polisacáridos	MicroPatógena Hongos
+Micosis sistémica más frecuente en el mundo?	H.capsulatum	MicroPatógena Hongos
+Donde se localiza el foco primario de H.capsulatum?	Pulmones	MicroPatógena Hongos
+Como es sexualmente H.capsulatum?	Dimorfoheterotálico con haploides de compatibilidad sexual	MicroPatógena Hongos
+Fases del ciclo de vida de H.capsulatum?	Filamentosa, levaduriforme, teleomorfa/sexuada.	MicroPatógena Hongos
+Tinciones para la detección de H.capsulatum?	PAS, Giemsa, Grocott-Gomori, Papanicolau, Dridley	MicroPatógena Hongos
+Agar en donde crece H.capsulatum?	Sabouraud.	MicroPatógena Hongos
+Mecanismos de infección de H.capsulatum?	Entrada de esporas por el aparato respiratorio	MicroPatógena Hongos
+Animales que pueden contagiar de H.capsulatum?	Guano de murciélago, aves domésticas	MicroPatógena Hongos
+Ocupaciones en riesgo de H.capsulatum?	Mineros, topógrafos, albañiles, demolición, avicultores	MicroPatógena Hongos
+Factores de riesgo de H.capsulatum?	Inmunosupresión, alcoholismo, profesión	MicroPatógena Hongos
+Factores de Virulencia de H.capsulatum?	Dimorfismo, termotolerancia, pared con alfaglucanos, ácido hidroxámico, producción de sulfhídricos.	MicroPatógena Hongos
+Características de las tiñas hipocromiantes?	Disminuyen melanina por inhibición competitiva de melanina con ácidos grasos dicarboxílicos.	MicroPatógena Hongos
+Características de las tiñas hipercromiantes?	Melanosomas aumentan de tamaño.	MicroPatógena Hongos
+Hongos que causan tiñas?	Trichophyton	MicroPatógena Hongos
+En qué parte del tracto intestinal humano habita la Taenia solium?	Yeyuno	MicroPatógena Parásitos
+Hospederos de Taenia solium?	Cerdos y humanos. 	MicroPatógena Parásitos
+A que se relacionan las teniasis?	Pérdida de peso. 	MicroPatógena Parásitos
+Bajo qué condiciones la Taenia solium libera un hexacanto?	Cuando los huevos llegan al estómago y eclosionan	MicroPatógena Parásitos
+En el ciclo de vida de T. solium, quien penetra la pared intestinal despúes de eclosionar?	Hexacanto. 	MicroPatógena Parásitos
+Que desarrolla un hexacanto estando en tejido muscular?	Quistes.	MicroPatógena Parásitos
+Sospecha de Teniasis?	Manifestaciones neurológicas o nódulos subcutáneos. 	MicroPatógena Parásitos
+Estudios para el diagnóstico de teniasis?	Estudios de imagen, biopsia, detección de anticuerpos, huevos en heces. 	MicroPatógena Parásitos
+Principal fuente de teniasis?	Carne de cerdo mal cocida	MicroPatógena Parásitos
+Que ocurre al ingerir un quiste de T. solium?	Se genera un gusano	MicroPatógena Parásitos
+Que ocurre al ingerir un huevo de T. solium?	Se genera un quiste. 	MicroPatógena Parásitos
+Bajo qué condiciones la teniasis puede causar neurocisticercosis?	Cuando se forman los quistes en el cerebro. 	MicroPatógena Parásitos
+Hay eosinofilia en Teniasis?	SI	MicroPatógena Parásitos
+Ciclo de vida de enterobius?	Macho insemina a la hembra en el ciego, ella migra al colon y deposita huevos en mucosa perianal. Los huevos entran a los intestinos por fecal-oral y eclosionan en el intestino alto para madurar en el ciego. 	MicroPatógena Parásitos
+Hay eosinofilia en enterobius?	NO	MicroPatógena Parásitos
+Diagnóstico de enterobius?	Aislamiento de huevos	MicroPatógena Parásitos
+Mecanismos de infección de enterobius?	Ingesta de huevos	MicroPatógena Parásitos
+Mecanismos de daño de daño de enterobius?	Es raro que provoquen enfermedades. Puede ser problemático si llega al tracto genital femenino	MicroPatógena Parásitos
+Principal síntoma de enterobius?	prurito anal	MicroPatógena Parásitos
+Clasificación de la ascariasis? Animalia, helminto, nemátodo. 		MicroPatógena Parásitos
+Donde viven los ascaria?	parte alta del intestino	MicroPatógena Parásitos
+Donde deben de embrionar los huevos de ascaria antes de poder infectar?	Suelo alrededor de tres semanas. 	MicroPatógena Parásitos
+Despúes de eclosionar, que hacen las larvas de ascaria?	Penetran la mucosa intestinal y migran hacia hígado luego corazón y pulmones, para ser impulsados por la tos y ser digeridos. 	MicroPatógena Parásitos
+Diagnóstico de ascaria?	Expulsión de gusanos, huevos en heces, larvas y eosinófilos en esputo. 	MicroPatógena Parásitos
+Mecanismos de infección de ascaria?	Consumo de huevos de ascaria	MicroPatógena Parásitos
+Manifestaciones clínicas de ascaria?	Fiebre, tos, sibilancias, falta de aliento, eosinofilia, desaturación de oxígeno, dolor abdominal malabsorción de nutrientes, puede obstruir el intestino.	MicroPatógena Parásitos
+Fases de vida de giardia?	Quiste y trofozoíto	MicroPatógena Parásitos
+Principal mecanismo de daño de giardia?	Irritación mecánica de la mucosa e inflamación	MicroPatógena Parásitos
+Estímulo del cuerpo que estimula la exquistación de giardia?	Ácido gástrico	MicroPatógena Parásitos
+Cómo se reproduce la giardia?	Fisión binaria	MicroPatógena Parásitos
+Métodos de diagnóstico para giardia?	Examen de heces, biopsia del intestino delgado superior, detección de antígenos fecales. 	MicroPatógena Parásitos
+Principal mecanismo de infección de giardia?	Ingesta de quistes (10-25). 	MicroPatógena Parásitos
+Como se adhiere giardia al epitelio intestinal?	Disco adhesivo	MicroPatógena Parásitos
+Principales síntomas de la giardiasis?	Diarrea media-severa, heces olorosas, dolores abdominales, flatulencias, esteatorrea. Puede haber síndrome de malabsorción. 	MicroPatógena Parásitos
+Estímulo que propicia el crecimiento de giardia?	Sales biliares y colesterol. 	MicroPatógena Parásitos
+Lectina usada por giardia para adherirse a manosa-6-fosfato?	Taglina	MicroPatógena Parásitos
+Toxinas secretadas por giardia?	Sarafotoxina.	MicroPatógena Parásitos
+Proteinas usadas para interactuar con la zona ocludens de giardia?	ZO-1, cingulina, ocludina, claudina. 	MicroPatógena Parásitos
+Mecanismos de daño de giardia?	Apoptosis de enterocitos (Casp-3), hiperplasia de celulas calciformes, competencia por sales biliares. Se generan enterocitos deficientes	MicroPatógena Parásitos
+Motilidad de amibas?	Pseudópodos	MicroPatógena Parásitos
+Fases de vida de las amibas?	Trófica y quiescente	MicroPatógena Parásitos
+Diagnóstico de amibas?	Quistes en heces o trofozoítos en tejido, pruebas de antígenos fecales o PCR. 	MicroPatógena Parásitos
+Que causa el ácido gástrico en las amibas?	Estimula la liberación del trofozoíto en duodeno	MicroPatógena Parásitos
+Mecanismos de adhesión de amibas?	Proteína de adhesión inhibida por galactosa	MicroPatógena Parásitos
+Proteína de las amibas que degrada anticuerpos?	EhCP5	MicroPatógena Parásitos
+Toxina de las amibas que causa necrosis?	Citotoxina	MicroPatógena Parásitos
+Que genera al ameboporo?	salip	MicroPatógena Parásitos
+Sustancias que hacen el efecto citopático dependiente de contacto de las amibas?	Citocalasina B y D	MicroPatógena Parásitos
+Ejemplo de geoamibiosis?	Ascariasis	MicroPatógena Parásitos
+Huéspedes necesarios para que plasmodium termine su ciclo de vida?	Mosquito (sexual), humano (asexual)	MicroPatógena Parásitos
+Como inicia una infección de plasmodium?	Mordida de un mosquito Anopheles hembra. 	MicroPatógena Parásitos
+Donde ocurre principalmente el ciclo exoeritrocitico de plasmodium?	Hígado	MicroPatógena Parásitos
+Como es la reproducción durante el ciclo exoeritrocitico de plasmodium?	Asexual	MicroPatógena Parásitos
+Evento que inicia el ciclo eritrocitico de plasmodium?	Ruptura del hepatocito y liberación de plasmodium al torrente sanguíneo. 	MicroPatógena Parásitos
+Fases del ciclo eritrocitico de plasmodium?	Anillo, trofozoíto y esquizonte	MicroPatógena Parásitos
+Evento que termina el ciclo eritrocitico de Plasmodium?	Ruptura del eritrocito. 	MicroPatógena Parásitos
+Como regresa plasmodium al mosquito?	Gametocitos sexuados son consumidos por mosquitos durante una picadura. 	MicroPatógena Parásitos
+Detección de plasmodium?	Análisis de sangre y microscopia, RTD para detección de antígenos. 	MicroPatógena Parásitos
+Evasión de respuesta inmune de plasmodium?	PfEMP	MicroPatógena Parásitos
+Funcion del complejo apical de plasmodium?	Penetrar al eritrocito. 	MicroPatógena Parásitos
+Qué son los knobs expresados durante una infección de plasmodium?	Moléculas expresadas en la membrana celular de eritrocitos infectados que se unen a vasos sanguíneos o a otros eritrocitos infectados. 	MicroPatógena Parásitos
+Efectos de la expresión de knobs de plasmodium?	Obstrucción del flujo sanguíneo, hipoxia, daño de órganos específicos.	MicroPatógena Parásitos
+Qué estudia la epidemiología?	La propagación de enfermedades que afectan a la población en un periodo de tiempo determinado	MicroPatógena Epidemio
+Definición epidemiológica de caso?	Aquel individuo en el que se puede sospechar, presumir o confirmar el padecimiento de una enfermedad o un evento de interés epidemiológico.	MicroPatógena Epidemio
+Qué es un caso índice en epidemiología?	Primer caso registrado por el sistema de salud	MicroPatógena Epidemio
+Qué es un caso sospechoso en epidemiología?	Caso asociado a factores de riesgo	MicroPatógena Epidemio
+Qué es un caso probable en epidemiología?	Caso que cumple criterios para una enfermedad pero no tiene el diagnóstico establecido	MicroPatógena Epidemio
+Qué es un caso confirmado en epidemiología?	Caso que reúne los síntomas que lo identifican como tal y tiene pruebas de laboratorio positivas	MicroPatógena Epidemio
+Que determina si es un caso probable o es uno definido?	Resultados de pruebas de laboratorio.	MicroPatógena Epidemio
+Qué es un cerco epidemiológico?	Sitio donde se limita la diseminación de una enfermedad por medio de medidas preventivas.	MicroPatógena Epidemio
+Qué es la inmunidad activa?	Aquella que surge desde la exposición a un microrganismo o a sus antígenos	MicroPatógena Vacunas
+Qué es la inmunidad pasiva?	Aquella que surge de la adquisición de anticuerpos o células inmunitarias que dan una protección temporal.	MicroPatógena Vacunas
+Tipo de inmunidad que genera memoria?	Inmunidad activa	MicroPatógena Vacunas
+Tipo de inmunidad usada como profilaxis postexposición?	Inmunidad pasiva	MicroPatógena Vacunas
+Tipo de inmunidad generada en después de la exposición a un patógeno	Inmunidad activa natural	MicroPatógena Vacunas
+Tipo de respuesta inmune causada por las vacunas vivas?	T	MicroPatógena Vacunas
+Cuál tipo de organismos previene principalmente las vacunas vivas?	Virus con envoltura, bacterias de crecimiento intracelular	MicroPatógena Vacunas
+Como es en cuestiones temporales la inmunidad generada por las vacunas vivas?	Larga duración	MicroPatógena Vacunas
+Anticuerpos involucrados en las vacunas vivas?	IgG, IgA	MicroPatógena Vacunas
+Cuáles respuestas inmunes son generadas por las vacunas vivas?	Humoral, celular y de memoria	MicroPatógena Vacunas
+Tipo de vacunas que NO necesita adyuvantes para funcionar?	Vivas	MicroPatógena Vacunas
+Como son las dosis de las vacunas vivas que se necesitan para generar la inmunidad?	Una dosis baja	MicroPatógena Vacunas
+Cuando puede ser peligrosa la aplicación de una vacuna viva?	En pacientes inmunosuprimidos o en mujeres embarazadas	MicroPatógena Vacunas
+Tipo de vacunas que se pueden revertir a su forma vírica virulenta?	Vacunas vivas.	MicroPatógena Vacunas
+Ejemplos de vacunas con virus con mutaciones menos virulentas?	Viruela, rotavirus, sarampión, adenovirus	MicroPatógena Vacunas
+Ejemplos de vacunas con virus modificados genéticamente para carecer virulencia?	Fiebre tifoidea, tuberculosis, VHB, VHP.	MicroPatógena Vacunas
+Tipo de vacuna que es Sabin?	Virus atenuado	MicroPatógena Vacunas
+Como son las dosis necesarias de vacunas de organismos inactivos para generar inmunidad?	Gran cantidad del antígeno, muchas dosis y de recuerdo	MicroPatógena Vacunas
+Mecanismos para inactivar microrganismos?	Formol, radiación, calor.	MicroPatógena Vacunas
+De que tipo son las respuestas generadas por vacunas inactivas?	IgM, IgG.	MicroPatógena Vacunas
+Cuando se usan las vacunas inactivadas ante las vivas?	Cuando el microrganismo no se puede atenuar, pueden causar infecciones recurrentes o tienen potencial oncogénico.	MicroPatógena Vacunas
+Ejemplos de adyuvantes?	Hidróxido de aluminio, fosfato de aluminio	MicroPatógena Vacunas
+Funcion de los adyuvantes?	Reforzar la respuesta inmune	MicroPatógena Vacunas
+A quienes estimulan principalmente los adyuvantes?	DC y M0, TLR, inflamosoma	MicroPatógena Vacunas
+Cuáles son las partes de una vacuna?	Antígeno, conservante, antibiótico, estabilizador.	MicroPatógena Vacunas
+Cuál tipo de vacunas genera respuestas Th2?	Vacunas inactivadas.	MicroPatógena Vacunas
+Desventajas de las vacunas inactivadas?	Poca duración de la inmunidad, necesitan dosis de recuerdo, la respuesta es solo humoral, necesitan dosis altas del antígeno	MicroPatógena Vacunas
+Tipos de vacunas inactivas?	Toxoides, bacterias inactivadas, componentes de las superficies bacterianas.	MicroPatógena Vacunas
+Ejemplos de vacunas con microrganismos atenuados?	Poliomielitis (Salk), hepatitis A, gripe, rabia	MicroPatógena Vacunas
+Ejemplo de vacuna de subunidades?	VHB, VPH, VLP, VZZ, gripe, H. influenzae B, N. meningitis, Salmonella, S. pnemumoniae	MicroPatógena Vacunas
+Qué es una vacuna conjugada?	Vacuna cuyo antígeno se convirtió en un antígeno dependiente de T por acoplamiento a proteinas transportadoras	MicroPatógena Vacunas
+Ejemplos de vacunas conjugadas?	Toxoide diftérico, S. pneumoniae,	MicroPatógena Vacunas
+Vacunas hechas con microrganismos vivos atenuados?	Polio oral (Sabin), varicela, triple viral (sarampión, paperas, rubeola).	MicroPatógena Vacunas
+Cuáles son las contraindicaciones de las vacunas?	Reacciones anafilácticas, enfermedad febril, embarazo, inmunodeficiencias.	MicroPatógena Vacunas

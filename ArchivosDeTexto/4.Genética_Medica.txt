@@ -1,0 +1,236 @@
+Cuál es la cromosomopatía más común?	Síndrome de Down, 1:800
+Cuál es el mecanismo más común por el cual se da el SD?	No disyunción meiótica (95%)
+Cuáles son los mecanismos del síndrome de Down?	No disyunción meiótica, translocación Robertsoniana no balanceada, mosaicismo por no disyunción mitótica.
+Cuál es la región critica del síndrome de Down?	21q22.3
+Cuáles son los criterios de Hall?	Perfil facial plano reflejo de Moro disminuido hipotonía hiperlaxitud piel redundante en nuca fisuras palpebrales oblicuas hacia arriba displasia de cadera clinodactilia del quinto dedo pabellones auriculares displásicos pliegue palmar transverso
+Método de diagnóstico para el síndrome de Down?	Cariotipo
+Cuál tipo de SD es el único que se puede heredar?	Translocación Robertsoniana no balanceada
+Incidencia del síndrome de Patau?	1:7000
+Cuáles son los mecanismos del síndrome de Patau?	47,+13, translocación Robertsoniana no balanceada, mosaicismo.
+Cuál es el cuadro típico del síndrome de Patau?	Micro/anoftalmia Labio leporino y/o paladar hendido Polidactilia postaxial.
+Estudio diagnóstico para el síndrome de Patau?	Cariotipo
+Cuál es el cuadro clínico prenatal del síndrome de Patau?	Distancia Cefalocaudal =<15% a lo esperado
+De los afectados por síndrome de Patau, cuantos nacidos vivos mueren en su primer día de vida?	79%
+Cuál es la segunda cromosomopatía más común?	síndrome de Edwards
+Como se hace el diagnóstico del síndrome de Edwards?	Cariotipo
+Cuál es el cuadro clínico del síndrome de Edwards?	Restricción de crecimiento intrauterino hipertonía occiputo prominente boca pequeña micrognatia ojeras puntiagudas esternón corto riñon de herradura dedos flexionados enfermedades cardiacas y del tracto gastrointestinal.
+Cuales síndromes el test combinado del primer trimestre y el test cuádruple pueden ayudar a detectar?	Down, Edwards y Patau.
+Porcentaje de los afectados con el síndrome de Edwards que mueren antes de cumplir su primer año de vida?	95%
+Otro nombre para el síndrome de Edwards?	Trisomía 18
+Otro nombre para el síndrome de Patau?	Trisomía 13
+Otro nombre para el síndrome de Down?	Trisomía 21
+Cual es la causa del síndrome de Turner?	La ausencia del cromosoma X sexual
+En cuales formatos se puede presentar el síndrome de Turner?	Haploinsuficiencia 45,X, Mosaicismo 45,X/46,XX o 45,X/47,XXX o Isocromosoma Xq
+Cuáles son las deformidades físicas asociadas al síndrome de Turner?	Las características típicas son estatura corta pecho en forma de escudo con pezones muy separados cuello corto y palmeado cubito valgo y deformidad de Madelung del antebrazo y muñeca.
+Cuales alteraciones son frecuentes de encontrar en el síndrome de Turner?	pérdida de la audición, hipotiroidismo y anormalidades de la función hepática al crecer, retraso de la pubertad o ausencia de lo que conlleva (telarca, menarca)
+Cuadro clínico prenatal del síndrome de Turner?	higroma quístico septado linfagiectasia (hidropesía fetal) defectos cardiacos engrosamiento nucal anomalías renales fémur corto
+Bajo qué condiciones del síndrome de Turner se debe de vigilar por gonadoblastoma?	Si se tiene un cromosoma Y
+Qué aspectos se deben de vigilar en una paciente con Síndrome de Turner?	Densidad ósea, cardiovascular, presión arterial, neurocognición y función sexual
+Cuál es la causa del síndrome de Klinefelter?	No disyunción del cromosoma X durante la gametogénesis
+Prevalencia del síndrome de Klinefelter?	1-2.5:1000
+Prevalencia del síndrome de Turner?	1:2000-2500
+Cuadro clínico del síndrome de Klinefelter en el neonato?	Micropene, hipospadias, criptorquidismo
+Cuadro clínico del síndrome de Klinefelter en el adolescente?	Pubertad retrasada, ginecomastia, virilización incompleta
+Cuadro clínico del síndrome de Klinefelter en el adulto?	Testículos pequeños, deficiencia de andrógenos, infertilidad
+Prueba para el diagnóstico del síndrome de Klinefelter?	Cariotipo
+Causa del síndrome de Wolf-Hirschhorn?	Deleción del cromosoma 4
+Región critica del síndrome de Wolf-Hirschhorn?	4p16.3
+Bajo qué condiciones fetales se puede sospechar el síndrome de Wolf-Hirschhorn?	Restricciones en el crecimiento intrauterino
+Cuadro clínico del síndrome de Wolf-Hirschhorn?	restricción del crecimiento pre y post natal microcefalia defecto atrioseptal y/o ventriculoseptal estenosis pulmonar aspecto de casco de guerrero griego
+Cómo se hace el diagnóstico del síndrome de Wolf-Hirschhorn?	FISH o microarreglos
+Proporción de los pacientes con síndrome de Wolf-Hirschhorn que mueren antes de los dos años de edad?	1/3
+Incidencia del síndrome de Cri-du Chat?	1:45000
+Causa de síndrome de Cri-du Chat?	85% por deleción parcial de novo, el resto por translocación parental.
+Región critica del síndrome de Cri-du Chat	5p15.3 y 5p15.2
+Mecanismo por el cual se da el síndrome de Cri-du Chat?	Deleción parcial del brazo corto del cromosoma 5
+Cuadro clínico del síndrome de Cri-du Chat?	anormalidades de las cuerdas vocales bajo peso al nacer retraso del crecimiento hipotonía retraso psicomotor discapacidad intelectual microcefalia hipertelorismo cara redonda fisuras palpebrales inclinadas hacia abajo puente nasal ancho orejas de implantación baja y/o malformadas.
+Como se hace el diagnóstico del síndrome de Cri-du Chat?	FISH o microarreglos
+Como se hace el diagnóstico prenatal del síndrome de Cri-du Chat?	Visualización de anormalidades en el ultrasonido
+Mortalidad del síndrome de Cri-du Chat?	10%
+Que es el nucleótido?	Unidad Estructural y funcional del material genético
+Qué es el genoma?	Total de nucleótidos de una célula
+Cuál es el tamaño aproximado del genoma humano?	3,100,000,000 nt
+Porcentaje del genoma que es codificante?	3%
+Cuáles son los elementos de un gen?	Promotor, intrón y exón
+Cuál es la única mutación monosómica que no es letal?	Síndrome de Turner
+Prueba genetica que permite ver el número total y la estructura de los cromosomas?	Cariotipo
+Cuantos nucleótidos se pueden ver al mismo tiempo en un cariotipo?	5 millones de nucleótidos
+Tamaño de las anomalías detectables por FISH?	150-900 kb
+Uso de la PCR en genética médica?	Detectar microdeleciones
+Cuáles son los cromosomas acrocéntricos?	13, 14, 15, 21 y 22
+En el síndrome de Down, cuál es el problema más común?	Anormalidades cardiovascular (comunicación atrioventricular)
+Entre cuales semanas se hace el test combinado del primer trimestre?	Semanas 10 y 13+6
+Qué mide el test combinado del primer trimestre?	Gonadotropina coriónica humana beta sérica maternal (hCG), proteína plasmática asociada al embarazo (PAPP-A), medición por ultrasonido de la translucencia nucal
+Como es un test combinado del primer trimestre que cause sospecha de SD?	hCG elevada (x2) PAPP-A disminuida y translucencia nucal alargada factor de crecimiento placentario y alfa-fetoproteína disminuida
+Que mide el test triple/Cuádruple marcador?	Estriol no conjugado, alfa-feto proteína, gonadotropina coriónica humana e inhibina.
+Entre cuales semanas se hace el test triple marcador?	15-18
+Como es una prueba del primer trimestre en el síndrome de Edwards?	hCG, PAPP-A muy bajas
+A que se asocia al gen SHOX?	desarrollo de extremidades y arcos faríngeos
+Región critica del gen SHOX?	Xp22.3
+A que se asocia al gen KDM6A?	hiperinsulinismo e hiperacusia
+Región critica del gen KDM6A?	Xp11.3
+A que se asocia al gen TIMP1?	Válvula aórtica
+Región critica del gen TIMP1?	Xp11.3
+Cuales estudios de laboratorio se tienen que hacerle a un paciente con sospecha de síndrome de Klinefelter?	Testosterona libre y sérica (baja), FSH y LH (altas)
+Gen asociado al síndrome de Wolf-Hirchhorn?	WHSCR1
+Cuáles son los mecanismos del síndrome de Patau?	47,+13, translocación Robertsoniana no balanceada, mosaicismo.
+Cuál es el cuadro típico del síndrome de Patau?	Micro/anoftalmia Labio leporino y/o paladar hendido Polidactilia postaxial.
+De los afectados por síndrome de Down, cuantos nacidos vivos mueren en su primer día de vida?	79%
+Qué causa el síndrome de Turner?	La ausencia del cromosoma X sexual
+¿Cuál es la causa del síndrome de Klinefelter?	No disyunción del cromosoma X durante la gametogénesis
+¿Bajo que circunstancias la biopsia de vellosidades coriónicas puede dar falsos positivos y negativos?	Mosaicismo extraembrionaria
+¿Contraindicaciones de la amniocentesis?	Oligohidramnios
+¿Que puede indicar una alfa feto proteína alta cuando no hay riesgo de cromosomopatías?	Defectos del cierre neural
+¿Cuál es la cromosomopatía más común en el ser humano?	Trisomía 16
+¿Cuáles enfermedades monogénicas clásicas se detectan por cariotipo?	NINGUNA
+¿Cuales cromosomopatías clásicas son letales en homocigotos?	Sindrome de Marfan y Acondroplasia
+¿Que es un heterocigoto compuesto?	Aquellos que tienen una mutación diferente en cada alelo,
+¿Las enfermedades monogénicas dominantes suelen ser letales en cual grupo de la población?	Hombres
+¿Cuál grupo de la población suele ser portador de enfermedades monogénicas recesivas?	Mujeres
+¿Qué es un portador obligado?	Aquellas personas que tienen dos familiares de 1° con la enfermedad
+¿Qué es un portador probable?	Aquellas personas que tienen a un solo familiar de primer grado afectado con la enfermedad
+¿Tipo de neurofibromatosis asociada con problemas en la cognición?	Tipo 1
+¿Los nódulos de Lisch son característicos de cual neurofibromatosis?	NF1
+¿Mecanismo de herencia de la neurofibromatosis?	Autosómico dominante
+¿Incidencia de la neurofibromatosis I?	1:2600 a 3000
+¿Cuales patologías están sobrerrepresentadas en la neurofibromatosis tipo 1?	Tumores malignos y enfermedades vasculares
+¿Donde está la región crítica de la mutación de la Neurofibromatosis I?	17q11.2
+¿Cuál es el gen asociado a la neurofibromatosis I?	NF1
+¿Cuadro clínico de la neurofibromatosis 1?	manchas café-au-lait pecas axilares y/o inguinales nódulos de Lisch (hamartomas del iris) neurofibromas estatura corta complicaciones neurológicas tumores hipertensión problemas cognitivos y del desarrollo.
+¿Como se hace el diagnóstico de la neurofibromatosis I?	Hallazgos clínicos (> 6 maculas, >2 neurofibromas, glicoma de la vía óptica, nódulos de Lisch, lesiones óseas
+¿Promedio de vida de los pacientes con neurofibromatosis I?	59 años
+¿Qué codifica el gen NF1?	Neurofibrina
+¿Que codifica el gen NF2?	MERLIN
+¿Penetrancia de NF1?	Variable
+¿Penetrancia de NF2?	Completa
+¿Prevalencia de la neurofibromatosis 2?	"'1:25000"
+¿Cuadro clínico de la neurofibromatosis 2?	Schwanomas y otros tumores del sistema nervioso.
+¿Complicaciones de la NF2?	Problemas neurológicos (visuales, auditivos, del habla, debilidad muscular, deglución)
+¿Patrón de herencia del síndrome de Marfan?	Autosómico dominante
+¿Incidencia del Sindrome de Marfan?	1:3000 a 5000
+¿Gen asociado con el síndrome de Marfan?	FBN1
+¿Región crítica del síndrome de Marfan?	15q21.1
+¿Función del gen FBN1?	Funcion de las microfibrillas extracelulares para la formación de fibras elásticas en la matriz extracelular de tejidos elásticos.
+¿Cuadro clínico típico del síndrome de Marfan?	Enfermedad aortica (dilatación, regurgitación y disección) crecimiento linear excesivo laxitud articular aranodactilia anormalidades físicas ectopia lentis.
+¿Qué se usa para hacer el diagnóstico del síndrome de Marfan?	Criterios de Ghent
+¿Cuáles son los criterios de Ghent?	Diámetro de la aorta >2 o disección de la raíz aortica, mutaciones en FBN1, ectopia lentis, extremidades alargadas.
+¿Incidencia de la acondroplasia?	1:15000-20000 y su prevalencia de 1:27000
+¿Cuál es la displasia ósea más común en humanos?	Acondroplasia
+¿Gen causante de la acondroplasia?	Factor de crecimiento fibroblástico 3 (FGFR3)
+¿Región crítica de la acondoplasia?	4p16.3
+¿Cuadro clínico de la acondroplasia?	macrocefalia protuberancia frontal retrusión del tercio medio facial y nariz aplanada silla de montar estatura desproporcionadamente corta acortamiento rizomélico de los brazos y piernas braquidactilia cifoescoliosis lordosis lumbar acentuada otitis media complicaciones en la respiración.
+¿Cómo es el desarrollo intelectual de un paciente con acondroplastia?	Normal
+¿Como se hace el diagnóstico de la acondroplasia?	Manifestaciones clínicas, hallazgos radiológicos, resultados moleculares (1138 del gen FGFR3)
+¿Complicaciones más frecuentes en pacientes con acondroplasia?	otitis media recurrente trastornos respiratorios del sueño obesidad arqueamiento de las piernas estrechamiento de la columna lumbar compresión de la medula cervical
+¿Como se hace El diagnóstico prenatal de la acondroplasia?	PCR a una muestra de amniocentesis o BVC.
+¿Patrón de herencia de la fibrosis quística?	Autosómica recesiva
+¿Incidencia de la fibrosis quística?	<5:10000
+¿Gen asociado a la Fibrosis quística?	CFTR, Delta F 508
+¿Qué no funciona correctamente en la fibrosis quística?	Un canal de cloro y proteína reguladora de los tejidos exocrinos
+¿Cuáles son las conscecuencias del malfuncionamiento de los canales de cloro en la fibrosis quística?	Alteración iónica, secreción espesa en pulmones, páncreas, hígado, intestinos y tracto reproductivo
+¿Cuadro clínico de la fibrosis quística?	Tos persistente hiperinflación en campos pulmonares infecciones recurrentes en via aérea insuficiencia exocrina (páncreas, hígado principalmente) obstrucciones gastrointestinales problemas renales sudan mucho
+¿Como se hace el diagnóstico de la fibrosis quística?	Prueba de cloro en sudor, síntomas consistentes con FQ, presencia de dos mutaciones en CFTR.
+¿Pruebas para el diagnóstico neonatal de la FQ?	Ensayo de IRT y ADN.
+¿Principales complicaciones a largo plazo de la fibrosis quística?	EPOC, cirrosis biliar e insuficiencia crónica
+¿Expectativa de vida para los pacientes con fibrosis quística?	30-40 años
+¿Patrón de herencia de la galactosemia?	Autosómica recesiva
+¿Incidencia de la galactosemia?	"'1:60000"
+¿Donde está el gen asociado con la galactosemia?	9p13
+¿Cuáles son las versiones en la que se presenta la galactosemia?	Deficiencia en galactosa-1-fosfato uridil transferasa (GALT), o en galactocinasa (GALKL), o uridina difosfato galactosa-4-epimerasa (GALE)
+¿Cuál es la versión de la galactosemia más frecuente?	GALT
+¿Cuadro clínico de la galactosemia?	ictericia vómitos retrasos en el crecimiento mala alimentación letargia diarrea y sepsis (por E.coli) cataratas deterioro neurocognitivo retraso en el crecimiento falla ovárica prematura
+¿Como se hace el diagnóstico de la galactosemia?	Estudios del metabolismo de carbohidratos función hepática y renal, de orina y sangre. ensayo de la actividad GALT por fluoroinmunoensayo o radioinmunoensayo
+¿Como se hace el diagnóstico prenatal de la galactosemia?	Ensayos de GALT en fibroblastos cultivados desde una amniocentesis o por una biopsia de vellosidades coriónicas
+¿Enfoque del tratamiento de la galactosemia?	Minimizar/eliminar la ingesta de galactosa.
+¿Qué es la fenilcetonuria?	Niveles elevados de fenilpiruvato urinario y fenilacetato
+¿Cuál es la causa de la fenilcetonuria?	Deficiencia de fenilalanina hidroxilasa
+¿Incidencia de la fenilcetonuria?	1: 10000 a 50000
+¿Cuál es el mecanismo de la fenilcetonuria?	Toxicidad por exceso de fenilalanina
+¿Cuál es el cuadro clínico de la fenilcetonuria?	Restricción del crecimiento postnatal discapacidad intelectual moderada-grave convulsiones recurrentes hipopigmentación erupciones cutáneas eccematosas
+¿Patrón de herencia de la fenilcetonuria?	Autosómica recesiva
+¿Como se hace el diagnóstico de la fenilcetonuria?	Niveles altos de fenilalanina en sangre y niveles plasmáticos de tirosina normales o bajos.
+¿Como se hace el diagnóstico prenatal de la fenilcetonuria?	Espectrometría de masas en tándem
+¿En que se enfoca el tratamiento de la fenilcetonuria?	Restricción dietética de fenilalanina y aumento de la actividad enzimática.
+¿Patrón de herencia de la distrofia muscular de Duchenne?	Recesiva ligada al X.
+¿Cuál es la causa de la distrofia muscular de Duchenne?	Ausencia o fallo de la distrofina
+¿Funcion de la distrofina?	Mantiene la integridad de la membrana de los miocitos
+¿Incidencia de la distrofia muscular de Duchenne?	"'1:3500"
+¿Donde está la región critica de la distrofia muscular de Duchenne?	Xp12
+¿Cuáles son los dos hotspots de las deleciones en la distrofia muscular de Duchenne?	43-53 (51 más común), y 2-20
+¿Cuál es el cuadro clínico de la distrofia muscular de Duchenne?	Debilidad en músculos proximales e inferiores dificultad para correr y saltar signo de Gower marcha inusual lordosis agrandamiento de las pantorrillas dolor en las piernas retraso motor grueso deterioro cognitivo leve
+¿Como se hace el diagnóstico de la distrofia muscular de Duchenne?	Niveles de creatinina (CPK x20), electromiografía, MLPA, FISH, PCR multiplex.
+¿Cuál es la mejor opción para el diagnóstico molecular de la distrofia muscular de Duchenne?	MLPA
+¿Cuál es el signo de Gower?	Apoyarse con las manos para ponerse de pie en posición erguida
+¿Cuál es el desorden del almacenamiento lisosomal más prevalente?	Enfermedad de Fabry
+¿Cuál es el mecanismo de herencia de la enfermedad de Fabry?	Recesivo ligado al X
+¿Cuál es la incidencia de la Enfermedad de Fabry?	1:8500 a 11700.
+¿Cuál es la causa del síndrome de Fabry?	Acumulación lisosomal de globotriaolsilceramida (Gb3) en las células del cuerpo
+¿Cuál es el cuadro clínico de la enfermedad de Fabry Clásica?	acroparestesias telangiectasias angiqueratomas dolor abdominal nauseas recurrentes vómitos problemas renales opacidad de la córnea deterioro cardiaco progresivo.
+¿Donde se encuentra el gen responsable de la enfermedad de Fabry?	Xq22.1
+¿La deficiencia de cual enzima causa el síndrome de Fabry?	hidrolasa lisosómica alfa-galactosidasa A (alfa-Gal A)
+¿Como se hace el diagnóstico de la enfermedad de Fabry?	Medición de alfa-Gal A (<3% establece Dx), ensayo de ADN de GLA
+¿Qué aspectos se tiene que vigilar en pacientes con la enfermedad de Fabry?	Funcion renal y neurológica
+¿Causas más frecuentes de muerte en pacientes con enfermedad de Fabry?	Enfermedades cardiovasculares, falla renal, sepsis y suicidios
+Qué aspectos se deben de vigilar en una paciente con Síndrome de Turner?	Densidad ósea, cardiovascular, presión arterial, neurocognición y función sexual
+Región critica del síndrome de Cri-du Chat	5p15.3 y 5p15.2
+Cuáles son los cromosomas acrocéntricos?	13, 14, 15, 21 y 22
+¿Qué es un portador probable?	Aquellas personas que tienen a un solo familiar de primer grado afectado con la enfermedad
+¿Como se hace el diagnóstico prenatal de la fenilcetonuria?	Espectrometría de masas en tándem
+¿Cuántos genes tiene el genoma mitocondrial?	37
+¿Cuántos genes codificantes tiene el genoma mitocondrial?	33
+¿Cuál es la causa de la inestabilidad del genoma mitocondrial?	Especies reactivas de Oxígeno
+¿Por cuál progenitor se suelen heredar las mitocondrias?	Madre
+¿Que se significa MELAS?	Sindrome de encefalopatía mitocondrial con acidosis láctica y episodios similares a derrame cerebral
+¿Dónde está la mutación que causa el MELAS?	m.3242A>G
+¿Gen afectado en MELAS?	MT-TL1
+¿Como es la infancia de las personas con MELAS?	Normal
+¿Tipo de herencia donde puede haber líneas rojas?	Mitocondrial
+¿Incidencia de la Corea de Huntington?	0.48:100,000
+¿Región critica de la corea de Huntington?	4p16.3
+¿Gen afectado en la corea de Huntington?	HHT/IT15
+¿Cuál es la causa de la corea de Huntington?	>40 repeticiones de CAG en HHT
+¿Cuál es el mínimo de repeticiones necesarias para que la corea de Huntington cause síntomas con frecuencia?	>36
+¿Cuántas repeticiones no causan síntomas pero son inestables en la corea de Huntington?	27-35
+¿Dónde está la huntingtina?	Cerebro
+¿Qué causa la mutación en la Huntingtina?	Ganancia de función
+¿Cuál es la característica más importante en la corea de Huntington?	Corea
+¿En cuál etapa de la corea de Huntington se empieza a perder la independencia?	media.
+¿Enfermedad monogénica no clásica causada por repeticiones en una región codificante?	Corea de Huntington
+¿Cuadro clínico de la Corea de Huntington?	Corea, pérdida progresiva de función motora, movimientos anormales de los ojos, problemas psiquiátricos, decadencia cognitiva, demencia
+¿Causa de discapacidad intelectual heredable más frecuente?	Sindrome de X frágil
+¿Prevalencia del síndrome de X frágil?	1:4000-70000
+¿Cuál es la causa del síndrome de X frágil?	Perdida de la función de FMR1
+¿Región critica del síndrome de X frágil?	Xq27.3
+¿Mecanismo del síndrome de X frágil?	>200 repeticiones metila a FMR1.
+¿Intervalo de repeticiones en X frágil para considerarla una premutación?	50-200
+¿Bases que se expanden en el síndrome de X frágil?	CGG
+¿En el síndrome de X frágil, a mayor número de repeticiones...?	Mayor gravedad del síndrome
+¿Qué es el fenómeno de anticipación en el síndrome de X frágil?	A mayor número de repeticiones, menor edad de presentacion
+¿Por qué mecanismo se da principalmente el síndrome de X frágil?	Microdeleciones (70%)
+¿Cuadro clínico del síndrome de X frágil?	retraso en el desarrollo de todas las áreas, discapacidad intelectual y del aprendizaje. También hay decadencia de las habilidades cognitivas. Alargamiento de la cara, frente y barbilla prominentes, orejas largas, tamaño postpuberal aumentado, macrocefalia, prolapso benigno de la válvula mitral, hiperlaxidad de las articulaciones.
+¿Fenotipo de aparición tardía de X frágil en hombres?	Sindrome de temblor ataxia asociada a X frágil
+¿Fenotipo de aparición tardía de X frágil en mujeres?	Falla ovárica prematura
+¿Como se hace el diagnóstico del síndrome de X frágil?	FISH, PCR, análisis de metilación
+¿Cuál es la causa más común de obesidad sindrómica?	Prader Willi
+¿Cuál es el mecanismo del síndrome de Prader-Willi?	Ausencia de Genes paternales en 15q11.2 y q13 por deleciones o disomía maternal.
+¿Prevalencia del síndrome de Prader Willi?	1:15,000-25,000
+¿Cuál es la causa del síndrome de Prader Willi?	Expresión ausente de snoRNA del cromosoma paterno
+¿Cuál es la principal característica del síndrome de Prader Willi?	HIPOTONÍA
+¿Cuadro clínico del síndrome de Prader Willi?	Hipotonía obesidad hiperfagia problemas en el comportamiento dificultades en el aprendizaje deficiencia de hormona del crecimiento adrenarca prematura hipogonadismo problemas ortopédicos.
+¿En el síndrome de Prader Willi, cuando se adquiere la obesidad?	Edad escolar
+¿Características prenatales del síndrome de Prader Willi?	Actividad fetal disminuida, tamaño pequeño para la edad gestacional, polihidramnios, crecimiento asimétrico.
+¿Como se hace el diagnóstico del síndrome de Prader Willi?	FISH, PCR
+¿Como se maneja el síndrome de Prader Willi?	Intervenciones nutricionales para el control de la obesidad
+¿Incidencia del Síndrome de Angelman?	1:10000-20000
+¿Cuál es la causa del Sindrome de Angelman?	Expresión ausente de UBE-3A
+¿Región critica del síndrome de Angelman?	15q11.2 y q13
+¿Mecanismos del síndrome de Angelman?	Metilación de 15q11.2 y q13 en el cromosoma materno
+¿Cuadro clínico del síndrome de Angelman?	Risa y sonrisas frecuentes, convulsiones, discapacidad intelectual grave, retraso motor grueso notable, deficiencias del desarrollo del lenguaje
+¿Diagnóstico del síndrome de Angelman?	PCR, FISH o Southern Blot en región crítica
+¿Complicaciones del síndrome de Angelman?	Alimentación, hiperactividad, escoliosis, trastornos del sueño.
+¿Incidencia del síndrome de Rett?	"'1:22800"
+¿Gen afectado en el síndrome de Rett?	MECP2
+¿Región critica del síndrome de Rett?	Xq28
+¿Proteína afectada en el síndrome de Rett?	proteína de unión a metil-CpG2
+¿Como es el parto y desarrollo temprano en una paciente con síndrome de Rett?	Normal
+¿Cuadro clínico del síndrome de Rett?	Fallo en el crecimiento, epilepsia, patrón respiratorio desorganizado, deficiencia del hueso mineral y fracturas, disfunción del SNA

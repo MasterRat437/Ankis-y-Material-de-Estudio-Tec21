@@ -1,0 +1,320 @@
+¿Qué porcentaje ocupa el plasma sanguíneo de la sangre?	55%	Sangre Generalidades
+¿Qué porcentaje ocupan los elementos formes de la sangre?	42-47%	Sangre Generalidades
+¿Qué volumen de la sangre son las plaquetas?	1%	Sangre Generalidades
+¿Cuáles son las funciones de la sangre?	Transportar oxígeno, llevar productos de desecho, mantener la temperatura corporal, mantener balance ac/bas, transporte de hormonas y señalizadores celulares y es el reservorio del sistema inmune	Sangre Generalidades
+¿Qué causa los niveles bajos de hemoglobina en la sangre?	Anemia	Sangre Generalidades
+¿Cuál es la principal diferencia entre el suero y el plasma?	El plasma tiene factores de la coagulación, y el suero no	Sangre Generalidades
+¿Porcentaje que ocupa el principal componente del plasma sanguíneo?	Agua, 91-92%	Sangre Generalidades
+¿Cuál es la principal proteína del plasma?	Albúmina (50%)	Sangre Generalidades
+¿Dónde se produce la albúmina?	Hígado	Sangre Generalidades
+Nombre de la principal proteína sanguínea que ayuda a mantener la presión osmótica?	Albúmina	Sangre Generalidades
+Proteína sanguínea que es la efectora de la reacción inmune humoral?	Gammaglobulinas	Sangre Generalidades
+Globulina no inmune más grande?	Fibrinógeno	Sangre Generalidades
+Tamaños de los eritrocitos?	diámetro 7.8 micrómetros, 2.8 en periferia, 0.8 en el centro	Sangre Generalidades
+Promedio de vida de los eritrocitos?	120 días	Sangre Generalidades
+¿Cuántos eritrocitos tiene un hombre promedio?	5,000,000-5500,000 por mm3	Sangre Generalidades
+¿Cuántos eritrocitos tiene una mujer promedio?	4,500,000-5000000 por mm3.	Sangre Generalidades
+¿Cuántos leucocitos hay por cada milímetro cúbico de sangre?	6000-10000	Sangre Generalidades
+Granulocitos: 	Neutrófilos, eosinófilos y basófilos	Sangre Generalidades
+¿Cuál leucocito es el más numeroso?	neutrófilo	Sangre Generalidades
+¿Porcentaje que componen los neutrófilos?	60-70%	Sangre Generalidades
+¿Tamaño de los neutrófilos?	9-12 micrómetros	Sangre Generalidades
+¿Qué leucocito funciona principalmente contra bacterias y hongos?	Neutrófilos	Sangre Generalidades
+¿Qué leucocito funciona principalmente contra padecimientos agudos?	Neutrófilos	Sangre Generalidades
+¿Cuántos neutrófilos tenemos por mm^3?	3500-7000	Sangre Generalidades
+¿Cuántos eosinófilos tenemos por mm^3?	150-400	Sangre Generalidades
+¿Porcentaje que componen los eosinófilos?	2-4%	Sangre Generalidades
+Diámetro de los eosinófilos?	10-14 micrómetros	Sangre Generalidades
+¿Contra qué luchan principalmente los eosinófilos?	Reacciones crónicas contra parásitos, asma y alergias	Sangre Generalidades
+¿Cuántos basófilos hay por mm3 de sangre?	50-100	Sangre Generalidades
+¿Qué porcentaje de los leucocitos son basófilos?	0.50%	Sangre Generalidades
+En cuáles reacciones participan los basófilos?	Hipersensibilidad inmediata (asma), tardía (cutáneas), infecciones virales y procesos inflamatorios crónicos	Sangre Generalidades
+Tamaño de los basófilos?	8-10 micrómetros	Sangre Generalidades
+¿Cuántos linfocitos hay por mm^3?	1500-2500	Sangre Generalidades
+¿Qué porcentaje de los leucocitos está formado por los linfocitos?	20-25%	Sangre Generalidades
+¿Cómo se dividen los linfocitos?	B, T y NK	Sangre Generalidades
+¿Cuál es el linfocito más numeroso?	T	Sangre Generalidades
+¿Cuántos monocitos hay por mm^3?	200-500	Sangre Generalidades
+¿Qué porcentaje de los leucocitos está formado por monocitos?	3-5%	Sangre Generalidades
+¿Tamaño de los monocitos?	12-20 micrómetros	Sangre Generalidades
+¿Cuando maduran los monocitos en fagocitos?	Cuando entran al líquido intersticial	Sangre Generalidades
+¿Tamaño de las plaquetas?	2-4 micrómetros	Sangre Generalidades
+¿Vida media de las plaquetas?	8-10 días	Sangre Generalidades
+¿Número de plaquetas por micrómetro(?) de sangre?	250000-400000	Sangre Generalidades
+¿Célula con la que se inicia la hematopoyesis?	Células Madres Troncales/Pluripotenciales	Sangre Hematopoyesis
+¿En cuales huesos ocurre la hematopoyesis?	Pelvis, vértebras, cráneo, mandíbula, esternón, costillas, húmero, escapula, clavícula y parte proximal del fémur	Sangre Hematopoyesis
+¿Cuál es el principal hueso donde ocurre la hematopoyesis?	Pelvis	Sangre Hematopoyesis
+¿Cuándo se comienza a formar la médula ósea?	Segundo mes de gestación	Sangre Hematopoyesis
+¿En qué micro compartimentos se divide la médula ósea?	Vascular y hematopoyético	Sangre Hematopoyesis
+¿Cuándo inicia la hematopoyesis?	Entre primera y segunda semanas de gestación	Sangre Hematopoyesis
+En el desarrollo embrionario, donde ocurre la hematopoyesis complementaria?	Eje Riñón/Aorta/Gónada Mesonéfrica	Sangre Hematopoyesis
+¿En dónde ocurre la hematopoyesis después de la S6-7 de gestación?	Hígado, bazo y nódulos linfáticos	Sangre Hematopoyesis
+¿Cuándo inicia la hematopoyesis en la médula ósea?	Últimos tres meses de gestación	Sangre Hematopoyesis
+¿Qué es la capacidad de autorrenovación?	La célula se divide en dos copias, una hija que sigue siendo una célula madre y la otra se diferencia	Sangre Hematopoyesis
+¿Cuáles células sólo tienen el marcador CD34?	Células Troncales Hematopoyéticas	Sangre Hematopoyesis
+¿Cuáles son las cuatro estirpes celulares?	Eritroide, granulocítica, linfoide y monocíticas	Sangre Hematopoyesis
+¿Qué forman las células madre mieloides?	eritrocitos, plaquetas, granulocitos y monocitos	Sangre Hematopoyesis
+¿Qué forman las madres linfoides?	linfocitos B y T y NK	Sangre Hematopoyesis
+¿Cómo es la línea eritroide?	Proeritroblasto, eritroblasto basófilo, policromatófilo, ortocromático, reticulocito y eritrocito	Sangre Hematopoyesis
+¿Cómo es la línea granulocítica?	Microblasto, promielocito, mielocito, metamielocito, cayado y forma madura	Sangre Hematopoyesis
+¿Cómo es la línea linfoide?	Linfoblasto, prolinfocito y linfocito	Sangre Hematopoyesis
+¿Cómo es la línea monocítica?	Monoblasto, promonocito, monocito, macrófago/osteoblasto	Sangre Hematopoyesis
+Leucina para la regulación de la hematopoyesis?	IL-3	Sangre Hematopoyesis
+En la hematopoyesis, que regula la SCF?	Células madre pluripotenciales y UFC	Sangre Hematopoyesis
+¿Qué no regula la GM-CSF?	Células madre pluripotenciales	Sangre Hematopoyesis
+¿Qué regula la IL-6?	Formación de las plaquetas	Sangre Hematopoyesis
+¿Qué regula la expresión de los monocitos?	M-CSF	Sangre Hematopoyesis
+¿Qué regula la G-CSF?	Neutrófilos	Sangre Hematopoyesis
+¿Qué regula la IL-5?	Eosinófilos	Sangre Hematopoyesis
+Eritropoyesis		Sangre Hematopoyesis
+¿Cuál es la primera célula eritroide comprometida?	BFU-e	Sangre Hematopoyesis
+En el linaje eritroide, ¿cuál célula se sigue a la BFU-e?	CFU-e	Sangre Hematopoyesis
+¿Qué célula eritroide está después de la CFU-e?	Pronormoblasto	Sangre Hematopoyesis
+Cuáles son las divisiones del normoblasto?	basófilo, policromático y ortocromático	Sangre Hematopoyesis
+¿Entre las células eritroides se expulsa el núcleo?	Normoblasto ortocromático y reticulocito	Sangre Hematopoyesis
+¿Cuál célula del linaje eritroide no tiene ni ARN ni ribosomas?	Eritrocito	Sangre Hematopoyesis
+¿Cuál célula del linaje eritroide inicia sin hemoglobina?	Normoblasto basófilo	Sangre Hematopoyesis
+¿Cuál es el primer precursor del linaje eritroide que se puede reconocer?	Pronormoblasto	Sangre Hematopoyesis
+Por qué el eritrocito tiene un periodo de vida reducido?	Porque no puede reparar daños celulares por la falta de núcleo y ribosomas	Sangre Hematopoyesis
+¿Cuál es la principal hormona reguladora de la eritropoyesis?	Eritropoyetina	Sangre Hematopoyesis
+¿Donde se sintetiza principalmente la eritropoyetina?	Riñón (85%)	Sangre Hematopoyesis
+¿Estímulo necesario para la producción de eritropoyetina?	hipoxia	Sangre Hematopoyesis
+¿Cuáles células detectan la hipoxia para la producción de eritropoyetina?	Células peritubulares	Sangre Hematopoyesis
+Además de los riñones, donde se produce eritropoyetina?	Hígado	Sangre Hematopoyesis
+¿Qué hormona estimula la eritropoyetina?	Testosterona	Sangre Hematopoyesis
+¿Qué efecto tiene la IL-3 y GM-CSF en la eritropoyesis?	La aumentan	Sangre Hematopoyesis
+¿Hormonas que ayudan a la regulación positiva de la eritropoyesis?	Insulina e IGF-1	Sangre Hematopoyesis
+¿Nombre del grupo hem?	Protoporfirina IX	Sangre Hematopoyesis
+¿Porcentaje del citoplasma que ocupa la hemoglobina?	aprox 95%	Sangre Hematopoyesis
+Cuáles son los tres tipos de hemoglobina más comunes en humanos?	HbA1, HbA2 y HbF	Sangre Hematopoyesis
+¿Cómo está formada la HbA1?	dos alfa, dos beta	Sangre Hematopoyesis
+¿Porcentaje de la hemoglobina en el adulto formada por HbA1?	96%	Sangre Hematopoyesis
+¿Cómo está formada la HbA2?	dos alfa, dos delta	Sangre Hematopoyesis
+¿Porcentaje de la hemoglobina en el adulto formada por HbA2?	2%	Sangre Hematopoyesis
+¿Cómo está formada la HbF?	dos alfa, dos gama	Sangre Hematopoyesis
+¿Porcentaje de la hemoglobina en el adulto formada por HbF?	2%	Sangre Hematopoyesis
+¿Qué es el hematocrito?	Proporción total de eritrocitos en relación con el volumen sanguíneo	Sangre Hematopoyesis
+¿Qué es una hemoglobina relajada?	Cuando tiene un oxígeno	Sangre Hematopoyesis
+¿Qué tiene el grupo hem cuando no tiene oxígeno?	2,3-difosfoglicerato	Sangre Hematopoyesis
+¿Otro nombre para la hemoglobina tensa?	Desoxihemoglobina	Sangre Hematopoyesis
+¿Qué sustancia liberan los tejidos hipóxicos para facilitar la liberación de oxígeno?	2,3-difosfoglicerato	Sangre Hematopoyesis
+En qué parte de la célula ocurre la síntesis de hemoglobina?	Mitocondria y plasma	Sangre Hematopoyesis
+¿Hacia dónde tiende la curva cuando el oxígeno tiene mayor afinidad por el oxígeno?	izquierda	Sangre Hematopoyesis
+Donde está almacenado el 6% del hierro del cuerpo?	Eritrocitos	Sangre Hematopoyesis
+¿Qué se le tiene que hacer al hierro antes de absorberlo?	Reducirlo en su forma ferrosa	Sangre Hematopoyesis
+¿Cómo se llama la proteína que transporta el hierro hacia afuera de la sangre?	Ferroportina	Sangre Hematopoyesis
+Sustancia que inhibe a la ferroportina?	Hepcidina	Sangre Hematopoyesis
+En que se convierte la protoporfirina de la hemoglobina cuando se recicla?	Bilirrubina no conjugada	Sangre Hematopoyesis
+¿Cuándo se produce la hepcidina?	Cuando hay mucho hierro en la sangre.	Sangre Hematopoyesis
+Donde se sintetiza la hepcidina?	Hígado	Sangre Hematopoyesis
+¿Molécula usada para el transporte del hierro en el torrente?	Transferrina	Sangre Hematopoyesis
+Molécula para el almacenamiento de hierro?	Ferritina	Sangre Hematopoyesis
+Promedio de absorción diaria de hierro?	1 mg	Sangre Hematopoyesis
+Consumo diario de hierro en hombres adultos?	8 mg	Sangre Hematopoyesis
+Consumo diario de hierro en mujeres en edad reproductiva?	18 mg	Sangre Hematopoyesis
+¿Cuál es la principal causa de anemia?	Deficiencia de hierro	Sangre Hematopoyesis
+¿Cómo están las reservas de hierro en una deficiencia de hierro prelatente?	Bajas o ausentes	Sangre Hematopoyesis
+¿Cómo está el hierro plasmático en una deficiencia prelatente?	Normal	Sangre Hematopoyesis
+¿Cómo está el hierro plasmático en una deficiencia latente?	Bajo o ausente	Sangre Hematopoyesis
+¿Cómo está la saturación de la transferrina en una deficiencia latente de hierro?	Baja	Sangre Hematopoyesis
+¿Cómo está la hemoglobina en una deficiencia latente de hierro?	Normal	Sangre Hematopoyesis
+¿Cuánto hierro hay en promedio por cada mililitro de eritrocito?	1g	Sangre Hematopoyesis
+¿Función de la cobalamina?	Coenzima de metionina sintetasa y donante de metilo	Sangre Hematopoyesis
+Sustancia necesaria para la absorción de cobalamina?	Factor intrínseco	Sangre Hematopoyesis
+¿En donde se absorbe el complejo IF-B12?	Íleon terminal	Sangre Hematopoyesis
+¿Dónde se absorbe el ácido fólico?	yeyuno e íleon	Sangre Hematopoyesis
+¿Porcentaje de los folatos que se destinan a la eritropoyesis?	0.25%	Sangre Hematopoyesis
+¿Función del ácido fólico en la eritropoyesis?	Transportar carbonos en la síntesis del grupo hem, replicación de ADN	Sangre Hematopoyesis
+Cuáles son las rutas metabólicas usadas por los eritrocitos para generar energía?	Ciclo de Embden-Meyerhof y Vía Aeróbica de la hexosa monofosfato	Sangre Hematopoyesis
+¿Cuál es la principal ruta metabólica de los eritrocitos?	Ciclo de Embden-Meyerhof	Sangre Hematopoyesis
+¿Vía metabólica del eritrocito que genera 2,3-difosfoglicerato?	Vía de Embden Meyerhof	Sangre Hematopoyesis
+¿Niveles normales de hemoglobina en el hombre adulto?	13.5-15.5	Sangre Biometria
+¿Niveles normales de hemoglobina en mujeres adultas?	dic-14	Sangre Biometria
+¿Qué es el hematocrito?	Porcentaje de la sangre que está compuesta por glóbulos rojos	Sangre Biometria
+¿Niveles normales de hematocrito?	38.3-48.6% en hombres, 35.5-44.9% mujeres	Sangre Biometria
+¿Volumen corpuscular medio normal?	90FL	Sangre Biometria
+¿Valores de referencia para la HCM?	27-34 pg.	Sangre Biometria
+¿Qué es la hemoglobina corpuscular media?	Cantidad promedio de hemoglobina por eritrocitos en picogramos	Sangre Biometria
+¿Cómo se calcula la hemoglobina corpuscular media?	Hb/GR	Sangre Biometria
+Concentración media de hemoglobina corpuscular normal?	34 g/%	Sangre Biometria
+¿Cuál es la concentración media de hemoglobina corpuscular?	Promedio de la concentración de hemoglobina en 100 ml de eritrocitos	Sangre Biometria
+Valor normal del coeficiente de variación del VGM (volumen corpuscular medio)?	12-13%	Sangre Biometria
+Niveles de reticulocitos normales?	0.8-2.5 hombres, 0.8-4.1 mujeres	Sangre Biometria
+Leucocitos normales en adultos?	7.4 (4.5-11) 10^3/mm^3	Sangre Biometria
+Niveles normales de neutrófilos?	4.4 (1.8-7.7) 10^3/mm^3	Sangre Biometria
+Niveles normales de linfocitos?	2.5 (1-4.8) 10^3/mm^3	Sangre Biometria
+Niveles normales de monocitos?	0.3 10^3/mm^3	Sangre Biometria
+Niveles normales de eosinófilos?	0.2 10^3/mm^3	Sangre Biometria
+Nivel normal de la serie plaquetaria?	150.350 10^3/mm^3	Sangre Biometria
+¿Qué es un aloantígeno?	Antígeno presente en otras personas pero no en mi	Sangre GruposSanguineos
+¿Qué es un aloanticuerpo?	Anticuerpo presente en otras personas pero no en mi	Sangre GruposSanguineos
+¿Qué se necesita para la generación de un aloanticuerpo?	Contacto con células de otras personas	Sangre GruposSanguineos
+¿Qué codifica el gen ABO?	Glucosiltransferasa	Sangre GruposSanguineos
+¿Qué carbohidrato tiene el tipo de sangre A?	N-acetilgalactosamina	Sangre GruposSanguineos
+¿Qué carbohidrato tiene el tipo de sangre B?	Galactasa	Sangre GruposSanguineos
+¿Qué carbohidrato tiene el tipo de sangre O?	No tiene	Sangre GruposSanguineos
+En cual estructura se pegan los carbohidratos que definen el tipo sanguíneo?	Sustancia H	Sangre GruposSanguineos
+¿Cómo se llama el anticuerpo que reconoce los tipos sanguíneos?	IgM	Sangre GruposSanguineos
+¿Qué ocurre cuando se expone un antígeno a su anticuerpo en la sangre?	Hemólisis	Sangre GruposSanguineos
+¿Qué determina el Rh?	Presencia o ausencia del antígeno D	Sangre GruposSanguineos
+Los Rh- tiene anticuerpos para Rh +?	Solo después de estar en contacto con ellos.	Sangre GruposSanguineos
+¿Cómo se llama el anticuerpo del grupo Rh?	IgG	Sangre GruposSanguineos
+Cual anticuerpo de los grupos sanguíneos puede pasar por la placenta?	IgG	Sangre GruposSanguineos
+Sustancia aplicada para esconder el antígeno D y evitar reacción inmunes?	RhoGAM	Sangre GruposSanguineos
+Quienes pueden recibir de O-?	Todos	Sangre GruposSanguineos
+¿Quiénes pueden donar a AB +?	Todos	Sangre GruposSanguineos
+Uso del paquete globular?	Incrementar la capacidad transportadora de oxígeno	Sangre GruposSanguineos
+Recomendaciones del uso de paquetes globulares?	Hemoglobina baja (<7g/100ml o Hto <21%)	Sangre GruposSanguineos
+Recomendaciones del uso de concentrados plaquetarios?	Sangrados activos por disfunción plaquetario, profilaxis o recuento plaquetario bajo	Sangre GruposSanguineos
+¿Cuándo se usa plasma fresco?	Cuando el paciente tiene deficiencias de factores de la coagulación V o XI	Sangre GruposSanguineos
+Contraindicaciones del plasma fresco?	Hipovolemia, plasmaféresis e índice de coagulación prolongado en ausencia de sangrado.	Sangre GruposSanguineos
+¿Qué es una transfusión masiva?	Sustitución del volumen sanguíneo total o más en un periodo menor de 24h, o 50% en 3h.	Sangre GruposSanguineos
+¿Cuáles son las tres funciones de las plaquetas?	Adhesión, agregación y liberación/amplificación	Sangre Plaquetas
+¿A que linaje pertenecen las plaquetas?	Mieloide	Sangre Plaquetas
+¿Cuál es la primera célula comprometida al linaje plaquetario?	BFU-Meg	Sangre Plaquetas
+¿En qué célula maduran los CFU-Meg?	LD-CFU-Meg	Sangre Plaquetas
+¿Cuál célula del linaje plaquetario es la primera en dividirse por endomitosis?	LD-CFU-Meg	Sangre Plaquetas
+¿Número de plaquetas producidas por un solo megacariocito?	2000-4000	Sangre Plaquetas
+¿Principal hormona para la producción de plaquetas?	Trombopoyetina	Sangre Plaquetas
+¿Por medio de cual receptor actúa la trombopoyetina?	c-MPL	Sangre Plaquetas
+¿Dónde se produce la mayoría de la TPO?	Hígado (95%)	Sangre Plaquetas
+¿Qué efecto tiene la TPO sobre los megacariocitos?	Aumenta número y tasa de maduración	Sangre Plaquetas
+¿Cuál organelo no tienen las plaquetas?	Núcleo	Sangre Plaquetas
+¿Sistema interno de las plaquetas usado para el almacenamiento de proteinas hemostáticas?	Canal Canicular Superficial	Sangre Plaquetas
+¿Cuál es el contenido de los gránulos plaquetarios más comunes?	Proteinas (factores de la coagulación, vWF, PDGF).	Sangre Plaquetas
+¿Número de gránulos alfa por plaqueta?	50-80	Sangre Plaquetas
+¿Contenido de los gránulos densos?	ADP, ATP, serotonina, calcio (no proteicos)	Sangre Plaquetas
+¿Cuántos gránulos densos hay por plaqueta?	02-jul	Sangre Plaquetas
+¿Cuál glucoproteína facilita la adhesión plaquetaria al colágeno?	GPIa	Sangre Plaquetas
+¿Cuáles glucoproteínas son usadas para la adhesión plaquetaria a vWF?	Ib, IIa, IIb	Sangre Plaquetas
+¿Las glucoproteínas IIb y IIa a se pegan a ?	Fibrinógeno y vWF	Sangre Plaquetas
+¿Cuál es la prima señal de agregación plaquetaria?	GPI	Sangre Plaquetas
+¿Como es el endotelio cuando está en un estado basal?	Antitrombótico y antiinflamatorio	Sangre Plaquetas
+¿Cuál es el principal estímulo para la coagulación?	Exposición al colágeno	Sangre Plaquetas
+¿Qué une las plaquetas con el endotelio?	Factor de von Willibrand	Sangre Plaquetas
+¿Que inhibe a las plaquetas?	PGI y NO	Sangre Plaquetas
+¿Qué sustancias causan la activación inicial de las plaquetas?	Laminina, colágeno, fibrinógeno y vWF	Sangre Plaquetas
+¿Qué transforma el fibrinógeno en fibrina?	Protrombina	Sangre Coagulación
+¿Cuál factor de la coagulación inicia la cascada?	Factor Tisular	Sangre Coagulación
+¿Qué factor de la coagulación activa la trombina?	V	Sangre Coagulación
+¿Cuáles son los factores de la coagulación dependientes de vitamina K?	II, VII, IX, X	Sangre Coagulación
+¿Cuál factor de la coagulación inicia la vía intrínseca?	XII	Sangre Coagulación
+¿Factor que estabiliza la fibrina?	XIII	Sangre Coagulación
+¿Cómo estabiliza el factor XIII a la fibrina?	Convierte sus puentes de hidrógeno en enlaces covalentes	Sangre Coagulación
+¿Componentes del complejo protrombinasa?	X y V	Sangre Coagulación
+¿Qué inicia la vía extrínseca?	La formación del complejo FT:VIIa	Sangre Coagulación
+¿Qué activa el factor X?	FT:VIIa	Sangre Coagulación
+¿Cuál factor de la vía intrínseca activa a la trombina?	V	Sangre Coagulación
+¿Qué activa la vía intrínseca?	Activación del factor XII por el colágeno	Sangre Coagulación
+¿Factor de la vía extrínseca que activa la trombina?	Factor IX	Sangre Coagulación
+¿Cuáles componentes de la cascada activan el fibrinógeno?	Trombina y calcio	Sangre Coagulación
+¿Qué es activado por la trombina?	Plaquetas, factores V, VIII, IX y XIII	Sangre Coagulación
+¿Sustancia necesaria para reactivar la vitamina K?	Warfarina	Sangre Coagulación
+¿Qué factores afectan las hemofilias a, b y c? A 8, b 9 y C 11		Sangre Coagulación
+¿Tromboxano más importante?	A2	Sangre Coagulación
+¿Sustancia usada para la regulación negativa de la coagulación?	Trombomodulina	Sangre Coagulación
+¿Cofactor necesario para la activación de la proteína C?	Cofactor S	Sangre Coagulación
+¿Factores inhibidos por la proteína C?	VIII y V	Sangre Coagulación
+¿Qué degrada la fibrina?	Plasmina	Sangre Coagulación
+¿Cómo se activa la plasmina?	Trombina, factor XII y t-PA	Sangre Coagulación
+¿Cómo se llama la sustancia que inhibe la plasmina?	PAI-1	Sangre Coagulación
+Menciona los constituyentes del sistema circulatorio; cuál es la diferencia entre el sistema circulatorio y el sistema cardiovascular.
+Describe las diversas funciones de la sangre y cómo contribuye a la homeostasis
+¿Cuáles son los dos componentes principales de la sangre total? ¿Cuáles son las cantidades relativas de plasma y elementos formes en la sangre? Menciona las tres categorías principales de elementos formes.
+Describe la composición del plasma sanguíneo y el suero.
+Menciona cuál es la importancia de la viscosidad y la osmolaridad de la sangre, el responsable de cada una y los efectos patológicos de la viscosidad o la osmolaridad anormales.
+Define presión osmótica coloide.
+¿Cuáles son las formas generales de la hematopoyesis? ¿Dónde ocurre en el embrión, en el feto y después del nacimiento? ¿Cuál es el nombre de la célula madre con la cual empiezan todas las vías hematopoyéticas?
+18.2 Eritrocitos
+Describe la estructura y función del eritrocito.
+Menciona las funciones de la hemoglobina y la anhidrasa carbónica.
+Describe la estructura de la hemoglobina y cuáles son las partes que unen el O2 y el CO2.
+Proporciona tres formas de cuantificar los eritrocitos y la concentración de hemoglobina de la sangre; la definición y las unidades de medida de cada uno y las razones para las diferencias en los valores entre hombres y mujeres.
+Menciona las etapas de la eritropoyesis y las principales transformaciones en cada una.
+¿Por qué el hierro es esencial? ¿Cómo el estómago convierte el hierro de la dieta en una forma aprovechable? Menciona las funciones de la gastroferrina, la transferrina y la ferritina en el metabolismo del hierro.
+Describe la regulación homeostásica de la eritropoyesis, además de los orígenes y la función de la eritropoyetina.
+¿Cuál es el tiempo de vida de un eritrocito? ¿Cómo los elimina el cuerpo?
+¿De qué manera el cuerpo dispone de la hemoglobina de los eritrocitos muertos y cómo se relaciona con los pigmentos de la bilis, las heces y la orina?
+¿Cómo se denominan los excesos y las deficiencias en la cantidad de eritrocitos? Menciona las formas, causas y consecuencias patológicas de cada uno de estos trastornos.
+Describe las causas y efectos de las deficiencias de la hemoglobina y la patología de la anemia falciforme y la talasemia.
+18.3 Tipos de sangre
+¿Qué determina el tipo sanguíneo de una persona? Describe los tipos de sangre del grupo ABO y cómo difieren en genética y en antígenos eritrocíticos.
+¿Por qué un individuo no tiene anticuerpos plasmáticos contra los tipos ABO al nacer, sino que los desarrolla durante la infancia? ¿Cómo estos anticuerpos limitan la compatibilidad de la transfusión?
+Menciona la causa y el mecanismo de una reacción de la transfusión y por qué desencadena insuficiencia renal y muerte. Define aglutinación y hemólisis.
+¿Cuáles son los tipos de sangre del grupo Rh y cómo difieren en genética y en antígenos eritrocíticos?
+¿Qué puede causar que una persona desarrolle anticuerpos contra los eritrocitos Rh positivos?
+Menciona los grupos sanguíneos diferentes del ABO y Rh y su utilidad para ciertos propósitos.
+¿Qué es la enfermedad hemolítica del recién nacido; ¿por qué rara vez ocurre en el primer hijo susceptible de una mujer, pero es más usual en embarazos posteriores? ¿Cómo se trata y previene?
+18.4 Leucocitos
+Describe la función general de los leucocitos.
+Menciona los tres tipos de granulocitos, los dos tipos de agranulocitos y cuáles son las diferencias como clase entre ambos.
+¿Cuál es la forma, el tamaño relativo y la cantidad, así como las funciones de cada tipo de leucocito y condiciones en las que aumenta cada tipo en un conteo diferencial de leucocitos?
+Menciona las tres líneas principales de células, etapas y sitios anatómicos de la leucopoyesis.
+¿Cuánto tiempo viajan los leucocitos en la circulación sanguínea y cuánto se mantienen en otros tejidos?; ¿qué tipo vuelve a circular en la sangre y cuáles no lo hacen? Menciona el tiempo de vida relativo de los leucocitos.
+Describe las causas y efectos de la leucopenia y la leucocitosis.
+Proporciona la denominación y clasificación de varios tipos de leucemia; ¿por qué la leucemia suele estar acompañada por deficiencias de eritrocitos y plaquetas y existe el riesgo elevado de infecciones oportunistas?
+18.5 Plaquetas y el control de la hemorragia
+Describe la estructura y las funciones de las plaquetas. ¿Cómo es un conteo de plaquetas típico? ¿Por qué las plaquetas no se consideran células?
+Menciona los sitios y los procesos de producción de plaquetas así como la hormona que las estimula.
+Describe tres mecanismos de hemostasia y su rapidez y eficacia relativas.
+¿Cuál es el objetivo general de la coagulación? Menciona el producto final de las reacciones de la coagulación. ¿Cuáles son las diferencias básicas entre los mecanismos extrínsecos e intrínsecos?
+Explica los elementos esenciales del mecanismo extrínseco, incluidas las sustancias químicas que lo inician, otros procoagulantes involucrados y el punto en el cual converge con el mecanismo intrínseco en una vía común.
+Explica los elementos esenciales del mecanismo intrínseco, así como las sustancias químicas que lo inician, otros procoagulantes involucrados y el punto en el que converge con el mecanismo extrínseco.
+Expón los pasos que, en secuencia de la coagulación, desde el factor X a la fibrina, incluidos los procoagulantes que intervienen.
+¿Cuáles son las funciones de la retroalimentación positiva y la amplificación de la enzima en la coagulación?
+Describe los procesos para la retracción del coágulo, la reparación vascular y la fibrinólisis.
+¿Cuáles son los mecanismos de prevención de la coagulación inapropiada en los vasos no dañados?
+Menciona las causas de deficiencias en la coagulación, incluidos los tipos, la genética y la patología de la hemofilia.
+¿Qué términos se emplean para la coagulación no deseada o inapropiada en un vaso, el propio coágulo y un coágulo que se desprende y viaja de forma libre en la circulación sanguínea?
+¿Por qué la coagulación espontánea se desarrolla con más frecuencia en las venas que en las arterias? ¿Qué peligro representan los coágulos sanguíneos que viajan? ¿Por qué estos coágulos se alojan con tanta frecuencia en los pulmones, aunque se originen en lugares tan lejanos como las extremidades inferiores?
+Pon a prueba tu memoria
+Respuestas en el apéndice A
+1. Los anticuerpos pertenecen a una clase de proteínas plasmáticas llamadas:
+Albúminas, Globulinas gamma, Globulinas alfa, Procoagulantes, Aglutininas
+2. El suero es similar al plasma sanguíneo, pero no contiene:
+Iones de sodio, Iones de calcio,Proteínas de la coagulación, Globulinas, Albúmina
+3. ¿Cuál de los siguientes trastornos tiene mayores probabilidades de provocar anemia hemolítica?
+Deficiencia de ácido fólico, Deficiencia de hierro, Envenenamiento por hongos, Alcoholismo, Hipoxemia
+4. Es imposible que un bebé con sangre tipo O+ tenga una madre con sangre tipo ______ .
+AB–, O–, O+, A+, B+
+5. ¿Cuál de los siguientes no es un componente de la hemostasia?
+Formación de tapón de plaqueta, Aglutinación, Retracción del coágulo, Espasmo vascular, Desgranulación
+6. ¿Cuál de los siguientes elementos contribuye más a la viscosidad de la sangre?
+Albúmina, Sodio, Globulinas, Eritrocitos, Fibrina
+7. ¿Cuál de estos es un granulocito?
+Monocito, Linfocito, Macrófago, Eosinófilo, Eritrocito
+8. El exceso de hierro se almacena en el hígado como un complejo denominado:
+Gastroferritina, Transferrina, Ferritina, Hepatoferritina Eritropoyetina
+9. La anemia perniciosa es resultado de:
+Hipoxemia, Deficiencia de hierro, Malaria Falta de factor intrínseco, Incompatibilidad de Rh
+10. El primer factor de la coagulación que las vías intrínseca y extrínseca tienen en común es:
+Tromboplastina, Factor Hageman, Factor X, Activador de la protrombina, Factor VIII
+11. A la producción de todos los elementos formes de la sangre se le denomina ______ .
+12. El porcentaje del volumen de sangre compuesto por eritrocitos es ______ .
+13. La vía extrínseca de la coagulación se activa por ______ de tejidos perivasculares dañados.
+14. A los antígenos eritrocíticos que determinan la compatibilidad de la transfusión se les denomina ______ .
+15. La falta hereditaria de factor VIII causa una enfermedad llamada ______ .
+16. El cese general de la hemorragia, que involucra varios mecanismos, recibe el nombre de ______ .
+17. ______ es resultado de una mutación que cambia un aminoácido en la molécula de hemoglobina.
+18. A un conteo de eritrocitos demasiado elevado se le llama ______ .
+19. El factor intrínseco permite que el intestino delgado absorba ______ .
+20. La hormona renal ______ estimula la producción de eritrocitos.
+
+cual es el error?
+Los eritrocitos constituyen la mayor parte del volumen de la sangre.
+Un incremento anormal de concentración de albúmina en la sangre causa que la sangre fluya de forma más lenta y por tanto, reduce la presión arterial.
+La anemia es causada por una baja concentración de oxígeno en la sangre.
+La hemostasia y la coagulación son dos términos para el mismo proceso.
+Si una mujer con sangre tipo B+ tiene un bebé con tipo de sangre O−, entonces su esposo, que es tipo A+, no puede ser su padre biológico.
+Los linfocitos son los leucocitos más abundantes en la sangre.
+Los iones de potasio son un cofactor necesario en numerosos pasos en los procesos de coagulación de la sangre.
+Todos los elementos formes de la sangre, excepto las plaquetas, provienen definitivamente de las células madre pluripotentes.
+Cuando los eritrocitos mueren y se desintegran, la fracción globina de la hemoglobina se excreta y se recicla el hemo en los nuevos eritrocitos.
+La leucemia es una deficiencia grave de los leucocitos.
+Verifica tu comprensión
+¿Por qué la eritropoyesis no podría corregir la hipoxemia generada por el cáncer de pulmón?
+Las personas con enfermedad renal crónica suelen tener hematócritos con menos de la mitad del valor normal. Explica por qué.
+Una mujer blanca de edad avanzada es atropellada por un autobús y padece lesiones graves. Se informa a los investigadores del accidente que vive en un almacén abandonado, donde sus escasos efectos personales constan de botellas de vino vacías y una licencia de conducción vencida, la cual indica que tiene 72 años de edad. En el hospital, descubre que padece anemia grave. Enumera todos los factores que consideras que puedan contribuir a la anemia.
+¿Cuál es la diferencia entre la coagulación y la aglutinación?
+Aunque el fibrinógeno y la protrombina son necesarios por igual para la coagulación de la sangre, el fibrinógeno representa el 4% de las proteínas plasmáticas, mientras que la protrombina solo existe en cantidades ínfimas. Teniendo en consideración las funciones de estos factores de la coagulación y tu conocimiento sobre las enzimas explica esta diferencia de forma más detallada.
+Recuperadas del saladin

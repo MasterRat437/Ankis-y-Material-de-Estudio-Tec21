@@ -1,0 +1,312 @@
+¿Función del vermis del cerebelo?	Control muscular axial	SistemaNervioso	SistemaNerviosoCentral
+¿Qué estructura encefálica se encarga de coordinar los movimientos voluntarios?	Cerebelo.	SistemaNervioso	SistemaNerviosoCentral
+¿Cuántas capas tiene la corteza del cerebelo?	3, molecular externa, capa media de células de Purkinje y capa de células granulosas	SistemaNervioso	SistemaNerviosoCentral
+¿Cuál es la zona que controla el tono muscular y los movimientos voluntarios del cuerpo?	Hemisferios Cerebelosos.	SistemaNervioso	SistemaNerviosoCentral
+¿Función de los hemisferios cerebelosos?	Control muscular de las extremidades.	SistemaNervioso	SistemaNerviosoCentral
+¿Función de los colículos inferiores?	Reflejos auditivos	SistemaNervioso	SistemaNerviosoCentral
+¿Núcleos del cerebelo en orden lateral-medial?	Dentado, emboliforme, globoso y fastigio	SistemaNervioso	SistemaNerviosoCentral
+¿Función de los pedúnculos cerebelosos?	Conectar el cerebelo con la cara posterior del tronco encefálico	SistemaNervioso	SistemaNerviosoCentral
+¿Función principal del cerebelo?	Coordinación de movimientos voluntarios	SistemaNervioso	SistemaNerviosoCentral
+¿Cuál es la parte más grande del rombencéfalo?	Cerebelo	SistemaNervioso	SistemaNerviosoCentral
+¿Además del cerebelo, que otra estructura tiene 3 capas en su corteza?	Parte posterior del lóbulos temporal	SistemaNervioso	SistemaNerviosoCentral
+¿Cuáles pedúnculos cerebelos existen?	Superiores, medios e inferiores	SistemaNervioso	SistemaNerviosoCentral
+¿Cuáles son los lóbulos del cerebelo?	Anterior, medio y floculonodular.	SistemaNervioso	SistemaNerviosoCentral
+¿Núcleos profundos del cerebelo?	Dentado, emboliforme, globoso y fastigio	SistemaNervioso	SistemaNerviosoCentral
+¿Estructura que une los hemisferios del cerebelo?	Vermis	SistemaNervioso	SistemaNerviosoCentral
+¿Principal Función del cerebelo?	Coordinación de movimientos voluntarios precisos	SistemaNervioso	SistemaNerviosoCentral
+¿Neurotransmisor principal del cerebelo?	GABA	SistemaNervioso	SistemaNerviosoCentral
+¿Estructuras que tienen fibras de comisura?	cuerpo calloso, comisuras anterior y superior, comisura habenular y fórnix	SistemaNervioso	SistemaNerviosoCentral
+¿Función de las fibras de comisura?	Conectar diferentes Áreas con el otro hemisferio	SistemaNervioso	SistemaNerviosoCentral
+¿Estructuras separadas por la Cisura de Rolando?	Separa frontal del parietal	SistemaNervioso	SistemaNerviosoCentral
+¿Áreas de Brodmann para la visión?	17, 18 y 19	SistemaNervioso	SistemaNerviosoCentral
+¿Función de las fibras de asociación?	Conectar regiones dentro de un mismo hemisferio	SistemaNervioso	SistemaNerviosoCentral
+¿Área de Brodmann del gusto?	43	SistemaNervioso	SistemaNerviosoCentral
+¿En qué región de la corteza cerebral llega la información somatosensitiva?	Parietal.	SistemaNervioso	SistemaNerviosoCentral
+¿Cuál es el sistema eferente del hipocampo?	Fórnix	SistemaNervioso	SistemaNerviosoCentral
+¿De dónde a dónde va el fórnix?	de los cuerpos mamilares al hipotálamo	SistemaNervioso	SistemaNerviosoCentral
+¿En cuál lóbulo está el Surco Lateral o de Silvio?	Lóbulo temporal	SistemaNervioso	SistemaNerviosoCentral
+¿cuál estructura cortical es la que se encarga de emitir juicios, valores, comportamientos?	Lóbulo frontal.	SistemaNervioso	SistemaNerviosoCentral
+¿Función principal del lóbulo parietal?	somatosensación	SistemaNervioso	SistemaNerviosoCentral
+¿Cuál es la estructura que participa en la comprensión del lenguaje?	Área de Wernicke.	SistemaNervioso	SistemaNerviosoCentral
+¿Función del área de Wernicke?	Comprensión del lenguaje	SistemaNervioso	SistemaNerviosoCentral
+¿Que contiene el surco de Silvio?	Área auditiva	SistemaNervioso	SistemaNerviosoCentral
+¿Fibras que conectan Áreas iguales de distintos hemisferios?	Fibras de protección	SistemaNervioso	SistemaNerviosoCentral
+¿Áreas de Brodmann para el Área de Wernicke?	22, 41 y 42	SistemaNervioso	SistemaNerviosoCentral
+¿Áreas de Brodmann para el área auditiva?	41 y 42	SistemaNervioso	SistemaNerviosoCentral
+¿Que conecta el AM del habla y los giros del LF con la corteza del temporal?	Fascículo uncinado	SistemaNervioso	SistemaNerviosoCentral
+¿Lóbulo encargado de la flexibilidad cognitiva y la inhibición.	Lóbulo frontal.	SistemaNervioso	SistemaNerviosoCentral
+¿Áreas de Brodmann del área somatosensitiva primaria?	1,2 y 3	SistemaNervioso	SistemaNerviosoCentral
+¿Dónde se realizan los movimientos voluntarios?	Lóbulo frontal, en el área precentral (área 4 de Brodmann)	SistemaNervioso	SistemaNerviosoCentral
+¿Función de las fibras de proyección?	Conectar de la corteza a lugares lejanos (tallo cerebral)	SistemaNervioso	SistemaNerviosoCentral
+¿Cuál área de Brodmann corresponde al área motora primaria?	4	SistemaNervioso	SistemaNerviosoCentral
+¿Función del área motora primaria?	Control voluntario del movimiento	SistemaNervioso	SistemaNerviosoCentral
+¿Cuál es la estructura que conecta el Área de Broca con el Área de Wernicke?	El Fascículo Arqueado/Arcuato	SistemaNervioso	SistemaNerviosoCentral
+¿Dónde está la identidad, la inteligencia y las habilidades complejas?	Corteza prefrontal	SistemaNervioso	SistemaNerviosoCentral
+¿Qué estructuras se encuentran en el telencéfalo?	Los hemisferios cerebrales.	SistemaNervioso	SistemaNerviosoCentral
+¿Qué hay por delante de la cisura de rolando?	células motoras	SistemaNervioso	SistemaNerviosoCentral
+¿Áreas de Brodmann para la somatosensación?	1, 2 y 3	SistemaNervioso	SistemaNerviosoCentral
+¿Fibras que forman la corona radiada?	fibras de protección	SistemaNervioso	SistemaNerviosoCentral
+¿Función de la corteza cerebral:	Ser la parte integradora de los estímulos que llegan al cerebro.	SistemaNervioso	SistemaNerviosoCentral
+¿Comisura que cruza la línea media por encima del acueducto mesencefálico?	Comisura posterior	SistemaNervioso	SistemaNerviosoCentral
+¿Áreas de Brodmann del Área de Broca?	44 y 45	SistemaNervioso	SistemaNerviosoCentral
+¿Dónde está el área motora primaria?	giro precentral	SistemaNervioso	SistemaNerviosoCentral
+¿Cuántas capas tiene la corteza cerebral?	6	SistemaNervioso	SistemaNerviosoCentral
+¿Cisura que separa al lóbulo parietal del occipital?	Parietooccipital	SistemaNervioso	SistemaNerviosoCentral
+¿Cuál es la Afasia de Broca?	Aquella en la que el entendimiento de las palabras es el idóneo, pero la expresión no lo es. En esta el paciente puede comprender conceptos y transformarlos en pensamientos, pero no puede compartirlos con otra persona.	SistemaNervioso	SistemaNerviosoCentral
+¿Función del lóbulo occipital?	Visión	SistemaNervioso	SistemaNerviosoCentral
+¿Qué hace el cuerpo calloso?	conecta ambos hemisferios	SistemaNervioso	SistemaNerviosoCentral
+¿Función del lóbulo temporal?	Audición, comprensión del lenguaje, percepción de la forma y color	SistemaNervioso	SistemaNerviosoCentral
+¿Cuál es la Afasia Receptiva (de Comprensión/de Wernicke)?	Aquella en la que el paciente tiene una déficit en su comprensión del lenguaje. Es en la que el paciente puede producir lenguaje pero este no tiene coherencia. Dicho resumidamente, aquella en la que hablas pero no entiendes. El paciente tiene una buena fluidez en el habla, pero una comprensión alterada.	SistemaNervioso	SistemaNerviosoCentral
+¿Cisura que rodea al cuerpo calloso?	Calcarino	SistemaNervioso	SistemaNerviosoCentral
+¿Funciones del lóbulo frontal?	iniciativa, juicio, razonamiento abstracto, creatividad, conducta, identidad, Funciones cognitivas elevadas	SistemaNervioso	SistemaNerviosoCentral
+¿Dónde está ubicada la corteza motora primaria?	En el Giro Precentral/Circunvolución frontal Ascendente.	SistemaNervioso	SistemaNerviosoCentral
+¿Dónde está el área somatosensitiva primaria?	En el giro poscentral	SistemaNervioso	SistemaNerviosoCentral
+¿Cuál es la función del Área de Broca?	Producción del lenguaje	SistemaNervioso	SistemaNerviosoCentral
+¿Dónde está el área de Wernicke?	Giro supramarginal	SistemaNervioso	SistemaNerviosoCentral
+¿Qué hay por detrás de la cisura de rolando?	Células sensitivas	SistemaNervioso	SistemaNerviosoCentral
+¿Cisuras que me tengo que aprender?	Rolando/central, Silvio/Lateral, Parietooccipital y Calcarina	SistemaNervioso	SistemaNerviosoCentral
+¿Área visual primaria?	17	SistemaNervioso	SistemaNerviosoCentral
+¿Dónde está el área de Broca?	Surco cerebral lateral izquierdo (lóbulo frontal)	SistemaNervioso	SistemaNerviosoCentral
+¿Estructura responsable del movimiento de las extremidades:	Hemisferios cerebelosos	SistemaNervioso	SistemaNerviosoCentral
+¿Cuál es la estructura que participa en la producción motora del lenguaje?	Área de Broca.	SistemaNervioso	SistemaNerviosoCentral
+¿Localización del área motora del habla, mejor conocida como Área de Broca.	Giro precentral inferior, lóbulo frontal izquierdo.	SistemaNervioso	SistemaNerviosoCentral
+¿Función de la comisura anterior?	Conectar lóbulos temporales	SistemaNervioso	SistemaNerviosoCentral
+¿La interpretación de sensación de dolor y presión se realiza en:	Corteza cerebral.	SistemaNervioso	SistemaNerviosoCentral
+¿Una persona presenta lesión de la corteza occipital por hemorragia cerebral ¿Qué tipo de manifestación o alteraciones tendría?	Alteraciones visuales	SistemaNervioso	SistemaNerviosoCentral
+¿Cuál núcleo del tálamo recibe información auditiva?	Cuerpo geniculado medial	SistemaNervioso	SistemaNerviosoCentral
+¿Estructuras que componen el diencéfalo?	Tálamo, hipotálamo, glándula pineal e infundíbulo	SistemaNervioso	SistemaNerviosoCentral
+¿Qué hace el núcleo ventral posteromedial?	Da la sensación del cuello, cara y cabeza	SistemaNervioso	SistemaNerviosoCentral
+¿Función principal del tálamo?	Recibir y administrar información eferente.	SistemaNervioso	SistemaNerviosoCentral
+¿Lugar donde se administran Funciones e impulsos neuronales?	Tálamo	SistemaNervioso	SistemaNerviosoCentral
+¿Órgano encargado de las emociones viscerales:	El hipotálamo.	SistemaNervioso	SistemaNerviosoCentral
+¿Se encarga de transmitir la información del Sistema Límbico al Neocórtex:	Tálamo.	SistemaNervioso	SistemaNerviosoCentral
+¿Antes de llegar a la corteza cerebral, ¿a dónde llegan las vías sensitivas?	Al tálamo.	SistemaNervioso	SistemaNerviosoCentral
+¿Orificio por el cual se comunican los ventrículos lateral con el tercer ventrículo?	Forámenes interventriculares o de Monro	SistemaNervioso	SistemaNerviosoCentral
+¿Cuál núcleo del tálamo recibe información visual?	Cuerpo geniculado lateral	SistemaNervioso	SistemaNerviosoCentral
+¿Núcleo del tálamo que da sensación a los brazos y a los pies?	Núcleo ventral posterolateral.	SistemaNervioso	SistemaNerviosoCentral
+¿Funciones del hipotálamo?	Controla e integra SNA, S. Endocrino, homeostasis corporal, conducta sexual y emociones	SistemaNervioso	SistemaNerviosoCentral
+¿Segmento encargado de dar respuesta visceral de las emociones.	Hipotálamo.	SistemaNervioso	SistemaNerviosoCentral
+¿Principales lugares de los núcleos basales para recibir impulsos de entrada a los núcleos basales?	Núcleo caudado y putamen	SistemaNervioso	SistemaNerviosoCentral
+¿Estructuras que componen al cuerpo estriado?	Caudado y lentiforme	SistemaNervioso	SistemaNerviosoCentral
+¿Qué es el estriado?	caudado y putamen	SistemaNervioso	SistemaNerviosoCentral
+¿Qué núcleo se forma por el núcleo caudado y el núcleo lenticular?	Núcleo estriado	SistemaNervioso	SistemaNerviosoCentral
+¿Neurotransmisor muy abundante en la sustancia nigra?	Dopamina	SistemaNervioso	SistemaNerviosoCentral
+¿A cuáles estructuras de los núcleos de la base llegan los impulsos eléctricos?	Caudado y putamen	SistemaNervioso	SistemaNerviosoCentral
+¿A través de cual estructura de los núcleos basales los impulsos eléctricos los abandonan?	Globo pálido	SistemaNervioso	SistemaNerviosoCentral
+¿Por dónde abandonan los impulsos que llegan a los núcleos basales?	Por medio del globo pálido	SistemaNervioso	SistemaNerviosoCentral
+¿Estructuras que forman al núcleo lenticular?	Globo pálido y putamen	SistemaNervioso	SistemaNerviosoCentral
+¿A qué se relacionan Funcionalmente los núcleos de la base?	Control de la postura y movimiento voluntario	SistemaNervioso	SistemaNerviosoCentral
+¿Qué es la sustancia blanca?	axones y otras prolongaciones nerviosas	SistemaNervioso	SistemaNerviosoCentral
+¿Los nervios craneales y raquídeos componen al ___________.	Sistema Nervioso Periférico.	SistemaNervioso	SistemaNerviosoCentral
+¿Lugar en la que se ubican el Cerebelo, el Puente Troncoencefálico y el Bulbo Raquídeo	Rombencéfalo	SistemaNervioso	SistemaNerviosoCentral
+¿Qué es la sustancia gris?	cuerpos neuronales	SistemaNervioso	SistemaNerviosoCentral
+¿Cuáles nervios craneales no llegan al tallo?	1 y 2	SistemaNervioso	SistemaNerviosoCentral
+¿Estructuras que conectan el tallo cerebral con el cerebelo?	Pedúnculos superior, medio e inferior.	SistemaNervioso	SistemaNerviosoCentral
+¿Estructuras que forman el tallo cerebral?	Mesencéfalo, puente, protuberancia, bulbo raquídeo.	SistemaNervioso	SistemaNerviosoCentral
+¿Función de los colículos superiores?	Centros de reflejos visuales	SistemaNervioso	SistemaNerviosoCentral
+¿En dónde se da la decusación de las pirámides?	Medula oblongata	SistemaNervioso	SistemaNerviosoCentral
+¿Cuáles nervios craneales llegan al puente?	V, VI, VII y VIII	SistemaNervioso	SistemaNerviosoCentral
+¿Estructura cerebral que conecta el prosencéfalo con la medula?	Tallo cerebral o tronco encefálico	SistemaNervioso	SistemaNerviosoCentral
+¿De dónde surgen los núcleos de los nervios craneales?	Mesencéfalo	SistemaNervioso	SistemaNerviosoCentral
+¿Que controla la vía corticoespinal?	movimiento voluntario	SistemaNervioso	SistemaNerviosoCentral
+¿Función del tallo cerebral?	Contiene conductos ascendentes y descendentes que conectan la medula con el prosencéfalo	SistemaNervioso	SistemaNerviosoCentral
+¿Núcleos de nervios craneales que están en el tallo cerebral?	III-XII	SistemaNervioso	SistemaNerviosoCentral
+¿Función del núcleo cuneatus?	Control de extremidades superiores	SistemaNervioso	SistemaNerviosoCentral
+¿A que estructura la protuberancia es anterior?	Cerebelo	SistemaNervioso	SistemaNerviosoCentral
+¿Cuáles nervios craneales llegan al bulbo raquídeo?	IX, X, XI y XII	SistemaNervioso	SistemaNerviosoCentral
+¿Función del núcleo gracilis?	Control de extremidades inferiores	SistemaNervioso	SistemaNerviosoCentral
+¿Función de la protuberancia?	conecta al bulbo raquídeo con el mesencéfalo	SistemaNervioso	SistemaNerviosoCentral
+¿Dónde están los núcleos gracilis y cuneatus?	Puente y medula	SistemaNervioso	SistemaNerviosoCentral
+¿Estructura que conecta al puente y al cerebelo con el prosencéfalo?	Mesencéfalo	SistemaNervioso	SistemaNerviosoCentral
+¿Cuáles son los tractos encargados de transportar la sensación de presión, vibración y sensibilidad general?	Cordones posteriores.	SistemaNervioso	SistemaNerviosoCentral
+¿Función del sistema del cordón dorsal?	Tacto fino y propiocepción	SistemaNervioso	SistemaNerviosoCentral
+¿Cuál es el tracto encargado de llevar el dolor y la temperatura?	Espinotalámico Lateral	SistemaNervioso	SistemaNerviosoCentral
+¿En cuál estructura suelen estar las neuronas de tercer orden?	Tálamo	SistemaNervioso	SistemaNerviosoCentral
+¿Tipo de neuronas en la medula espinal?	Neuronas multipolares	SistemaNervioso	SistemaNerviosoCentral
+¿Qué problemáticas puede generar una lesión al asta anterior?	Parálisis (pues del asta anterior se originan las fibras motoras)	SistemaNervioso	SistemaNerviosoCentral
+¿Función del tracto corticoespinal?	Movimientos rápidos, hábiles y precisos	SistemaNervioso	SistemaNerviosoCentral
+¿Origen del sistema nervioso simpático en la médula espinal?	Zona Toracolumbar (T1-L2).	SistemaNervioso	SistemaNerviosoCentral
+¿Dónde se origina la información estereoreceptiva?	Fuera del cuerpo	SistemaNervioso	SistemaNerviosoCentral
+¿Grupo posterior que se relaciona con el dolor, la temperatura y el tacto?	Grupo de la sustancia gelatinosa	SistemaNervioso	SistemaNerviosoCentral
+¿Hasta dónde llega la medula espinal?	L1	SistemaNervioso	SistemaNerviosoCentral
+¿Qué grupo de la medula espinal inerva al diafragma?	Grupo central	SistemaNervioso	SistemaNerviosoCentral
+¿Cuáles son los núcleos de la parte posterior de la médula espinal?	Sustancia gelatinosa, núcleo propio, dorsal o columna de Clarke y aferente visceral	SistemaNervioso	SistemaNerviosoCentral
+¿Dónde se procesa la información de los tractos ascendentes?	Circunvalación poscentral de la corteza poscentral	SistemaNervioso	SistemaNerviosoCentral
+¿Nombre de los grupos de cuerpos neuronales en la medula espinal?	Ganglios	SistemaNervioso	SistemaNerviosoCentral
+¿Cuáles tractos ascendentes se relacionan con el tacto?	Sistema del cordón dorsal y tractos espinotalámicos	SistemaNervioso	SistemaNerviosoCentral
+¿Grupo de la medula espinal que inerva al músculo esquelético de los miembros?	Grupo lateral de las astas anteriores	SistemaNervioso	SistemaNerviosoCentral
+¿Hasta qué nivel llega la medula espinal?	L1	SistemaNervioso	SistemaNerviosoCentral
+¿Cuál neurona de los tractos descendentes ejecuta las acciones?	Secundaria	SistemaNervioso	SistemaNerviosoCentral
+¿Áreas de Brodmann donde se procesa la información de los tractos ascendentes?	1,2,y 3	SistemaNervioso	SistemaNerviosoCentral
+¿Único nivel vertebral del cual no salen raíces nerviosas?	C1	SistemaNervioso	SistemaNerviosoCentral
+¿Dónde está la neurona primaria de las vías ascendentes?	Ganglio de la raíz dorsal	SistemaNervioso	SistemaNerviosoCentral
+¿Estructura en la que se organizan las vías nerviosas en la sustancia blanca?	Tractos	SistemaNervioso	SistemaNerviosoCentral
+¿Función de la sustancia gelatinosa en la parte posterior de la medula?	Percepción del dolor, temperatura y tacto	SistemaNervioso	SistemaNerviosoCentral
+¿Zonas de la medula espinal donde hay cuernos laterales?	Torácicas y lumbares	SistemaNervioso	SistemaNerviosoCentral
+¿Función de los tractos reticuloespinales?	Movimientos voluntarios	SistemaNervioso	SistemaNerviosoCentral
+¿Cuál parte de la medula espinal inerva a la parte motora?	Parte anterior	SistemaNervioso	SistemaNerviosoCentral
+¿Función del tracto espinotalámico?	Dolor agudo, temperatura y tacto grueso	SistemaNervioso	SistemaNerviosoCentral
+¿Cuáles núcleos posteriores están en toda la medula?	Sustancia gelatinosa y el núcleo propio	SistemaNervioso	SistemaNerviosoCentral
+¿Tipo de tractos que se originan y terminan en la medula espinal?	Tractos Intersegmentarios	SistemaNervioso	SistemaNerviosoCentral
+¿Función del núcleo propio de la medula espinal?	propiocepción	SistemaNervioso	SistemaNerviosoCentral
+¿Función del tracto vestibuloespinal?	Facilita la actividad de músculos extensores	SistemaNervioso	SistemaNerviosoCentral
+¿Fibras descendentes que controlan a los sistemas parasimpático y simpático?	Fibras descendentes autónomas	SistemaNervioso	SistemaNerviosoCentral
+¿cuál neurona de los tractos descendentes manda las ordenes e inhibe a la otra neurona?	Primaria	SistemaNervioso	SistemaNerviosoCentral
+¿Dónde se encuentra la neurona de primer orden de la médula espinal?	Ganglio de la raíz posterior del nervio raquídeo	SistemaNervioso	SistemaNerviosoCentral
+¿Dónde se procesan los tractos descendentes?	Área Motora Primaria del giro Precentral	SistemaNervioso	SistemaNerviosoCentral
+¿Función del tracto espinotalámico?	Dolor	SistemaNervioso	SistemaNerviosoCentral
+¿Principal Función del grupo medial de la columna vertebral?	Inervación musculoesquelética del cuello, tronco y abdomen	SistemaNervioso	SistemaNerviosoCentral
+¿Cuál neurona de los tractos ascendentes es contralateral?	Segunda	SistemaNervioso	SistemaNerviosoCentral
+¿Cuál es el dermatoma de los pezones?	T4	SistemaNervioso	SistemaNerviosoCentral
+¿Núcleo de la medula espinal que da la propiocepción?	Núcleo propio y columnas de Clarke	SistemaNervioso	SistemaNerviosoCentral
+¿Dónde está la neurona secundaria de las vías ascendentes?	Núcleos del bulbo raquídeo	SistemaNervioso	SistemaNerviosoCentral
+¿Nivelo medular que no suele tener raíces posteriores?	C1	SistemaNervioso	SistemaNerviosoCentral
+¿Tractos ascendentes relacionados con el dolor?	Tractos espinotalámicos y la vía Espinorreticular	SistemaNervioso	SistemaNerviosoCentral
+¿cuál núcleo posterior de la medula espinal que no se encuentra en toda la columna está asociado a la propiocepción?	Núcleo dorsal o columna de Clarke	SistemaNervioso	SistemaNerviosoCentral
+¿Tipo de inervación del ganglio de la raíz dorsal?	Sensitiva	SistemaNervioso	SistemaNerviosoCentral
+¿Cuántas neuronas tienen los tractos descendentes?	2	SistemaNervioso	SistemaNerviosoCentral
+¿Función principal de los tractos descendentes?	Inervación de musculo	SistemaNervioso	SistemaNerviosoCentral
+¿Tracto descendente relacionado con la actividad de músculos flexores?	Tracto rubroespinal	SistemaNervioso	SistemaNerviosoCentral
+¿Que hace la parte posterior de la medula espinal?	Somatosensación	SistemaNervioso	SistemaNerviosoCentral
+¿En qué región de la médula espinal se encuentran los núcleos o somas donde nacen las fibras nerviosas que llevan información motora voluntaria?	En las astas anteriores.	SistemaNervioso	SistemaNerviosoCentral
+¿En dónde empieza la medula espinal?	Bulbo raquídeo	SistemaNervioso	SistemaNerviosoCentral
+¿Función del tracto espinocerebeloso?	movimiento y posición	SistemaNervioso	SistemaNerviosoCentral
+¿Núcleo relacionado con la percepción de información aferente visceral?	Núcleo aferente visceral	SistemaNervioso	SistemaNerviosoCentral
+¿Divisiones de la parte anterior de la medula espinal:	medial, central y lateral	SistemaNervioso	SistemaNerviosoCentral
+¿Tipo de neuronas que no necesitan llegar al encéfalo para producir una reacción?	Reflejas	SistemaNervioso	SistemaNerviosoCentral
+¿Tractos ascendentes asociados al movimiento y posición?	Espinocerebelosos dorsal y ventral	SistemaNervioso	SistemaNerviosoCentral
+¿Qué inerva el grupo medial de la medula espinal?	Músculos del cuello, tronco y abdomen	SistemaNervioso	SistemaNerviosoCentral
+¿Función de los tractos corticoespinales?	Movimientos rápidos, hábiles y precisos, especialmente de los extremos de los miembros	SistemaNervioso	SistemaNerviosoCentral
+¿Cuántos pares de nervios salen de la medula espinal?	31 pares	SistemaNervioso	SistemaNerviosoCentral
+¿Cuáles son los tractos ascendentes?	Sistema del cordón dorsal, espinotalámico, espinocerebeloso D, espinocerebeloso Ventral y vía Espinorreticular	SistemaNervioso	SistemaNerviosoCentral
+¿Cuáles son las capas que recubren a la medula espinal?	Dura, aracnoides y pía	SistemaNervioso	SistemaNerviosoCentral
+¿Nombre de las fibras nerviosas más allá de L1?	Cono medular	SistemaNervioso	SistemaNerviosoCentral
+¿Función del cono medular?	Control de esfínteres	SistemaNervioso	SistemaNerviosoCentral
+¿Dónde se encuentran las neuronas de segundo orden?	Medula espinal	SistemaNervioso	SistemaNerviosoCentral
+¿La información que se recibe debe ser procesada y después consolidada, ¿Cuál es la estructura que consolida la información y la almacena como memoria?	Hipocampo.	SistemaNervioso	SistemasIntegradoresCorticales
+¿Tipo de memoria requerida para contestar exámenes o pruebas de conocimiento general, como este:	Memoria Semántica.	SistemaNervioso	SistemasIntegradoresCorticales
+¿Efecto parasimpático en las glándulas salivales	Aumentar la salivación	SistemaNervioso	SistemaNerviosoPeriférico
+¿Dónde está el núcleo del hipogloso?	Bulbo raquídeo	SistemaNervioso	SistemaNerviosoPeriférico
+¿Estructura cerebral de donde emergen 12 nervios craneales:	Encéfalo.	SistemaNervioso	SistemaNerviosoPeriférico
+¿Nervio que da el gusto?	Facial, glosofaríngeo y vago	SistemaNervioso	SistemaNerviosoPeriférico
+¿Nivel espinal que no tiene dermatoma?	C1	SistemaNervioso	SistemaNerviosoPeriférico
+¿Las fibras sensoriales aferentes de la lengua son mediadas, principalmente, por cual nervio craneal?	Por el V.	SistemaNervioso	SistemaNerviosoPeriférico
+¿Nervio que controla al musculo palatogloso?	Vago	SistemaNervioso	SistemaNerviosoPeriférico
+¿Nervio craneal que controla al musculo oblicuo superior?	IV	SistemaNervioso	SistemaNerviosoPeriférico
+¿Nervio que controla el movimiento de la cabeza y de la cintura escapular?	Nervio accesorio	SistemaNervioso	SistemaNerviosoPeriférico
+¿Cuál glándula salival no inerva el VII?	Parótida	SistemaNervioso	SistemaNerviosoPeriférico
+¿Nervio cuyas fibras hacen relevo en el Ganglio de Gasset?	Trigémino	SistemaNervioso	SistemaNerviosoPeriférico
+¿Nervios que salen por la fisura orbitaria superior?	III y IV	SistemaNervioso	SistemaNerviosoPeriférico
+¿Musculo de la lengua que no es controlado por el Hipogloso?	Palatogloso	SistemaNervioso	SistemaNerviosoPeriférico
+¿Que está en el dermatoma T10?	Ombligo	SistemaNervioso	SistemaNerviosoPeriférico
+¿Musculo que controla el VI par craneal?	recto-lateral	SistemaNervioso	SistemaNerviosoPeriférico
+¿Por dónde sale V3?	Agujero oval	SistemaNervioso	SistemaNerviosoPeriférico
+¿Nervio Craneal que Inerva la Faringe:	Glosofaríngeo o IX.	SistemaNervioso	SistemaNerviosoPeriférico
+¿Dermatoma de los pezones?	T4	SistemaNervioso	SistemaNerviosoPeriférico
+¿Función del núcleo facial accesorio?	Control de glándulas salivales	SistemaNervioso	SistemaNerviosoPeriférico
+¿Qué nervio da la sensación general de la lengua?	Glosofaríngeo	SistemaNervioso	SistemaNerviosoPeriférico
+¿Nervio craneal encargado de controlar el movimiento de la lengua:	XII o Hipogloso.	SistemaNervioso	SistemaNerviosoPeriférico
+¿Nervio craneal que inerva las glándulas parótidas?	Glosofaríngeo	SistemaNervioso	SistemaNerviosoPeriférico
+¿Cuál es el par craneal que contrae la pupila?	Tercer par craneal	SistemaNervioso	SistemaNerviosoPeriférico
+¿A cuál nervio le pertenece el núcleo ambiguo?	Glosofaríngeo	SistemaNervioso	SistemaNerviosoPeriférico
+¿Dónde está el origen real del MOE	tegmento continuo de la protuberancia	SistemaNervioso	SistemaNerviosoPeriférico
+¿nervio que controla los músculos de la deglución?	Glosofaríngeo	SistemaNervioso	SistemaNerviosoPeriférico
+¿Nervio que tiene tres núcleos en el tallo cerebral?	Trigémino	SistemaNervioso	SistemaNerviosoPeriférico
+¿Nervio que da la parte aferente del reflejo nauseoso?	Glosofaríngeo	SistemaNervioso	SistemaNerviosoPeriférico
+¿Par craneal que cierra los parpados?	Facial	SistemaNervioso	SistemaNerviosoPeriférico
+¿Función del núcleo de Edinger Westphal?	Control de la parte autónoma de la pupila	SistemaNervioso	SistemaNerviosoPeriférico
+¿Nervio que da el gusto a 2/3 anteriores de la lengua?	Facial	SistemaNervioso	SistemaNerviosoPeriférico
+¿Por dónde sale V2?	Agujero redondo	SistemaNervioso	SistemaNerviosoPeriférico
+¿Nervios craneales que no tienen su origen en el tallo cerebral?	I, II, y VIII	SistemaNervioso	SistemaNerviosoPeriférico
+¿Nervio craneal que controla el movimiento ocular y al parpado superior?	MOC	SistemaNervioso	SistemaNerviosoPeriférico
+¿Nervio craneal que da el reflejo de la córnea?	Trigémino	SistemaNervioso	SistemaNerviosoPeriférico
+¿Dónde está el núcleo principal del trigémino?	Puente	SistemaNervioso	SistemaNerviosoPeriférico
+¿Dónde está el núcleo troclear?	Mesencéfalo	SistemaNervioso	SistemaNerviosoPeriférico
+¿Cuál nervio da la parte eferente del reflejo nauseoso?	Vago	SistemaNervioso	SistemaNerviosoPeriférico
+¿Cuáles son los núcleos del par VII?	Facial y facial accesorio	SistemaNervioso	SistemaNerviosoPeriférico
+¿Hasta dónde inerva V1?	Hasta la nariz	SistemaNervioso	SistemaNerviosoPeriférico
+¿Cuáles tres nervios craneales contienen receptores gustativos de la lengua?	El VII (para el tercio anterior de la lengua), el IX (para el tercio posterior) y el X (para la epiglotis).	SistemaNervioso	SistemaNerviosoPeriférico
+¿Primera rama de la Arteria Vertebral?	PICA (posteroinferior)	SistemaNervioso	EstructurasSoporteNervioso
+¿Arterias que forman el sistema carotideo?	Oftálmica, comunicante P, coroidea, Cerebral anterior, cerebral media	SistemaNervioso	EstructurasSoporteNervioso
+¿Desde qué nivel la arteria vertebral asciende por las vértebras?	C6	SistemaNervioso	EstructurasSoporteNervioso
+¿Arterias que forman el sistema vertebral?	Meníngeas, espinal posterior, espinal anterior, cerebelosa posteroinferior, basilar, pontinas, laberínticas, cerebral anteroinferior, cerebelosa superior, cerebral posterior	SistemaNervioso	EstructurasSoporteNervioso
+¿Cuáles son las meninges?	Duramadre, aracnoides y piamadre	SistemaNervioso	EstructurasSoporteNervioso
+¿Qué parte del polígono de Willis irriga a los L F, P y lateral del temporal?	Anterior	SistemaNervioso	EstructurasSoporteNervioso
+¿Cuál meninge es avascular?	Aracnoides	SistemaNervioso	EstructurasSoporteNervioso
+¿Agujero encontrado entre los ventrículos laterales y el tercer ventrículo:	Agujero de Monro.	SistemaNervioso	EstructurasSoporteNervioso
+¿Lugar donde se ubica el espacio epidural	Entre la duramadre y el hueso.	SistemaNervioso	EstructurasSoporteNervioso
+¿Segunda rama de la carótida interna en el cráneo?	hipofisiaria anterior	SistemaNervioso	EstructurasSoporteNervioso
+¿de dónde recibe el puente su irrigación?	Basilar, cerebelosas anterior, inferior y superior	SistemaNervioso	EstructurasSoporteNervioso
+¿Cuánto se produce de LCR al día?	400-500ml	SistemaNervioso	EstructurasSoporteNervioso
+¿Estructuras irrigadas por la arteria oftálmica?	Retina	SistemaNervioso	EstructurasSoporteNervioso
+¿Ventrículo cerebral que produce LCR?	laterales	SistemaNervioso	EstructurasSoporteNervioso
+¿cuánto tenemos de LCR?	150ml	SistemaNervioso	EstructurasSoporteNervioso
+¿Capas de la duramadre?	Endostica y meníngea	SistemaNervioso	EstructurasSoporteNervioso
+¿Cómo se denomina a la estructura que recubre el sistema nervioso central y que se continua con la capa externa de los nervios?	Piamadre	SistemaNervioso	EstructurasSoporteNervioso
+¿Dónde se produce el LCR?	Plexos coroideos de los Ventrículos laterales	SistemaNervioso	EstructurasSoporteNervioso
+¿Funciones del LCR?	Protección, transporte de hormonas y metabolitos, control de la excitabilidad	SistemaNervioso	EstructurasSoporteNervioso
+¿Arterias principales que forman al polígono de Willis?	Carótidas internas y vertebrales	SistemaNervioso	EstructurasSoporteNervioso
+¿Hasta dónde llega el espacio subaracnoideo?	S2	SistemaNervioso	EstructurasSoporteNervioso
+¿Capa de la duramadre que divide al encéfalo en 4 tabiques?	capa meníngea	SistemaNervioso	EstructurasSoporteNervioso
+¿de dónde recibe el tálamo su irrigación?	Comunicantes posterior, basilar y cerebral posterior	SistemaNervioso	EstructurasSoporteNervioso
+¿Ventrículo que absorbe o drena el LCR?	Cuarto ventrículo	SistemaNervioso	EstructurasSoporteNervioso
+¿Arterias que forman la comunicante anterior?	Cerebral media	SistemaNervioso	EstructurasSoporteNervioso
+¿Arterias que irrigan al cerebelo?	PICA, AICA y SUCA	SistemaNervioso	EstructurasSoporteNervioso
+¿Primera división de la carótida interna al llegar al cráneo?	Oftálmica	SistemaNervioso	EstructurasSoporteNervioso
+¿Segunda rama de la A. vertebral?	Basilar y AICA	SistemaNervioso	EstructurasSoporteNervioso
+¿Meninge que genera dolor de cabeza cuando se estira?	Duramadre	SistemaNervioso	EstructurasSoporteNervioso
+¿Función de la microglía?	reacción inmunológica del SN	SistemaNervioso	Neuroglia
+¿En dónde se encuentran las células de Schwann?	SNP	SistemaNervioso	Neuroglia
+¿Principal componente de la barrera hematoencefálica.	Astrocitos.	SistemaNervioso	Neuroglia
+¿Células que mielinizan la médula espinal (recuerda que médula es igual a Sistema Nervioso Central)	Los Oligodendrocitos.	SistemaNervioso	Neuroglia
+¿Qué caracteriza a las neuronas bipolares?	Que poseen un axón y una dendrita.	SistemaNervioso	Neuroglia
+¿Tipo de células de la macroglía que solo están el SNC?	Oligodendrocitos	SistemaNervioso	Neuroglia
+¿Función de la neuroglia?	Dar soporte y apoyo a la neuroglia	SistemaNervioso	Neuroglia
+¿Tipos de glía?	macroglía y microglía	SistemaNervioso	Neuroglia
+¿Células que llevan a cabo el filtrado del líquido cefalorraquídeo?	Células ependimarias	SistemaNervioso	Neuroglia
+¿Función de los astrocitos?	Controlar las concentraciones de iones y formar la barrera hematocefálica.	SistemaNervioso	Neuroglia
+¿Funciones de los astrocitos?	Soporte mecánico, andamiaje, regulación iónica, recaptación de neurotransmisores, formar la barrera hematocefálica	SistemaNervioso	Neuroglia
+¿Cuál célula de la macroglía forma la barrera hematocefálica?	astrocitos	SistemaNervioso	Neuroglia
+¿Potencial de reposo de la neurona?	-70mV	SistemaNervioso	Neurobiología
+¿Tipo de sinapsis que es dependiente de neurotransmisores?	Química	SistemaNervioso	Neurobiología
+¿Tipo de sinapsis que es muy rápida?	Eléctrica	SistemaNervioso	Neurobiología
+¿Que son los nodos de Ranvier?	Interrupciones en la mielina de los axones con el fin de que el impulso eléctrico se transmita de una manera ordenada	SistemaNervioso	Neurobiología
+¿Tipo de receptor de neurotransmisores cuyos sitos de unión y canales están en una misma proteína?	Ionotrópicos	SistemaNervioso	Neurobiología
+¿Orden de apertura de los canales iónicos durante la despolarización?	Apertura de canales rápidos de Na, cierre de canales rápidos de Na, Apertura de canales lentos de Na, cierre de canales lentos de Na y apertura de canales de K para repolarizar	SistemaNervioso	Neurobiología
+¿Cuáles son los dos tipos de receptores que puede haber en la sinapsis química?	ionotrópicos y metabotrópicos	SistemaNervioso	Neurobiología
+¿Como es la reacción de los receptores ionotrópicos?	directa	SistemaNervioso	Neurobiología
+¿Tipo de sinapsis más común en mamíferos?	Química	SistemaNervioso	Neurobiología
+¿Tipo de receptor de neurotransmisores que usan segundos mensajeros?	Metabotrópicos	SistemaNervioso	Neurobiología
+¿El Potasio participa en la fase de _____________ del Potencial de Acción.	Repolarización.	SistemaNervioso	Neurobiología
+¿Tipo de receptor de neurotransmisores cuyos sitos de unión están separados del canal?	Metabotrópicos	SistemaNervioso	Neurobiología
+¿Sustancias químicas que se liberan y pueden regular el temperamento:	Neurotransmisores.	SistemaNervioso	Neurobiología
+¿Neurotransmisor excitatorio por excelencia?	Glutamato.	SistemaNervioso	Neurobiología
+¿A qué grupo de neurotransmisores pertenecen la Dopamina, Serotonina, Histamina y Noradrenalina?	A las Aminas Biógenas	SistemaNervioso	Neurobiología
+¿Único neurotransmisor con potencial de generar neurotoxicidad.	Glutamato.	SistemaNervioso	Neurobiología
+¿Función del Utrículo y el Sáculo?	Detectar la aceleración línea.	SistemaNervioso	Neurofunción
+¿Células que contienen rodopsina:	Bastones de la retina.	SistemaNervioso	Neurofunción
+¿Diferencia entre el utrículo y el sáculo...	El utrículo se encarga de detectar la cabeza en posición horizontal y el sáculo en posición vertical.	SistemaNervioso	Neurofunción
+¿Dermatomo del ombligo	T10	SistemaNervioso	Neurofunción
+¿La neurona del olfato es de tipo...	Bipolar.	SistemaNervioso	Neurofunción
+¿Parte simpática del iris?	radial externo	SistemaNervioso	Neurofunción
+¿En dónde están las neuronas del olfato?	Techo de la nariz, arriba de la lámina cribosa y en el Área olfatoria primaria	SistemaNervioso	Neurofunción
+¿Dónde están las neuronas de la audición?	Codeo, bulbo raquídeo (núcleos codeos) y tálamo geniculado medio	SistemaNervioso	Neurofunción
+¿Lóbulos en el que se procesa el gusto?	ínsula	SistemaNervioso	Neurofunción
+¿Únicas células que se hiperpolarizan para mandar una señal?	conos y bastones	SistemaNervioso	Neurofunción
+¿Parte del VIII nervio que transmite el equilibrio?	Vestíbulo	SistemaNervioso	Neurofunción
+¿Tractos por los que el olfato llega al tálamo?	PCT, no llegan al tálamo	SistemaNervioso	Neurofunción
+¿Parte del VIII nervio que transmite la audición?	Cóclea	SistemaNervioso	Neurofunción
+¿Parte parasimpática del iris?	ciliar circular interno	SistemaNervioso	Neurofunción
+¿Neurotransmisor de los conos y bastones?	GABA	SistemaNervioso	Neurofunción
+¿En dónde están las neuronas primarias de la visión?	Capa intermedia de la retina	SistemaNervioso	Neurofunción
+¿Nervios que transmiten el gusto?	Facial VII 2/3A y Glosofaríngeo IX 1/3P	SistemaNervioso	Neurofunción
+¿Ion usado para la comunicación neural en el gusto?	calcio	SistemaNervioso	Neurofunción
+¿Núcleo del tálamo donde se recibe el gusto?	núcleo ventral posteromedial	SistemaNervioso	Neurofunción
+¿Nervio craneal que controla el ajuste del cristalino en la visión?	III MOC	SistemaNervioso	Neurofunción
+¿Cuántas neuronas tiene el sistema motor?	2, en la corteza y en el asta inferior	SistemaNervioso	Neurofunción
+¿De dónde salen los tractos piramidales?	Bulbo raquídeo	SistemaNervioso	Neurofunción
+¿Que forman los tractos piramidales?	Corona radiada	SistemaNervioso	Neurofunción
+¿A un paciente se le administró un medicamento que bloquea la acción parasimpática del corazón ¿cuál es la respuesta de este órgano?	Aumentar la frecuencia cardiaca.	SistemaNervioso	Neurofunción
+¿Sistema nervioso que forma una cadena ganglionar?	SNA	SistemaNervioso	Neurofunción
+¿Tipo de nervios autónomos que no forman parte de la cadena ganglionar?	Nervios esplácnicos	SistemaNervioso	Neurofunción
+¿En dónde están las neuronas del SNPa?	Primaria en astas laterales de T y S, secundaria en órgano objetivo	SistemaNervioso	Neurofunción

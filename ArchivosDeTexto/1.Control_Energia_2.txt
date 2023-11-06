@@ -1,0 +1,93 @@
+En cual pliegue del peritoneo se encuentra el páncreas?	Ninguno, es retroperitoneal	ControlEnergia Generalidades
+El conducto de Santorini a que porción del ID llega?	Segunda porción duodenal	ControlEnergia Generalidades
+Por cual ámpula llega el conducto mayor/de Wirsung?	Llega por la ámpula de Váter en el esfínter de Oddi	ControlEnergia Generalidades
+Cuales porciones del páncreas son irrigadas por la rama esplénica?	cuerpo y cola	ControlEnergia Generalidades
+Las ramas esplénica y gastroduodenal de donde surgen?	Hepática común	ControlEnergia Generalidades
+Cual conducto solo trae enzimas digestivas provenientes del páncreas?	Sartorini/accesorio	ControlEnergia Generalidades
+La pancreatoduodenal irriga la cabeza y el proceso unciforme del páncreas. De dónde surge?	Surge de la hepática y de la mesentérica superior	ControlEnergia Generalidades
+Cuales ramas de la vena porta drenan al páncreas?	Esplénica y mesentérica superior	ControlEnergia Generalidades
+Donde hacen escalas las venas que drenan al páncreas?	En el hígado	ControlEnergia Generalidades
+Que plexos inervan al páncreas?	Celiacos y mesentéricos	ControlEnergia Generalidades
+Que nervio controla las secreciones pancreáticas?	Nervio Vago	ControlEnergia Generalidades
+Como se divide el páncreas? Que porcentajes tienen esa división?	Exocrina 99% y endocrina 1%	ControlEnergia Generalidades
+Unidad funcional endocrina del páncreas?	Islotes de Langerhans	ControlEnergia Generalidades
+Unidad funcional exocrina del páncreas?	Acinos pancreáticos?	ControlEnergia Generalidades
+Tipo de célula pancreática que ocupa el 25% del panceras?	Alfa (glucagón)	ControlEnergia Generalidades
+Cuál es la célula más abundante del páncreas y que secreta?	Beta (55%). Secreta insulina y péptido C (y amilina)	ControlEnergia Generalidades
+Molécula secretada equimolarmente a la insulina?	Péptido C	ControlEnergia Generalidades
+Qué porcentaje hay de celulas delta y que secretan?	10% somatostatina	ControlEnergia Generalidades
+Cual célula puede no existir en el páncreas sin causar problemas?	Celulas Épsilon para la secreción de ghrelina (3%)	ControlEnergia Generalidades
+Qué porcentaje de celulas secretan PP?	5%	ControlEnergia Generalidades
+Que célula gástrica tambien se puede encontrar en el páncreas?	Celulas G para la secreción de gastrina	ControlEnergia Generalidades
+Funcion principal de la insulina?	Bajar los niveles de glucosa en la sangre por medio de meterla en las celulas?	ControlEnergia Pancreas
+Qué tipo de hormona es la insulina?	Hidrosoluble/proteica	ControlEnergia Pancreas
+Cuantas cadenas tiene la insulina?	2: alfa y beta	ControlEnergia Pancreas
+Principal blanco de la insulina?	Musculos y tejido adiposo	ControlEnergia Pancreas
+Tipo de GLUT que hay en el páncreas?	GLUT-2	ControlEnergia Pancreas
+Que celulas secretan insulina?	Beta pancreáticas	ControlEnergia Pancreas
+Describe el proceso de señalización de la insulina	El ATP liberado por la glucolisis cierra canales de potasio, polariza la membrana y abre los de calcio, que secretan los GLUT-4 a la célula	ControlEnergia Pancreas
+Funcion de GLP-1	Hace que la secreción de insulina sea más eficiente	ControlEnergia Pancreas
+Enzima que corta la preinsulina a insulina	PCSK1 y 2	ControlEnergia Pancreas
+Respecto a la insulina, cuanto péptido C se secreta?	1:1, equimolar	ControlEnergia Pancreas
+Cuál es el estimulante más poderoso para la secreción de insulina?	Glucosa	ControlEnergia Pancreas
+Además de la glucosa, que otras sustancias promueven la secreción de insulina?	Acetilcolina, arginina, bicina, glucagón, GH, ACTH indirecto, fármacos	ControlEnergia Pancreas
+Que efecto tienen las catecolaminas sobre la insulina?	La inhiben	ControlEnergia Pancreas
+Qué tipo de receptores celulares son los GLUT?	RTK´s	ControlEnergia Pancreas
+Que función tiene la insulina en el hígado?	Inhibe la gluconeogénesis y la glucogenólisis, promueve la gluconeogénesis y al síntesis de lípidos	ControlEnergia Pancreas
+Que hormona aumenta la síntesis de proteinas en el musculo?	Insulina	ControlEnergia Pancreas
+Que efecto tiene la insulina sobre los adipocitos?	Aumentan la generación de ácidos grasos	ControlEnergia Pancreas
+Que le pasa al exceso de glucosa en la célula?	Se convierte en grasa	ControlEnergia Pancreas
+Que efecto tiene la insulina sobre el glucagón?	Antagónico	ControlEnergia Pancreas
+Que hace el glucagón?	Aumenta los niveles sanguíneos de glucosa	ControlEnergia Pancreas
+Cuáles son los precursores del glucagón?	Preproglucagón y proglucagón	ControlEnergia Pancreas
+Tejido blanco del glucagón?	hígado	ControlEnergia Pancreas
+Por donde llega el glucagón al hígado?	Por la vena porta	ControlEnergia Pancreas
+Estímulos positivos del glucagón?	Niveles bajos de glucosa sanguínea, ejercicio, catecolaminas, glucocorticoides, SNC y comidas ricas en proteinas	ControlEnergia Pancreas
+De que tipo son los receptores de glucagón?	Receptores de 7 dominios transmembranales	ControlEnergia Pancreas
+Además del páncreas, en donde más se produce somatostatina?	SNC y tubo digestivo	ControlEnergia Pancreas
+Funcion de la somatostatina?	Inhibir otras funciones	ControlEnergia Pancreas
+Mecanismo de señalización de la somatostatina? 	Receptores Asociados a Proteinas G por proteinas Gi. 	ControlEnergia Pancreas
+Hormona que inhibe a la somatostatina? 	PP	ControlEnergia Pancreas
+Tipo de señalización celular que tiene la somatostatina en el páncreas?	Paracrina	ControlEnergia Pancreas
+Que hormona pancreática es inhibida por la hiperglucemia y por la somatostatina?	PP	ControlEnergia Pancreas
+Hormona pancreática secretada junto a la insulina? 	Amilina	ControlEnergia Pancreas
+Que efecto tiene la amilina sobre la insulina? 	Hace que su secreción sea más eficiente. 	ControlEnergia Pancreas
+cuál es la glándula más grande del cuerpo?	el hígado	ControlEnergia Higado
+Cuales cuadrantes ocupa el hígado en el abdomen?	Hipocondrio derecho y una parte del epigastrio	ControlEnergia Higado
+Cual ligamento fija al hígado a la pared falciforme?	Ligamento falciforme	ControlEnergia Higado
+Que hacen las celulas de Kupffer?	Fagocitosis en el hígado	ControlEnergia Higado
+Que le hace la vesícula biliar a la bilis?	La concentra para que sea más eficiente	ControlEnergia Higado
+Órgano que activa la vitamina D?	Hígado	ControlEnergia Higado
+Cuales vitaminas son activadas y procesadas en el hígado?	A B D E K	ControlEnergia Higado
+En cuales regiones posteriores se divide el hígado?	Lóbulos derecho e izquierdo, cuadrado y caudal	ControlEnergia Higado
+Límites de la región cuadrada del hígado? 	Ligamento falciforme y la vesícula biliar	ControlEnergia Higado
+De donde proviene la irrigación del hígado?	Arteria Hepática (tronco celiaco, mesentérica sup) y por la vena porta	ControlEnergia Higado
+Cuál es la unidad funcional del hígado?	Acino Hepático	ControlEnergia Higado
+Cual zona del acino es la primera en dañarse si ocurre una intoxicación?	De la zona 1	ControlEnergia Higado
+A nivel de los acinos, que efectos causa una falta de irrigación?	Muerte celular en la zona 3	ControlEnergia Higado
+Que conforma una triada hepática?	Rama de la vena porta, de la arteria hepática y un conducto biliar	ControlEnergia Higado
+Cual vaso sanguíneo lleva más sangre al hígado?	Sistema porta	ControlEnergia Higado
+Cuanto porcentaje de oxígeno aporta la arteria hepática al hígado?	70%	ControlEnergia Higado
+Además de sangre oxigenada, que otras sustancias importantes trae el sistema porta al hígado?	Nutrientes	ControlEnergia Higado
+Aproximadamente cuanto se secreta de bilis al día?	800-1000ml	ControlEnergia Higado
+Funcion principal de la bilis?	Emulsifica la grasa para poder procesarla	ControlEnergia Higado
+Principales componentes de la bilis?	Agua, sales biliares, bilirrubina, colesterol, ácidos grasos, sodio, potasio, calcio, cloro	ControlEnergia Higado
+De que compuesto surgen los ácidos biliares primarios?	Colesterol	ControlEnergia Higado
+El ácido cólico y quenodexocolico que tipo de ácidos biliares son?	Primarios	ControlEnergia Higado
+Cuales ácidos biliares son secundarios?	Desocólico, litocólico y ursodesoxicólicos	ControlEnergia Higado
+Aminoácidos que conjugan los ácidos biliares?	Glicina y taurina	ControlEnergia Higado
+Que hace la conjugación de los ácidos biliares?	Permite que sean solubles en liquidos	ControlEnergia Higado
+Proteína transportadora de ácidos biliares conjugados?	No tiene, son solubles en agua	ControlEnergia Higado
+Proteína transportadora de ácidos biliares no conjugados?	Albumina principalmente	ControlEnergia Higado
+Cuantos gramos tenemos almacenados de sales biliares en el cuerpo?	4g	ControlEnergia Higado
+Como se llama la molécula de la cual se origina la bilis?	Grupo hemo	ControlEnergia Higado
+Enzima que convierte el hemo en biliverdina?	Hemo oxidasa	ControlEnergia Higado
+Enzima que conjuga a los ácidos biliares? 	UPB	ControlEnergia Higado
+Que polímero produce el hígado?	Glucógeno	ControlEnergia Higado
+Proceso en el cual se rompe el glucógeno?	Glucogenólisis	ControlEnergia Higado
+Que produce la desaminación de un aminoácido?	Energía y amonio	ControlEnergia Higado
+Que es un quilomicrón?	Grasas emulsificadas?	ControlEnergia Higado
+Qué tipo de colesterol es el VLDL?	Bueno	ControlEnergia Higado
+Que vitamina es convertida en factores de la coagulación?	Vitamina K	ControlEnergia Higado
+En donde se produce la vitamina K?	IG por accion enzimática de bacterias	ControlEnergia Higado
+En donde se convierte la hormona angiotensinógeno en angiotensina?	Riñones	ControlEnergia Higado

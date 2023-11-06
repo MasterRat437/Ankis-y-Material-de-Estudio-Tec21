@@ -1,0 +1,255 @@
+Cuál es la definición de ecosistema?	Sistema biológico compuesto por factores bióticos y abióticos, y sus relaciones	GeneralidadesMicro ClasificaciónMicro ConceptosMicro
+¿Como se le conoce cuando la microbiota de un ambiente está en equilibrio?	Eubiosis	GeneralidadesMicro ClasificaciónMicro ConceptosMicro
+¿Como se llama al desequilibrio de la microbiota en un ambiente determinado?	Disbiosis	GeneralidadesMicro ClasificaciónMicro ConceptosMicro
+¿Qué es el conjunto de la microbiota, metabolitos y genes de un ambiente?	Microbioma	GeneralidadesMicro ClasificaciónMicro ConceptosMicro
+El Yakult es un alimento que estimula la microbiota, ¿cómo se le llama a este tipo de alimentos?	Probióticos	GeneralidadesMicro ClasificaciónMicro ConceptosMicro
+¿Qué es un prebiótico?	Alimento para la microbiota	GeneralidadesMicro ClasificaciónMicro ConceptosMicro
+¿Qué es un Postbiótico?	sustancias producidas por el metabolismo de los probióticos que generan un efecto positivo	GeneralidadesMicro ClasificaciónMicro ConceptosMicro
+¿Cuál es la definición de simbiosis?	Convivencia de dos o más organismos de manera armónica que no necesariamente es beneficiosa	GeneralidadesMicro ClasificaciónMicro ConceptosMicro
+¿Cómo se le llama a la relación entre dos organismos donde solo uno de estos se beneficia y el otro no recibe nada?	Comensalismo	GeneralidadesMicro ClasificaciónMicro ConceptosMicro
+¿Qué es el mutualismo?	Relación entre organismos donde ambos se benefician	GeneralidadesMicro ClasificaciónMicro ConceptosMicro
+¿Qué es conceptualmente un parásito?	Organismo que se beneficia a costa de otros	GeneralidadesMicro ClasificaciónMicro ConceptosMicro
+¿Por qué los virus no están vivos?	Porque no se pueden reproducir por sí mismos	GeneralidadesMicro ClasificaciónMicro TaxonomíaMicro
+¿Cuál es el intervalo del tamaño de los virus?	18-600nm	GeneralidadesMicro ClasificaciónMicro TaxonomíaMicro
+¿Cuál es el tipo de material genético viral?	ADN (or) ARN	GeneralidadesMicro ClasificaciónMicro TaxonomíaMicro
+¿Qué tiene que ocurrir para que un virus se convierta en un virión?	Necesita entrar en una célula, infectarla y replicarse.	GeneralidadesMicro ClasificaciónMicro TaxonomíaMicro
+¿Cuál organismo microscópico tiene una pared celular compleja?	Bacterias	GeneralidadesMicro ClasificaciónMicro TaxonomíaMicro
+¿Cuáles son los componentes de la cadena epidemiológica?	Agente, reservorio, puerto de salida, mecanismo de transmisión, puerta de entrada y huésped	GeneralidadesMicro EpidemiologíaMicro
+En epidemiología, ¿qué es un reservorio?	Sustancia animada o inanimada donde un agente infeccioso vive, se multiplica y se desarrolla	GeneralidadesMicro EpidemiologíaMicro
+¿Cómo se les llama a las vías de salida de un agente infeccioso?	Puertos de salida	GeneralidadesMicro EpidemiologíaMicro
+A más mecanismos de transmisión....	Mayor capacidad de infección	GeneralidadesMicro EpidemiologíaMicro
+¿Qué es un huésped?	Ser vivo que permite la subsidencia o el alojamiento de un agente infeccioso.	GeneralidadesMicro EpidemiologíaMicro
+¿Cuáles son los componentes de la triada epidemiológica?	Agente, huésped y ambiente	GeneralidadesMicro EpidemiologíaMicro
+En la triada epidemiológica ¿cuáles son los factores del agente?	Virulencia, patogenicidad, inmunogenicidad y difusión del agente.	GeneralidadesMicro EpidemiologíaMicro
+¿Cuáles son los factores de prevención de la triada epidemiológica?	Resistencia al medio y quimio/fisio sensibilidad	GeneralidadesMicro EpidemiologíaMicro
+¿Cuáles son los factores del huésped en la cadena epidemiológica?	Edad, sexo, estado inmunitario, densidad de la población, tasa de contagio, relaciones con otros individuos.	GeneralidadesMicro EpidemiologíaMicro
+¿Cuáles son los factores del ambiente en la cadena epidemiológica?	Físico, químico, biológico y social	GeneralidadesMicro EpidemiologíaMicro
+¿Cuál es el tamaño aproximado de las células procariontes?	0.5-3 micrómetros	Células Microbiota
+¿Como es el ADN de las células eucariontes?	Hebras de ADN diploide	Células Microbiota
+¿Como son los ribosomas de las células procariontes?	70s (50+30)	Células Microbiota
+¿Cuál tipo de célula tiene esteroles en su membrana citoplasmática?	Eucariontes y micoplasmas	Células Microbiota
+¿Cuál estructura celular usan las células procariontes para producir ATP?	Membrana Citoplasmática.	Células Microbiota
+¿Cuál tipo de bacterias tiene acido teicoico y lipoteicoicos?	Gram+	Microbiota Bacterias EstructuraBacteriana
+¿Cuál tipo de bacterias tiene peptidoglucanos en sus membranas celulares?	Gram + y -	Microbiota Bacterias EstructuraBacteriana
+¿Cuál tipo de bacterias tiene una membrana celular gruesa compuesta por peptidoglicanos en su mayoría?	Gram+	Microbiota Bacterias EstructuraBacteriana
+¿Cuál tipo de bacterias tiene liposacaridos en su membrana?	Gram-	Microbiota Bacterias EstructuraBacteriana
+¿Cuál es el tipo de bacterias que no se puede identificar por medio de tinción de Gram?	microbacterias	Microbiota Bacterias EstructuraBacteriana
+¿Cuál es la función de los peptidoglucanos en la pared celular de las bacterias?	Dan estructura y asisten en la replicación y la supervivencia en ambientes hostiles	Microbiota Bacterias EstructuraBacteriana
+¿Enzima que disuelve los peptidoglucanos de la pared celular bacteriana?	Lisozima	Microbiota Bacterias EstructuraBacteriana
+¿Cuáles sustancias NO están presentes en la pared celular de las bacterias Gram-, pero si en las Gram+?	Ácidos teicoicos y lipoteicoicos	Microbiota Bacterias EstructuraBacteriana
+¿Qué hacen los lipopolisacáridos en las paredes celulares de las bacterias?	Estimular al sistema inmune	Microbiota Bacterias EstructuraBacteriana
+¿Cuál tipo de bacteria puede producir esporas?	Gram+	Microbiota Bacterias EstructuraBacteriana
+¿Qué es la virulencia?	Capacidad del agente infeccioso para producir casos graves y/o fatales	GeneralidesMicro
+¿A qué se refiere la capacidad de un agente infeccioso de producir una enfermedad?	Patogenicidad	GeneralidesMicro
+¿Como se les llama a las enfermedades animales que infectan a los humanos?	Zoonosis	GeneralidesMicro
+¿Cuál es el periodo de latencia?	Tiempo entre el momento de la exposición y el inicio de la transmisibilidad	GeneralidesMicro
+¿Qué tan probable es que un individuo infecte a otros durante el periodo de latencia?	No es capaz	GeneralidesMicro
+¿Como se le llama al intervalo temporal en el cual un individuo es capaz de transmitir la enfermedad?	Transmisibilidad	GeneralidesMicro
+¿Qué es la incubación?	Intervalo temporal entre la exposición inicial al agente infeccioso y el inicio de la sintomatología de la enfermedad	GeneralidesMicro
+¿Termino usado para definir el tiempo entre la infección y el tiempo en el que se puede detectar?	Ventana	GeneralidesMicro
+¿Cuál molécula importante no pueden sintetizar los micoplasmas?	Precursores de peptidoglucanos	Bacterias
+¿Cuáles medios de cultivo existen?	No selectivos, selectivos y diferenciales	Bacterias
+¿Componentes que forman una nucleocápside	material genetico, proteinas estructurales, enzimas, ácidos nucleicos y proteinas de pegado	Virus
+¿Tipo de material genético viral más estable:	ADN	Virus
+¿Cuáles virus son más estables en ambientes hostiles?	Desnudos	Virus
+¿Cuáles virus no requieren humedad para sobrevivir?	Desnudos	Virus
+¿Tipo de virus que en su mayoría son destruidos con facilidad por los anticuerpos?	Desnudos	Virus
+¿Tipo de virus que pueden sobrevivir en las condiciones del tracto intestinal?	Desnudo	Virus
+¿Tipo de virus únicamente liberado por lisis?	Desnudos	Virus
+¿Tipo de virus que tiene una membrana, proteinas, y glucoproteínas?	Envueltos	Virus
+¿Tipo de virus que no sobrevive en ambientes hostiles?	Envuelto	Virus
+¿Tipo de virus que modifica la membrana celular durante su replicación?	Envuelto	Virus
+¿Como se liberan los virus envueltos?	Por gemación o por lisis	Virus
+¿Tipo de virus que no necesita matar a la célula para replicarse?	Envuelto	Virus
+¿Tipo de virus que causa una reacción inmune notable?	Envuelto	Virus
+¿Como es el material genetico de los virus con ARN-?	Envueltos	Virus
+¿Tipos de esporas de los hongos?	Tetomórficas/sexuales o anamórficas/sexuales	Hongos
+¿Como es la alimentación de los hongos?	Heterótrofos saprofitos	Hongos
+¿Qué es una hifa?	Red de filamentos que conforman la estructura básica de los hongos	Hongos
+¿Como se le llama al conjunto de hifas?	Micelio	Hongos
+¿Tipo de esterol no presente en células humanas pero si en fúngicas?	ergosterol	Hongos
+¿Cuál es el tipo de clasificación más grande para los hongos?	Levaduras o mohos	Hongos
+¿Tipos de hifas?	cenocíticas o septadas	Hongos
+¿Tipo de reproducción principal de las levaduras?	Gemación o por fisión binaria	Hongos
+¿Que se significa que un hongo sea dimórfico?	Que tiene una forma como levadura y una como moho.	Hongos
+¿Cuáles son los grandes grupos de hongos?	Chytridiomicota, Zygomycota, Ascomycota y Basidimycota.	Hongos
+¿Tipo de hongos cuya apariencia es larga y descomponen cosas?	Chytridiomycota	Hongos
+¿Características principales de los Zygomycota?	Esporas sexuales y asexuales, son peligrosos	Hongos
+¿A que clasificación de hongos pertenece la levadura de la cerveza y el hongo del queso azul?	Ascomycota	Hongos
+¿Cuál grupo de hongos tiene relaciones simbióticas con las plantas?	Glomeromycota	Hongos
+¿Familia de hongos más evolucionada?	Basidiomycota	Hongos
+¿Cuál es la clasificación de los hongos por lugar de infección?	Superficiales, cutáneos, subcutáneos, endémicos y oportunistas	Hongos
+¿En dónde se dan las micosis que entran por inoculaciones traumáticas?	Subcutáneos	Hongos
+¿Tipo de hongos que causan picazón y cambios de coloración en el lugar de infección?	Cutáneos	Hongos
+¿Tipo de hongos que solo tienen implicaciones cosméticas?	Superficiales	Hongos
+¿Clasificación de hongos acorde al lugar de infección que son altamente patogénicos?	Endémicos	Hongos
+¿El oxígeno es tóxico para cuales bacterias?	Anaeróbicas obligadas	MetabolismoBacteriano
+¿Cuál ruta metabólica usan las bacterias anaeróbicas=	Ciclo del ácido tricarboxilico/De Krebs	MetabolismoBacteriano
+¿Como se clasifican las bacterias acorde a la fuente de obtención de su energía?	Fotótrofas, quimiotrofas y parasitotrofas	MetabolismoBacteriano
+¿Características de los organismos Heterótrofos/Organótrofos?	Tienen una menor capacidad de síntesis. Aprovechan C y N del ambiente	MetabolismoBacteriano
+¿Tipo de organismos que pueden convertir C y N inorgánico en orgánico?	Autótrofas	MetabolismoBacteriano
+¿Mecanismo de replicación principal de las bacterias?	Fisión binaria	ReproducciónBacteriana
+¿Como empieza la reproducción viral?	Reconocimiento de la célula objetivo	ReproducciónViral
+¿Después de que un virus haya detectado a una célula objetivo, ¿qué necesita hacer para continuar con su replicación?	Fijación o unión a la célula huésped	ReproducciónViral
+¿Cuáles estructuras usa un virus para fijarse a una célula?	Proteinas de Fijación Viral	ReproducciónViral
+¿Cuáles son los pasos de la etapa temprana de la replicación viral?	Reconocimiento, fijación, penetración y descobertura	ReproducciónViral
+¿Cuáles son las primeras macromoléculas virales en sintetizarse?	ARNm temprano y proteinas no estructurales	ReproducciónViral
+¿Entre cuales eventos de la reproducción viral ocurre la replicación del genoma?	Síntesis de ARNm temprano y proteinas no estructurales, y la síntesis de ARNm tardío y proteinas estructurales	ReproducciónViral
+Cuales son los supergrupos de los parásitos protistas?	Opisthokonta, Amebozoa, Excavata, Archaeplastidia y SAR	Microbiota Parásitos
+Como es la locomoción de los parásitos amebozoa?		Microbiota Parásitos
+Subdivisiones del supergrupo de parásitos excavata?	Metamonata y Discicristata	Microbiota Parásitos
+Tipo de alimentación del subgrupo Metamonata?	Pinocitosis	Microbiota Parásitos
+Tipo de parásitos excavata cuya forma suele ser plana?	Discicristata	Microbiota Parásitos
+Componentes del supergrupo de parásitos SAR?	Stramoplies, Alveolata y Rhizaria	Microbiota Parásitos
+Tipo de protozoario que tiene un complejo apical para la penetración de sus células blanco?	Alveolata.	Microbiota Parásitos
+Tipo de protozoario que son comensales anaerobios del intestino?	Stramopiles.	Microbiota Parásitos
+Como es el sistema nervioso de los helmintos?	Primitivo	Microbiota Parásitos
+Como es el sistema excretorio de los helmintos?	Primitivo	Microbiota Parásitos
+Como es el sistema circulatorio de los helmintos?	Primitivo	Microbiota Parásitos
+Clasificación de los helmintos que tiene un sistema digestivo completo?	Nematodo	Microbiota Parásitos
+Clasificación de los helmintos que tiene sexos divididos?	Nematodo	Microbiota Parásitos
+Como se les llama a los gusanos cilíndricos?	Nematodo	Microbiota Parásitos
+Como se les llama a los gusanos aplanados?	Platelmintos	Microbiota Parásitos
+Tipo de gusanos mayoritariamente hermafroditas?	Platelmintos	Microbiota Parásitos
+Tipos de platelmintos?	Trematodos y Cestodos.	Microbiota Parásitos
+Tipo de helmintos cuyo sistema digestivo está incompleto?	Trematodos	Microbiota Parásitos
+Donde se suelen encontrar los trematodos?	Hígado	Microbiota Parásitos
+Donde se suelen encontrar los cestodos?	Sistema digestivo	Microbiota Parásitos
+Como es el sistema digestivo de los cestodos?	Ausente	Microbiota Parásitos
+Clasificación de parásitos artrópodos?	Myriapoda, Crustacea, Chelicerata y Hexápodos.	Microbiota Parásitos
+Subclasificación de los myriapoda?	Chilopoda y Diplopoda	Microbiota Parásitos
+Principal diferencia entre los Chilopoda y los Diplopoda?	Chilopoda tiene mordeduras venenosas y diplopoda secretan veneno	Microbiota Parásitos
+Tipo de parásito artrópodo que suele ser huésped intermedio de otros parásitos y tiene 5 pares de patas?	Crustáceos	Microbiota Parásitos
+Tipos de enfermedades que los artrópodos pueden causar?	Enfermedades Invasivas o Infestaciones/Superficiales	Microbiota Parásitos
+Principales integrantes de los Chelicerata?	Ácaros, pulgas, arañas y escorpiones.	Microbiota Parásitos
+Principales integrantes de los hexápodos?	Mosquitos, moscas, piojos, avispas y hormigas.	Microbiota Parásitos
+Nombre de la estructura menos metabólicamente activa en la que algunos parásitos protozoarios pueden entrar?	Quistes	Microbiota Parásitos
+Nombre de la forma metabólica y reproductiva activa de los protozoarios?	trofocito.	Microbiota Parásitos
+Como cumplen la mayoría de los helmintos sus requerimientos nutricionales?	Ingesta activa de tejidos y fluidos del huésped, o por absorción de nutrientes de forma pasiva.	Microbiota Parásitos
+Biomolécula para el almacenamiento de la energía que los helmintos pueden sintetizar y usar?	Glucógeno. }	Microbiota Parásitos
+Como es la alimentación de los hongos?	heterótrofos saprofitos.	Microbiota Hongos
+Tipo de respiración de los hongos?	Aeróbicos, pero hay algunos anaerobios facultativos.	Microbiota Hongos
+Tinción más popular para la detección de hongos?	Gnocott Gomori (GMS)	Microbiota Hongos
+Que es una hifa?	Red de filamentos que conforman la estructura de los hongos	Microbiota Hongos
+Como se le llama a un conjunto de hifas?	Micelio	Microbiota Hongos
+Tipos de hifas?	Cenocíticas o septadas	Microbiota Hongos
+Esterol presente en la membrana fúngica?	Ergosterol	Microbiota Hongos
+Que es una levadura?	Hongo unicelular.	Microbiota Hongos
+Tipo de reproducción de las levaduras?	Fisión binaria o por gemación.	Microbiota Hongos
+Que es un moho?	Organismo pluricelular formado por hifas	Microbiota Hongos
+Como se clasifican los hongos por familia?	Chrytridioycota, Zygomycota, Ascomycota, Glomeromycota y Basidiomycota.	Microbiota Hongos
+Familia de hongos cuya principal característica es que descomponen cosas?	Chytridiomycota	Microbiota Hongos
+A cual familia de hongos pertenece el hongo negro del pan?	Zygomycota.	Microbiota Hongos
+Cual familia de hongos crece en ambientes extremos?	Ascomycota	Microbiota Hongos
+A cual familia de hongos pertenecen la levadura de las cervezas y las trufas?	Ascomycota	Microbiota Hongos
+Cual familia de hongos son principalmente simbiontes de las plantas?	Glomeromycota	Microbiota Hongos
+Cual es la división de hongos más evolucionada?	Basidiomycota.	Microbiota Hongos
+Como se clasifican los hongos por lugar de infección?	Superficiales, cutáneos, subcutáneos, endémicos y oportunistas.	Microbiota Hongos
+Clasificación de hongos que no son destructivos y solo tienen implicaciones estéticas?	cutáneos	Microbiota Hongos
+Clasificación de hongos que van más allá de la capa queratinizada de la piel?	cutáneos	Microbiota Hongos
+Cuáles son los métodos de entrada para los hongos subcutáneos?	Inoculaciones traumáticas.	Microbiota Hongos
+Clasificación de hongos que son altamente patogénicos y se esparcen por todo el cuerpo?	Endémicos.	Microbiota Hongos
+Clasificación de hongos que suele dar problemas solamente cuando el paciente está inmunocomprometido?	Oportunistas	Microbiota Hongos
+¿Cuál de los siguientes es el principal componente lipídico de los hongos?	Ergosterol	Microbiota Hongos
+¿Cuál es el mecanismo de replicación de las levaduras?	Gemación	Microbiota Hongos
+¿Cuál de los siguientes es un componente estructural característico de la pared celular de los hongos?	Quitina	Microbiota Hongos
+¿Cuál es la unidad básica estructural de los hongos?	Hifa	Microbiota Hongos
+A la habilidad de un hongo de alternar entre un estado de hifa y levadura dependiendo de la temperatura se le conoce como:	Dimorfismo	Microbiota Hongos
+Los hongos _____________ se reproducen de manera asexual.	Anamorfos	Microbiota Hongos
+El termino desenquistar se refiere al proceso por el cual los quistes de un parásito _______________ en el intestino. 	Se convierten en trofozoitos	Microbiota Parásitos
+Es la característica que determina los tejidos u órganos del hospedador en los que el parásito puede sobrevivir.	Tropismo	Microbiota Parásitos
+¿Cuál es la principal fuente de las enfermedades infecciosas producidas por parásitos como protozoos y helmintos?	Exógena	Microbiota Parásitos
+La ausencia de ____ es lo que distingue a una célula procariota de una eucariota (Membrana celular, núcleo, ribosomas, cromatina)	Núcleo	Microbiota Bacterias
+Es una estructura que le da motilidad a la bacteria y se encuentra anclada a la membrana bacteriana. Las bacterias pueden poseer una o más de estas estructuras	flagelo	Microbiota Bacterias
+Cuando una bacteria Gram positiva se encuentra en condiciones adversas puede llegar a sobrevivir en ambientes hostiles y enfrentar depleción de ciertos nutrientes. Lo hace en forma de____.	Esporas	Microbiota Bacterias
+¿Cómo se llaman los virus que poseen una bicapa lipídica rodeando a la cápside?	Envueltos	Microbiota Virus
+¿Dónde se lleva a cabo la replicación de los virus de DNA?	Núcleo	Microbiota Virus
+Los virus envueltos se no transmiten por las siguientes vías. 	Superficies	Microbiota Virus
+¿Cómo se llama la enzima que ayuda a la conversión del genoma viral de RNA a DNA? 	Retrotranscriptasa	Microbiota Virus
+¿Cómo se llaman las mutaciones que resultan en pérdida de genes esenciales para los virus?	Letales	Microbiota Virus
+¿Funcion de la estadística descriptiva?	Presentar información y describirla	Bioestadística
+¿Qué cosas que hace la estadística descriptiva?	Recolección de datos, los organiza y los resume para presentarlos	Bioestadística
+¿Tipo de estadística que permite la identificación entre variables?	Estadística Inferencial	Bioestadística
+¿Tipo de estadística con utilidad para la toma de decisiones?	Inferencial	Bioestadística
+¿Cuál es la principal diferencia entre la estadística descriptiva y la inferencial?	Descriptiva describe y la inferencial saca conclusiones de la información.	Bioestadística
+¿Qué es un registro unitario?	Registros de operaciones de organizaciones de atención a la salud.	Bioestadística
+¿Qué expresa una proporción?	Frecuencia con la que un evento ocurre en relación con la población total	Bioestadística
+¿Qué expresa una tasa?	Dinámica de un suceso en una población a lo largo del tiempo	Bioestadística
+¿Qué es una razón aritmética?	Medida que expresa la relación aritmética existente entre dos eventos en una misma población, o un evento en dos poblaciones.	Bioestadística
+¿Qué es la prevalencia?	Número de individuos que padecen de una enfermedad determinada en un momento especifico.	Bioestadística
+¿Que representa la prevalencia?	La probabilidad de que un individuo sea un caso de una enfermedad en un momento especifico.	Bioestadística
+¿Factores que aumentan la prevalencia?	Mayor duración de la enfermedad, prolongación de la vida de los pacientes (sin que se curen), aumento de casos nuevos, inmigración de casos, emigración de sanos, mejora en el diagnóstico	Bioestadística
+¿Factores que disminuyen la prevalencia?	Disminución de la duración de una enfermedad, tasa de letalidad elevada, disminuyen casos nuevos, inmigración de sanos, emigración de casos, aumento en la tasa de curación.	Bioestadística
+¿Que expresa la tasa de incidencia?	Ocurrencia de la enfermedad entre la población en relación con unidades tiempo personas, para medir la velocidad de ocurrencia de la enfermedad.	Bioestadística
+¿Qué es la incidencia?	Volumen de casos nuevos que aparecen en un determinado periodo de tiempo.	Bioestadística
+¿Como se calcula la prevalencia?	Número total de casos/total de la población	Bioestadística
+¿Como se calcula la tasa de incidencia?	#casos nuevos/suma de todos los periodos libres de enfermedad	Bioestadística
+¿Que expresa la incidencia acumulada?	Volumen de casos nuevos ocurridos en una población durante un periodo de tiempo	Bioestadística
+¿Que mide la incidencia acumulada?	Probabilidad de que un individuo desarrolle el evento de estudio	Bioestadística
+¿Otro nombre para la incidencia acumulada?	Riesgo	Bioestadística
+¿Como se calcula la incidencia acumulada?	# personas que contraen la enfermedad / # de personas libres de la enfermedad.	Bioestadística
+¿Qué es la mortalidad?	Medida en la que se presenta la muerte en una población durante un periodo determinado	Bioestadística
+¿Como se calcula la mortalidad?	Número de muertes/población	Bioestadística
+¿Qué es la letalidad?	Relación entre casos que causan la muerte de una enfermedad respecto al total de casos en un periodo determinado	Bioestadística
+¿Como se calcula la letalidad?	Número de muertes por una enfermedad en un periodo de tiempo/número de casos diagnosticados de la enfermedad en el periodo determinado	Bioestadística
+¿Qué es la morbilidad?	Presentacion de una enfermedad o síntoma en una población durante un periodo determinado/Población estimada en el periodo determinado	Bioestadística
+¿Tipo de variables donde hay un número contable de valores?	Discretas	Bioestadística
+¿Tipo de variables cuantitativas donde solo puede haber números enteros?	Discretas	Bioestadística
+¿Tipo de variables cuantitativas que se pueden fraccionar?	Continuas	Bioestadística
+¿Tipo de variables en las que NO hay cero absoluto		Bioestadística
+¿Tipo de variables en las que el cero se significa ausencia?	De razón.	Bioestadística
+¿Tipo de variables que describen características sin orden?	Nominales	Bioestadística
+¿Tipo de variables que describen características con orden?	Ordinales	Bioestadística
+¿Tipo de variables que describen la ausencia o presencia de una característica?	Dicotómicas	Bioestadística
+¿Qué es la sensibilidad?	Capacidad de una prueba de detectar casos positivos	Bioestadística
+¿Qué es la especificidad?	Capacidad de una prueba de discriminar casos negativos.	Bioestadística
+¿Qué ocurre si la razón de momios es mayor a uno?	Hay mayor riesgo de la enfermedad con la exposición	Bioestadística
+¿Qué ocurre si la razón de momios es menor a uno?	El factor de exposición disminuye el riesgo de contraer la enfermedad	Bioestadística
+¿Qué ocurre si la razón de momios es igual (o cercana) a 1?	La exposición al factor de riesgo no causa nada relevante	Bioestadística
+¿Cuáles son las funciones esenciales de la salud pública?	Situación de Salud, Vigilancia sanitaria, Promoción de la salud, Participación de los ciudadanos, desarrollo de políticas, regulación y fiscalización, acceso equitativo a la salud, desarrollo de RRHH, garantiza y mejoramiento de la calidad, investigación, emergencias y desastres	Bioestadística
+¿Cuáles son las actividades de la salud pública?	Promoción, protección, prevención, restauración	Bioestadística
+¿Qué es la prevención primaria?	Promoción de la salud y protección específica	Bioestadística
+¿Qué es la prevención secundaria?	Diagnóstico y tratamiento temprano	Bioestadística
+¿Qué es la prevención terciaria?	Tratamiento oportuno y rehabilitación	Bioestadística
+¿Qué es la prevención cuaternaria?	Prevenir que la enfermedad vuelva a ocurrir	Bioestadística
+¿Cuáles son los determinantes sociales de la salud?	Ingreso, genero, ocupación, etnicidad, educación, clase social	Bioestadística
+¿Filo más común de bacterias en la boca?	Firmicutes y proteobacterias	Microbiota Bacterias
+¿Cuáles son los filos de bacterias más abundantes en el cuerpo humano?	Actinobacteria, Firmicutes, Proteobacteria, Bacteriodetes, Cianobacteria y Fusobacteria.	Microbiota Bacterias
+¿Cuáles son los filos de bacterias Gram+ del cuerpo humano?	Actinobacteria y Firmicutes	Microbiota Bacterias
+¿Cuáles son los filos de bacterias Gram- del cuerpo humano?	Proteobacterias, Bacteriodetes, Cianobacterias y Fusobacterias.	Microbiota Bacterias
+¿Como es la respiración de las Actinobacterias?	Aeróbicas	Microbiota Bacterias
+¿Como es la respiración de las Firmicutes?	Anaeróbicas facultativas	Microbiota Bacterias
+¿Cuál filo de bacterias es estrictamente anaeróbico?	Fusobacterias	Microbiota Bacterias
+¿Cuál filo de bacterias tiene tanto aeróbicas como anaeróbicas?	Proteobacterias	Microbiota Bacterias
+¿Cuál filo de bacterias produce oxígeno?	Cianobacterias	Microbiota Bacterias
+¿Principales filos de bacterias que habitan la boca?	Firmicutes y proteobacterias	Microbiota Bacterias
+¿En cuál tercio del esófago hay bacterias transitorias?	2/3 proximales	Microbiota Bacterias
+¿En cuál tercio del esófago hay principalmente bacterias Gram+?	Distal	Microbiota Bacterias
+¿Principal bacteria del estómago?	Helicobacter pylori.	Microbiota Bacterias
+¿A cuál filo pertenecen las H. pylori?	Actinobacterias	Microbiota Bacterias
+¿A que filo pertenecen los lactobacilos?	Firmicutes	Microbiota Bacterias
+¿A cuál filo pertenecen los Streptococcus?	Firmicutes	Microbiota Bacterias
+¿Cuál es el filo más abundante en el estómago si no se toman en cuenta las H. pylori?	Proteobacterias	Microbiota Bacterias
+¿En qué dirección aumenta la diversidad de bacterias en el intestino?	Aumenta de proximal a distal	Microbiota Bacterias
+¿Cuáles son los filos más comunes del intestino delgado?	Bacteriodetes y Firmicutes	Microbiota Bacterias
+¿Filo más popular en el intestino delgado?	Firmicutes	Microbiota Bacterias
+¿A cuál filo pertenecen los enterococos?	Firmicutes	Microbiota Bacterias
+¿Filo más popular en el ID?	Firmicutes	Microbiota Bacterias
+¿Filos más populares en el intestino grueso?	Bacteriodetes y Firmicutes.	Microbiota Bacterias
+¿Tipo de filos más populares en el duodeno y yeyuno?	Firmicutes y Actinobacteria	Microbiota Bacterias
+¿Filos más comunes en el íleon?	Firmicutes y Bacteriodetes	Microbiota Bacterias
+¿Composición de la microbiota de la nasofaringe?	Actinobacterias y Firmicutes	Microbiota Bacterias
+¿Filos de bacterias más comunes en los pulmones?	Firmicutes y Bacteriodetes	Microbiota Bacterias
+¿Bacteria que se puede encontrar especialmente en pulmones de personas asmáticas?	Haemophilus.	Microbiota Bacterias
+¿Especies más comunes en los pulmones?	Prevotella, Streptococcus, Veillonella, Neisseria y Fusobacterium	Microbiota Bacterias
+¿Principales bacterias del tracto urinario?	Lactobacilos y Streptococcus	Microbiota Bacterias
+¿Principal característica que engloba a la mayoría de las bacterias patógenas tracto urinario?	Son Gram-	Microbiota Bacterias
+¿Filos de las bacterias más comunes de la vagina?	Firmicutes	Microbiota Bacterias
+¿Principal especie de bacterias que habitan la vagina?	Lactobacilos	Microbiota Bacterias
+¿Sustancia que producen los lactobacilos eubióticos de la vagina?	Peróxido de hidrógeno y ácido láctico	Microbiota Bacterias
+¿Principales filos de bacterias en la piel?	Actinobacteria, Firmicutes y Proteobacteria.	Microbiota Bacterias
+¿Tipo de bacteria patógena que causa acné en la piel?	Propionibacterium spp	Microbiota Bacterias
+¿Tipo de bacteria patógena de la piel húmeda?	Corynebacterium	Microbiota Bacterias
+¿Tipo de bacteria patógena en la piel seca?	Beta-proteobacterias	Microbiota Bacterias
+¿Filo más abundante de bacterias en la piel?	Actinobacterias	Microbiota Bacterias
+¿En cuál zona del cuerpo las Cianobacterias son las segundas más abundantes?	Cabello	Microbiota Bacterias

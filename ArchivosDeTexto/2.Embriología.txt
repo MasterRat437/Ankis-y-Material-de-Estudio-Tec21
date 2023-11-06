@@ -1,0 +1,99 @@
+¿Función de las células de la granulosa?	Las células de la teca producen androstediona y testosterona	Embriología	1°SemanasDesarrollo
+¿Cuál hormona mantiene el embarazo por medio de impedir que el cuerpo lúteo se degenere?	Convierten las hormonas producidas por la teca en estrógeno y en estradiol	Embriología	1°SemanasDesarrollo
+¿Desde donde se secreta la gonadotropina coriónica humana?	Gonadotropina coriónica humana	Embriología	1°SemanasDesarrollo
+¿En qué momento la placenta releva al cuerpo lúteo en la producción de gonadotropina humana?	Se secreta por el sincitiotrofoblasto y por embrión.	Embriología	1°SemanasDesarrollo
+¿En qué momento se forma la mórula?	Alrededor del cuarto mes	Embriología	1°SemanasDesarrollo
+¿En qué momento ocurre la implantación del ovulo??	Tres días después de la segmentación	Embriología	1°SemanasDesarrollo
+¿Qué estructura produce gonadotropina coriónica humana?	Final de la primera semana	Embriología	1°SemanasDesarrollo
+¿En cuales cavidades se divide el embrioblasto durante el octavo día?	El blastocele (cavidad en el interior de la mórula	Embriología	1°SemanasDesarrollo
+¿En dónde aparecen las lagunas durante el 9no día?	Hipoblástica y epiblástica	Embriología	1°SemanasDesarrollo
+¿Desde donde se forma la membrana exocelómica?	Sincitiotrofoblasto	Embriología	1°SemanasDesarrollo
+¿Como era la nutrición embrionaria ANTES de los días 11 y 12?	Hipoblasto	Embriología	1°SemanasDesarrollo
+¿Entre cuales estructuras aparece el mesodermo extraembrionario?	Por medio de difusión de nutrientes	Embriología	1°SemanasDesarrollo
+¿Cuál mesodermo recubre al citotrofoblasto y al amnios?	Superficie interna del citotrofoblasto y la membrana de Heuser	Embriología	1°SemanasDesarrollo
+¿Cuáles estructuras recubre el mesodermo esplácnico extraembrionario?	Mesodermo Somático Extraembrionario	Embriología	1°SemanasDesarrollo
+¿Entre cuales estructuras se forma la cavidad coriónica?	Saco vitelino	Embriología	1°SemanasDesarrollo
+¿Qué es la placa coriónica?	Entre mesodermo somático y esplácnico	Embriología	1°SemanasDesarrollo
+¿Estructura que preceda al pedúnculo de fijación?	Mesodermo extraembrionario que recibe el interior del citotrofoblasto	Embriología	1°SemanasDesarrollo
+¿Que controla la migración y especificación celular en la gastrulación?	Cordón umbilical	Embriología	1°SemanasDesarrollo
+¿Capa germinativa formada del epiblasto?	Factor de crecimiento de los fibroblastos 8 (FGF8)	Embriología	PeriodoEmbrionario
+¿Cuál capa germinativa se forma desde una invaginación del epiblasto?	Ectodermo	Embriología	PeriodoEmbrionario
+¿Cuándo se forma la notocorda?	Endodermo	Embriología	PeriodoEmbrionario
+¿Que produce el conducto neuroentérico?	Cuando el hipoblasto se convierte en endodermo y las células de la placa notocordal se desprenden del endodermo	Embriología	PeriodoEmbrionario
+¿Cuál gen determina el lado izquierdo?	La fosita primitiva	Embriología	PeriodoEmbrionario
+¿Cuáles vellosidades realizan el intercambio gaseoso?	PTX2	Embriología	PeriodoEmbrionario
+¿De cual capa germinativa surgen las estructuras que nos permiten comunicarnos con el exterior?	Vellosidades libres. 	Embriología	PeriodoEmbrionario
+¿Cuál vía migratoria de las células de la cresta neural forma melanocitos?	Ectodermo	Embriología	PeriodoEmbrionario
+¿Qué estructuras se forman por las células de la cresta neural que migran por la vía ventral?	Vía dorsal	Embriología	PeriodoEmbrionario
+¿De cual capa germinativa proviene el esmalte de los dientes, ganglios, neuronas simpáticas, células de Schwann, células de la medula suprarrenal?	Ectodermo	Embriología	PeriodoEmbrionario
+¿De cual capa germinativa vienen glándulas como las mamarias o la hipófisis?	Ectodermo	Embriología	PeriodoEmbrionario
+¿De cual mesodermo se origina el aparato urogenital?	Ectodermo	Embriología	PeriodoEmbrionario
+¿Desde dónde vienen las somitas?	Intermedio	Embriología	PeriodoEmbrionario
+¿Qué estructuras se originan desde las somitas?	Mesodermo paraxial	Embriología	PeriodoEmbrionario
+¿Desde cual capa germinativa se origina el peritoneo?	Tejidos de sostén (musculo, cartílago, hueso, subcutáneos)	Embriología	PeriodoEmbrionario
+¿Junto con cual capa germinativa el mesodermo esplácnico forma el tubo digestivo?	Mesodermo de la placa lateral	Embriología	PeriodoEmbrionario
+¿Desde cual capa germinal surgen los vasos sanguíneos y la sangre?	Endodermo	Embriología	PeriodoEmbrionario
+¿Cuál órgano realiza la hematopoyesis en el feto?	Hígado	Embriología	PeriodoEmbrionario
+¿Desde que capa germinativa surge el parénquima de la tiroides?	Endodermo	Embriología	PeriodoEmbrionario
+¿Qué parte del tubo digestivo se forma desde el endodermo?	Tubo gastrointestinal	Embriología	PeriodoEmbrionario
+¿Desde cual capa germinativa se forma el revestimiento epitelial de la cavidad timpánica y del conducto auditivo?	Endodermo	Embriología	PeriodoEmbrionario
+¿El endodermo forma el parénquima de cuáles órganos?	Tiroides, Paratiroides, Hígado, páncreas	Embriología	OrganogénesisEmbrionaria
+¿Cuáles capas germinativas forman la cabeza y cuello?	Mesodermo paraxial y de la placa lateral, cresta neural y placodas ectodérmicas	Embriología	OrganogénesisEmbrionaria
+¿Desde cual capa germinativa se forman las meninges en el cráneo?	Mesodermo paraxial	Embriología	OrganogénesisEmbrionaria
+¿De dónde se origina el viscerocráneo?	Células de la cresta neural	Embriología	OrganogénesisEmbrionaria
+¿Cuáles nervios craneales se originan desde las placas ectodérmicas?	Los pares V, VII, IX y X	Embriología	OrganogénesisEmbrionaria
+¿Cuál arco faríngeo forma al cartílago de Meckel?	Primer arco faríngeo	Embriología	OrganogénesisEmbrionaria
+¿A cuáles estructuras precede el cartílago de Meckel?	Yunque y martillo	Embriología	OrganogénesisEmbrionaria
+¿Cuál arco faríngeo forma al estribo?	Segundo arco faríngeo	Embriología	OrganogénesisEmbrionaria
+¿Desde cual arco faríngeo se forman los músculos de la expresión facial?	Segundo arco faríngeo	Embriología	OrganogénesisEmbrionaria
+¿Nervio que inerva las estructuras formadas por el tercer arco faríngeo?	Glosofaríngeo	Embriología	OrganogénesisEmbrionaria
+¿Cuál arco faríngeo que no forma ninguna estructura?		Embriología	OrganogénesisEmbrionaria
+¿Qué estructuras se forman desde la primer bolsa faríngea? Oído medio y el conducto auditivo		Embriología	OrganogénesisEmbrionaria
+¿Desde donde se forman las amígdalas palatinas?	Segunda bolsa faríngea	Embriología	OrganogénesisEmbrionaria
+¿Desde donde se forma la glándula paratiroidea?	Tercera y cuarta bolsa faríngea	Embriología	OrganogénesisEmbrionaria
+¿Arcos faríngeos desde donde proviene la lengua?	Primero, Tercero y cuarto	Embriología	OrganogénesisEmbrionaria
+¿Cuáles vesículas cerebrales surgen desde el prosencéfalo?	Telencéfalo y diencéfalo	Embriología	OrganogénesisEmbrionaria
+¿De cual vesícula cerebral surgen los colículos anteriores y posteriores?	Mesencéfalo	Embriología	OrganogénesisEmbrionaria
+¿Cuáles estructuras surgen desde el rombencéfalo?	Metencéfalo y mielencéfalo	Embriología	OrganogénesisEmbrionaria
+¿A cuál vesícula cerebral pertenece el cerebelo y el puente?	Metencéfalo	Embriología	OrganogénesisEmbrionaria
+¿A cuál vesícula cerebral pertenece la medula oblongata?	Mielencéfalo	Embriología	OrganogénesisEmbrionaria
+¿Qué forma la placa basal en el desarrollo de la medula espinal?	La parte motora de la medula	Embriología	OrganogénesisEmbrionaria
+¿Qué forma la placa alar en el desarrollo de la medula espinal?	La parte sensitiva de la medula	Embriología	OrganogénesisEmbrionaria
+¿Qué estructura precede la placa de manto?	Sustancia gris 	Embriología	OrganogénesisEmbrionaria
+¿hasta qué nivel se desplaza la medula espinal al crecer?	Hasta L2-L3	Embriología	OrganogénesisEmbrionaria
+¿De dónde viene el campo cardiogénico primario?	Desde el epiblasto (ectodermo)	Embriología	OrganogénesisEmbrionaria
+¿De cual campo cardiogénico se originan las aurículas?	CCP	Embriología	OrganogénesisEmbrionaria
+¿De cual capa germinativa viene el campo cardiogénico secundario?	Mesodermo esplácnico	Embriología	OrganogénesisEmbrionaria
+¿Semana en la que se forma el asa cardiaca?	4SdG	Embriología	OrganogénesisEmbrionaria
+¿Desde cual estructura se originan los tabiques cardiacos?	Almohadillas endocárdicas	Embriología	OrganogénesisEmbrionaria
+¿Estructura que crece hasta separar a las aurículas?	Septum Primum	Embriología	OrganogénesisEmbrionaria
+¿La fusión de cual estructura forma las válvulas atrioventriculares?	Almohadillas endocárdicas	Embriología	OrganogénesisEmbrionaria
+¿Además de las almohadillas auriculoventriculares, cual estructura forma los tabiques interventriculares?	Cono cardiaco	Embriología	OrganogénesisEmbrionaria
+¿En qué día se empieza a formar el sistema vascular?	Dia 30	Embriología	OrganogénesisEmbrionaria
+¿Cuál arteria se forma desde el primer arco faríngeo?	Arteria maxilar	Embriología	OrganogénesisEmbrionaria
+¿De cual arco faríngeo se forma la carótida común?	Tercer arco faríngeo	Embriología	OrganogénesisEmbrionaria
+¿Arco faríngeo que tiene las subclavias?	Cuarto arco faríngeo	Embriología	OrganogénesisEmbrionaria
+¿Cuál estructura vascular surge desde el 6to arco faríngeo?	Sexto	Embriología	OrganogénesisEmbrionaria
+¿De cuáles capas germinativas surge el aparato digestivo?	Endodermo y mesodermo	Embriología	OrganogénesisEmbrionaria
+¿Qué le aporta el endodermo al tubo digestivo?	Revestimiento epitelial y las glándulas (hígado y páncreas)	Embriología	OrganogénesisEmbrionaria
+¿De dónde vienen las estructuras de soporte como el peritoneo?	Mesodermo	Embriología	OrganogénesisEmbrionaria
+¿En qué semana el esófago se separa del divertículo respiratorio?	S4	Embriología	OrganogénesisEmbrionaria
+¿Cuántos grados gira el estómago en su primer giro?	90°	Embriología	OrganogénesisEmbrionaria
+¿En cuál mes desaparece la luz del duodeno?	Segundo mes de gestación	Embriología	OrganogénesisEmbrionaria
+¿En cuál semana de gestación inicia la producción de bilis?		Embriología	OrganogénesisEmbrionaria
+¿En qué mes aparecen los islotes pancreáticos?	Tercer mes	Embriología	OrganogénesisEmbrionaria
+¿Desde qué mes se empieza a secretar insulina?	quinto mes de gestación	Embriología	OrganogénesisEmbrionaria
+¿Cuáles son los límites del intestino medio en el desarrollo embriológico?	Desde la yema hepática hasta 2/3 del colon transverso	Embriología	OrganogénesisEmbrionaria
+¿En cuál semana de gestación ocurre la herniación fisiológica?	6ta semana de gestación	Embriología	OrganogénesisEmbrionaria
+¿Sobre qué arteria el intestino gira sobre la rotación intestinal?	Arteria mesentérica	Embriología	OrganogénesisEmbrionaria
+¿Porción del intestino que no participa en la rotación intestinal?	Intestino grueso	Embriología	OrganogénesisEmbrionaria
+¿Semana del desarrollo embrionario en donde el intestino regresa a la cavidad abdominal?	10° 	Embriología	OrganogénesisEmbrionaria
+¿Cuál es la frontera entre el endodermo y el ectodermo?	Cloaca	Embriología	OrganogénesisEmbrionaria
+¿Función del tabique anorrectal?	Separa el alantoides del intestino posterior	Embriología	OrganogénesisEmbrionaria
+¿Cuáles son las funciones del saco vitelino?	Las funciones que se sabe que tienen son el almacenar al tubo digestivo durante la herniación y que contienen a las células germinales primordiales 	Embriología	OrganogénesisEmbrionaria
+¿En qué semana ocurre la diferenciación genital?	Semana 8	Embriología	OrganogénesisEmbrionaria
+¿De dónde vienen los folículos primarios?	Cordones corticales	Embriología	OrganogénesisEmbrionaria
+¿Gen que causa la diferenciación sexual en hombres?	SRY	Embriología	OrganogénesisEmbrionaria
+¿Hormona que causa la diferenciación de los genitales masculinos EXTERNOS?	Dihidrotestosterona	Embriología	OrganogénesisEmbrionaria
+¿Semana en la que inicia la producción de orina? 	12va	Embriología	OrganogénesisEmbrionaria
+¿Semana en la que las nefronas aparecen en los metanefros?	6°	Embriología	OrganogénesisEmbrionaria

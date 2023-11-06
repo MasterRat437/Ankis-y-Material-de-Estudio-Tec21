@@ -1,0 +1,164 @@
+¿Objetivo de la farmacocinética?	Explicar cómo se absorben, distribuyen, metabolizan y excretan los medicamentos para llegar a las concentraciones donde los fármacos son eficientes. 	MoléculasBioactivas Farmacocinética 
+¿Cuáles características de un fármaco pueden predecir su biodisponibilidad y movimiento?	Tamaño, estructura molecular, grado de ionización, solubilidad relativa, unión con proteínas séricas y tisulares. 	MoléculasBioactivas Farmacocinética 
+¿Qué es la absorción de un fármaco?	El desplazamiento del fármaco desde su lugar de administración hacia el compartimento central o un líquido biológico desde donde tenga acceso a su sitio de acción. 	MoléculasBioactivas Farmacocinética 
+¿Qué es la adsorción de un fármaco?	La fijación de un fármaco a un lugar definido. 	MoléculasBioactivas Farmacocinética 
+¿De que factores depende la absorción de un fármaco?	Área de absorción, cantidad de flujo sanguíneo que recibe la zona, estado físico del fármaco, hidrosolubilidad, concentración del fármaco en su lugar de absorción. 	MoléculasBioactivas Farmacocinética 
+¿Lugar del cuerpo donde se absorben mejor los ácidos débiles?	Estómago	MoléculasBioactivas Farmacocinética 
+¿Lugar del cuerpo donde se absorben mejor las bases débiles?	Intestino delgado	MoléculasBioactivas Farmacocinética 
+¿Cuál es el área donde se da la mejor absorción de sustancias?	Intestino delgado (cantidad de superficie absortivas). 	MoléculasBioactivas Farmacocinética 
+¿Cómo es la liposolubilidad de la forma ionizada de un fármaco?	Poco liposoluble	MoléculasBioactivas Farmacocinética 
+¿Como es la hidrosolubilidad de la forma ionizada de un fármaco?	Muy hidrosoluble	MoléculasBioactivas Farmacocinética 
+¿Que implica que un fármaco sea poco liposoluble?	Que le es dificil atravesar las membranas celulares. 	MoléculasBioactivas Farmacocinética 
+¿Factores de los cuales depende el paso de un fármaco al interior de una célula?	Magnitud del gradiente de concentración, coeficiente de reparto de lípidos, superficie de membrana expuesta. 	MoléculasBioactivas Farmacocinética 
+¿Por cuál mecanismo pasan la mayoría de los fármacos liposolubles?	Difusión simple.	MoléculasBioactivas Farmacocinética 
+¿Cuáles son los principales grupos ionizables?	Ácidos carboxílicos, aminas 1°, 2°, 3° (4° siempre positivas)	MoléculasBioactivas Farmacocinética 
+¿De cuál lado de la membrana lipídica de una célula se acumulan la mayoría de los fármacos ácidos?	Del lado más alcalino	MoléculasBioactivas Farmacocinética 
+¿Qué dice la Ley de Fick? La velocidad de difusión a través de una membrana es directamente proporcional a la gradiente de concentración de la sustancia a ambos lados de esta e inversamente proporcional al grosor		MoléculasBioactivas Farmacocinética 
+¿Qué es el fenómeno de trampa iónica?	Proceso en el cuál un fármaco ácido se acumulará en el lado más alcalino de una membrana y un fármaco en el lado más ácido. 	MoléculasBioactivas Farmacocinética 
+¿Qué es la biodisponibilidad?	Grado fraccional en que una dosis administrada del fármaco alcanza su sitio de accion, o un líquido donde tenga acceso a este. 	MoléculasBioactivas Farmacocinética 
+¿Cuál es la fórmula para obtener la biodisponibilidad?	F = (cantidades del fármaco que llega a la circulación)/(cantidad del fármaco administrado). 	MoléculasBioactivas Farmacocinética 
+¿Qué es el efecto del primer paso?	Es cuando la capacidad metabólica o excretora de un órgano reduce su biodisponibilidad	MoléculasBioactivas Farmacocinética 
+¿Tipo de fármacos diseñados para pasar por el efecto de primer paso antes de ser efectivos?	Profármacos. 	MoléculasBioactivas Farmacocinética 
+¿Vías que no tienen efecto de primer paso?	Intravenosa, intratecal, en SNC, testículos. 	MoléculasBioactivas Farmacocinética 
+¿Ecuación usada para el cálculo del pKa de una sustancia?	 pKa - pH = log((forma ionizada)/(forma no ionizada). 	MoléculasBioactivas Farmacocinética 
+¿Qué es la biofase?	Lugar donde un fármaco tiene acción terapéutica, determina la respuesta terapéutica esperada. 	MoléculasBioactivas Farmacocinética 
+¿Qué es el pKa?	Magnitud que cuantifica el pH al que la mitad del fármaco está en su forma ionizada y la otra no ionizada. 	MoléculasBioactivas Farmacocinética 
+¿Qué es el excipiente?	Es el material añadido a un fármaco para estabilizar y posibilitar su preparación	MoléculasBioactivas Farmacocinética 
+¿Vía de administración que acepta cualquier tipo de preparados?	Oral. 	MoléculasBioactivas Farmacocinética 
+¿Cuál tipo de preparación es una solución a base de agua con grandes cantidades de azúcar?	Jarabe	MoléculasBioactivas Farmacocinética 
+¿Como preparación farmacológica, ¿qué es una suspensión oral?	Aquella compuesta por dos fases que jamás se van a disolver completamente	MoléculasBioactivas Farmacocinética 
+¿Tipo de preparación que permite un amplio control sobre las dosis debido a su alta concentración?	Gotas	MoléculasBioactivas Farmacocinética 
+¿Cuándo se considera sistémico un medicamento?	Cuando llega a la sangre o a un líquido donde tenga acceso a su sitio de acción	MoléculasBioactivas Farmacocinética 
+¿Qué determina cuando un medicamento se vuelve sistémico?	Las propiedades fisicoquímicas del medicamento (NO la vía de administración)	MoléculasBioactivas Farmacocinética 
+¿Donde se da la mayor parte de la absorción en la vía enteral?	Intestino delgado. 	MoléculasBioactivas Farmacocinética 
+¿Contraindicaciones de la vía oral?	Paciente inconsciente o con vómitos. 	MoléculasBioactivas Farmacocinética 
+¿Cuándo se usa la vía rectal como vía de administración de un fármaco?	Cuando la ingestión de un fármaco no es viable. 	MoléculasBioactivas Farmacocinética 
+¿Desventajas de la vía oral como vía de administración?	Baja biodisponibilidad (relativamente), pérdida por 1° paso hepático, destrucción por enzimas locales o por pH, potencial de irritar al tracto gastrointestinal, irregularidades en la absorción en presencia de alimentos u otros fármacos, necesita la cooperación del paciente para funcionar. 	MoléculasBioactivas Farmacocinética 
+¿Cuál vía enteral se caracteriza por tener una absorción rápida que omite el primer paso debido a que se dirige directamente a la vena cava?	Vía sublingual	MoléculasBioactivas Farmacocinética 
+¿Características de los fármacos usados por vía sublingual?	Alta liposolubilidad y no estar ionizado	MoléculasBioactivas Farmacocinética 
+¿Dónde funcionan los medicamentos tópicos?	Donde se apliquen. 	MoléculasBioactivas Farmacocinética 
+¿Factores de los cuales depende la vía tópica?	Superficie donde se aplique, liposolubilidad del fármaco, vehículo oleoso. 	MoléculasBioactivas Farmacocinética 
+¿Como debe de ser la piel para maximizar la absorción por vía tópica?	Erosionada, quemada o denudada. Ocurre mejor en piel húmeda o seca. 	MoléculasBioactivas Farmacocinética 
+¿Como son las sustancias que se absorben bien por vía pulmonar?	Gaseosos, volátiles, menor a 5 micrómetros. 	MoléculasBioactivas Farmacocinética 
+¿Vía tópica con dos drenajes diferentes con baja actividad epitelial y amplia superficie?	Vía vaginal. 	MoléculasBioactivas Farmacocinética 
+¿Qué son las vías parenterales?	Aquellas que no usan el sistema digestivo	MoléculasBioactivas Farmacocinética 
+¿Cuáles son las vías parenterales más usadas?	Intravenosa, intramuscular, subdérmica. 	MoléculasBioactivas Farmacocinética 
+¿Vía que tiene una biodisponibilidad de 1 (o muy cercano)?	Intravenosa	MoléculasBioactivas Farmacocinética 
+¿Desventajas de la vía intravenosa?	No hay forma de corregirlo, puede dar efectos muy rápido, requiere de asepsia importante, es dificil mantener una vena permeable durante aplicaciones repetidas	MoléculasBioactivas Farmacocinética 
+¿Características de los medicamentos contraindicados para vía intravenosa?	Con vehículo oleoso, que causen precipitación o hemólisis. 	MoléculasBioactivas Farmacocinética 
+¿Como es la absorción en la vía intramuscular?	Rápida en soluciones acuosas y lenta y constante para soluciones oleosas. 	MoléculasBioactivas Farmacocinética 
+¿Desventajas de la vía subcutánea?	Dolorosa (necrosis en casos extremos), propensa a infecciones. 	MoléculasBioactivas Farmacocinética 
+¿Ventajas de la vía subcutánea?	Efecto sostenido y de absorción lenta, se puede aplicar casi cualquier preparación, se pueden aplicar grandes cantidades. 	MoléculasBioactivas Farmacocinética 
+¿Cuando se usa la vía intraarterial?	Cuando se necesite restringir el efecto del fármaco en un tejido u órgano particular (oncología, medios de contraste). 	MoléculasBioactivas Farmacocinética 
+¿Cuando se usa la vía intratecal/en LCR?	Cuando se requiere aplicar un fármaco que no es capaz de atravesar la barrera hematocefálica. Anestésicos, antitumorales y antibióticos	MoléculasBioactivas Farmacocinética 
+¿Cuándo se usa la vía intraósea?	Cuando se necesita transfundir grandes cantidades de volumen en poco tiempo o cuando no fue posible establecer una vía intravenosa. 	MoléculasBioactivas Farmacocinética 
+¿Razones por las cuales no se usa frecuentemente la vía intraperitoneal en clínica?	Alto riesgo de infección y de adhesión.	MoléculasBioactivas Farmacocinética 
+¿Factores que pueden alterar la distribución de un fármaco?	Gasto cardiaco, flujo sanguíneo regional, permeabilidad capilar. Farmacocinética Distribución	MoléculasBioactivas Farmacocinética 
+¿Cuáles son los órganos que reciben la mayor cantidad del flujo sanguíneo?	hígado, riñón, corazón, músculos y cerebro. 	MoléculasBioactivas Farmacocinética 
+¿Cuáles fármacos son transportados por la albúmina?	Fármacos ácidos	MoléculasBioactivas Farmacocinética 
+¿Cuál proteína sanguínea transporta fármacos alcalinos?	Glucoproteína ácida alfa 1.	MoléculasBioactivas Farmacocinética 
+¿Qué determina la fracción total en plasma de un fármaco?	Concentración del fármaco, afinidad de los sitios de unión, concentración en sitios de union disponibles. 	MoléculasBioactivas Farmacocinética 
+¿Cuál proteína sanguínea es alterada en condiciones de inflamación de fase aguda?	La glucoproteína alfa 1 aumenta (y por ende hay una mayor unión de fármacos alcalinos)	MoléculasBioactivas Farmacocinética 
+¿Cómo es el transporte de un fármaco dentro del sistema nervioso?	Transcelular (lipofílico se difunde más rápido). 	MoléculasBioactivas Farmacocinética 
+¿Tipo de tejido que puede ser un reservorio para sustancias como metales pesados, tetraciclinas, fármacos quelantes?	Hueso (adsorción en cristales óseos). 	MoléculasBioactivas Farmacocinética 
+¿La placenta tiende a retener cuál tipo de fármacos?	Fármacos alcalinos. 	MoléculasBioactivas Farmacocinética 
+¿Cómo es la clasificación de seguridad para los medicamentos de mujeres embarazadas?	Sin evidencia de daño fetal, hay daño pero se usa cuando los beneficios sobrepasan los riesgos, NO debe de usarse en mujeres embarazadas. 	MoléculasBioactivas Farmacocinética 
+¿Qué es la redistribución de un fármaco?	Cuando es desplazado de su sitio de acción a otros tejidos 	MoléculasBioactivas Farmacocinética 
+¿Qué es el coeficiente de partición?	Propiedad de un fármaco que determina el grado de lipofília de una molécula.	MoléculasBioactivas Farmacocinética 
+¿Que es el volumen de distribución? Volumen de líquido que es requerido para contener todo el fármaco en el cuerpo a la misma concentración (es un volumen imaginario), cambia acorde al tiempo. 		MoléculasBioactivas Farmacocinética 
+¿Cuál es la fórmula para el volumen de distribución?	Vd = cantidad de droga en el cuerpo/concentración en el cuerpo	MoléculasBioactivas Farmacocinética 
+¿Qué es la ventana terapéutica? Rango de concentración plasmática que existe entre la concentración efectiva mínima y la concentración tóxica mínima. 		MoléculasBioactivas Farmacocinética 
+¿Que es el estado de equilibrio? Estado en el que la misma cantidad de fármaco que se elimina es administrada. 		MoléculasBioactivas Farmacocinética 
+¿La eliminación de cuales sustancias es más eficiente por parte de los órganos secretores?	Compuestos polares más eficientes que los liposolubles (salvo pulmones). 	MoléculasBioactivas Farmacocinética 
+¿Cuáles son los tres procesos de la excreción renal?	Filtración glomerular, secreción tubular activa, reabsorción tubular pasiva. 	MoléculasBioactivas Farmacocinética 
+¿Cuál es el principal mecanismo para excretar medicamentos ingeridos por vía oral?	heces. 	MoléculasBioactivas Farmacocinética 
+¿Fenómeno que puede provocar que una sustancia administrada por vía oral se quede en el cuerpo por un tiempo prolongado y que sea necesaria la administración de otras sustancias específicas para sacarlo?	Ciclo enterohepático. 	MoléculasBioactivas Farmacocinética 
+¿Cuáles son las proteinas hepáticas usadas para el transporte de sustancias liposolubles en los canales de hepatocitos?	Glucoproteína P y BCRP	MoléculasBioactivas Farmacocinética 
+¿Cuáles son las proteinas hepáticas usadas para el transporte de sustancias hidrosolubles y sustancias conjugadas en los canales de hepatocitos?	MRP2	MoléculasBioactivas Farmacocinética 
+¿Cuáles son los parámetros más importantes que determinan la eliminación de fármacos?	Biodisponibilidad, volumen de distribución, semivida de eliminación	MoléculasBioactivas Farmacocinética 
+¿Cuantas microgotas forman un mililitro?	60 microgotas	MoléculasBioactivas Farmacocinética 
+¿Cuantas normogotas forman un mililitro?	20 microgotas	MoléculasBioactivas Farmacocinética 
+¿Cuantas macrogotas forman un mililitro?	10 macrogotas. 	MoléculasBioactivas Farmacocinética 
+¿Cuál es la fórmula del aclaramiento cuando la depuración es constante?	CL = Vm / (Km + C)	MoléculasBioactivas Farmacocinética 
+¿Cuál es la cinética de primer orden?	Cantidad de fármaco metabolizado por unidad de tiempo es proporcional a la concentración plasmática del fármaco. 	MoléculasBioactivas Farmacocinética 
+¿Como cambia el porcentaje de fármaco eliminado en la cinética de primer orden? El porcentaje de fármaco eliminado por unidad de tiempo permanece constante		MoléculasBioactivas Farmacocinética 
+¿Cuál es la cinética de orden cero?	Cantidad constante de fármaco es metabolizado sin importar la concentración, es saturable	MoléculasBioactivas Farmacocinética 
+¿Como cambia el porcentaje de fármaco eliminado en la cinética de orden cero?	Siempre se elimina la misma cantidad de fármaco, sin importar la concentración a la que esté. 	MoléculasBioactivas Farmacocinética 
+¿Qué es una enzima inducible?	Aquella enzima que puede cambiar su número y eficiencia acorde a las necesidades del cuerpo	MoléculasBioactivas Farmacocinética 
+¿Principales reacciones que ocurren en la fase I de la biotransformación?	Reducción, oxidación e hidrólisis	MoléculasBioactivas Farmacocinética 
+¿Función principal de las reacciones de fase I en el metabolismo farmacológico?	Alterar las propiedades biológicas de los fármacos para crear metabolitos inactivos. 	MoléculasBioactivas Farmacocinética 
+¿Dónde se llevan a cabo principalmente las reacción de biotransformación fase 1? Retículo endoplasmático liso o en la mitocondria. 		MoléculasBioactivas Farmacocinética 
+¿Cuáles son las principales enzimas de la fase de biotransformación 1?	Citocromos (especialmente CYP3A4 o 5.	MoléculasBioactivas Farmacocinética 
+¿Grupo funcional con el cual los citocromos tienen una preferencia marcad?	Hidroxilos (alcoholes). 	MoléculasBioactivas Farmacocinética 
+¿Cuál es la principal función de las reacciones de biotransformación en la fase II?	Formación de compuestos polares y aumentar su hidrosolubilidad por medio de la conjugación. 	MoléculasBioactivas Farmacocinética 
+¿Enzimas principales en las reacciones de biotransformación tipo 2?	SULT, GUT, NAT, MT. 	MoléculasBioactivas Farmacocinética 
+¿Donde ocurre la fase de biotransformación II?	Citoplasma	MoléculasBioactivas Farmacocinética 
+¿Cuál fase de la biotransformación determina la via media de una sustancia?	Fase I	MoléculasBioactivas Farmacocinética 
+¿Tipo de compuestos que se elimina con mayor frecuencia?	compuestos polares.	MoléculasBioactivas Farmacocinética 
+¿Cuáles son los tres procesos involucrados en la excreción de un fármaco?	Filtración glomerular, secreción tubular activa y reabsorción tubular pasiva. 	MoléculasBioactivas Farmacocinética 
+¿Qué es el ciclo enterohepático?	Proceso por el cual los fármacos secretados en la bilis o hacia el tubo digestivo se reabsorben de nuevo. 	MoléculasBioactivas Farmacocinética 
+¿Cuáles son las proteinas más usadas para el transporte liposoluble en canales de hepatocitos?	L-glucoproteína P y la BCRP	MoléculasBioactivas Farmacocinética 
+¿Cómo son los fármacos excretados por vía renal?	Lipofílicos, alcohol, gases anestésicos. 	MoléculasBioactivas Farmacocinética 
+¿Cuáles son los objetivos farmacológicos más frecuentes?	Receptores (47%)	MoléculasBioactivas Farmacodinámia
+¿Que hacen los fármacos en vez de crear fenómenos nuevos?	Alterar al funcionamiento normal del cuerpo	MoléculasBioactivas Farmacodinámia
+¿Factores que alteran la especificidad de un fármaco?	Afinidad de un fármaco por su molécula, exclusividad de su objeto farmacológico	MoléculasBioactivas Farmacodinámia
+¿Qué es la sensibilidad en farmacología?	Capacidad de producir una acción. 	MoléculasBioactivas Farmacodinámia
+¿Qué es un receptor en farmacología?	Macromolécula con la cual un fármaco interactúa con el fin de obtener una respuesta sistémica. 	MoléculasBioactivas Farmacodinámia
+¿Qué es un aceptor en farmacología?	Moléculas sin efectos en la respuesta pero que alterar enormemente la farmacocinética de algo.	MoléculasBioactivas Farmacodinámia
+¿De cuál tipo son las uniones irreversibles entre dos fármacos?	Covalentes. 	MoléculasBioactivas Farmacodinámia
+¿Qué es el agonismo?	Capacidad de un ligando de generar una reacción. 	MoléculasBioactivas Farmacodinámia
+¿Qué es un agonista ortostérico?	Fármaco que se une al mismo lugar en molécula endógena	MoléculasBioactivas Farmacodinámia
+¿Qué es un agonista alostérico?	Ligando que se une a un sitio de acción diferente	MoléculasBioactivas Farmacodinámia
+¿Qué es un agonista puro? Ligando que produce la respuesta máxima al interactuar con los receptores. 		MoléculasBioactivas Farmacodinámia
+¿Qué es un agonista parcial?	Aquel ligando que se une a todos sus receptores de una población per no es capaz de causar su acción máxima. 	MoléculasBioactivas Farmacodinámia
+¿Que es un agonista inverso=	Aquella sustancia que al interactuar con el receptor induce una respuesta opuesta a la del agonista. 	MoléculasBioactivas Farmacodinámia
+¿Qué es un agonista competitivo?	Sustancias que se unen a los mismos receptores pero que no activa al receptor. 	MoléculasBioactivas Farmacodinámia
+¿Qué es el antagonismo químico?	Incompatibilidad quimica y neutraliza al agente.	MoléculasBioactivas Farmacodinámia
+¿Que es un antagonista funcional?	 Un fármaco que tiene las acciones contrarias a los agonistas. 	MoléculasBioactivas Farmacodinámia
+¿Qué es un antagonista farmacocinético?	Aquella sustancia que impide como se absorbe o distribuye un fármaco. 	MoléculasBioactivas Farmacodinámia
+¿Como es la relación de un agonista parcial con un agonista puro?	Los agonistas parciales antagonizan las acciones del agonista. 	MoléculasBioactivas Farmacodinámia
+¿Qué es un isobolograma?	Representación cuantitativa del sinergismo positivo y negativo entre dos fármacos. 	MoléculasBioactivas Farmacodinámia
+¿Qué es la concentración efectiva 50?	Concentración en la cual se alcanza el 50% de la respuesta esperada. 	MoléculasBioactivas Farmacodinámia
+¿De que depende la potencia de un fármaco?	Con cuanta dosis se alcanza el efecto. 	MoléculasBioactivas Farmacodinámia
+¿Qué es la seguridad de un fármaco?	Relación entre la dosis efectiva y la dosis letal de un fármaco	MoléculasBioactivas Farmacodinámia
+¿Cómo se calcula la seguridad de un fármaco? LD50/ED50		MoléculasBioactivas Farmacodinámia
+¿Qué se significa que un tratamiento tenga un grado de evidencia A?	Que tiene estudios bien definidos con evidencia sólida	MoléculasBioactivas LegislaciónFarmacológica
+¿Ley mexicana que establece quienes pueden emitir recetar?	28	MoléculasBioactivas LegislaciónFarmacológica
+¿Ley mexicana que establece cuales datos del médico deben de ir en la receta?	29	MoléculasBioactivas LegislaciónFarmacológica
+¿Ley mexicana que establece cuales datos del medicamento deben de ir en la receta?	30	MoléculasBioactivas LegislaciónFarmacológica
+¿Ley mexicana que establece el funcionamiento de la receta médica respecto a los medicamentos genéricos y de patente?	31	MoléculasBioactivas LegislaciónFarmacológica
+¿Ley mexicana que establece el uso de genéricos en instituciones públicas?	32	MoléculasBioactivas LegislaciónFarmacológica
+¿Qué es una interacción farmacológica?	Evento que aparee cuando la acción de un medicamento es modificada por otro. 	MoléculasBioactivas LegislaciónFarmacológica
+¿Cuáles son los niveles en los cuales se pueden dar interacciones farmacológicas?	Farmacéutico (antes de entrar al cuerpo), farmacocinético o farmacodinámico	MoléculasBioactivas LegislaciónFarmacológica
+¿Cuáles son los tipos de interacciones farmacológicas que existen?	Aditivas, permisivas, sinérgicas, potenciación, antagonistas. 	MoléculasBioactivas LegislaciónFarmacológica
+¿Tipo de interacción farmacológica donde un fármaco A necesita de un fármaco B para que este tenga sus efectos completos?	Permisivas	MoléculasBioactivas LegislaciónFarmacológica
+¿Cuál es la NOM de la vigilancia farmacológica?	NOM-220	MoléculasBioactivas LegislaciónFarmacológica
+¿Acorde a la NOM-220, que es un efecto adverso?	Suceso médico indeseable que se pueda presentar en un sujeto de investigación durante la etapa de investigación clinica de un medicamento que no necesariamente tiene una relación causal	MoléculasBioactivas LegislaciónFarmacológica
+¿A cuál institución farmacovigilante se le tienen que reportar los eventos graves?	Centro Nacional de Farmacovigilancia. 	MoléculasBioactivas LegislaciónFarmacológica
+¿Qué es un evento grave acorde a la NOM-220?	Manifestación clinica o acontecimiento adverso que puede no ser inmediatamente peligrosa para la vida o resultar en la muerte u ocasionar hospitalización, pero que puede poner en peligro al paciente o de requerir intervención médica para evitar una reacción adversa grave	MoléculasBioactivas LegislaciónFarmacológica
+¿Qué es un evento supuestamente atribuible a la vacunación o inmunización acorde a la NOM-220?	Manifestaciones clínicas o evento que ocurren después de la vacunación o inmunización. 	MoléculasBioactivas LegislaciónFarmacológica
+¿Qué es un fallo terapéutico acorde a la NOM-220?	Ausencia, disminución o cambios del efecto terapéutico que aparecen de manera inesperada con el uso autorizado de medicamentos y vacunas	MoléculasBioactivas LegislaciónFarmacológica
+¿Acorde a la NOM-220, cuando se considera un caso como grave?	Cuando al administrar cualquier dosis de un medicamento se causa la muerte del paciente, o se pone en riesgo su vida, se vuelve necesario hospitalizar o prolongar la estancia hospitalaria, se causa invalidez o incapacidad de forma permanente, causan alteraciones o malformaciones en el recién nacido, o es considerado como medicamente importante. 	MoléculasBioactivas LegislaciónFarmacológica
+¿Acorde a la NOM-220 cuando se considera como un caso leve?	Cuando los signos y síntomas se toleran con facilidad, no se necesita tratamiento ni requieren ni prolongan la hospitalización. No se requiere la suspensión del medicamento causante.	MoléculasBioactivas LegislaciónFarmacológica
+¿Acorde a la NOM-220, cuando se considera un caso como moderado?	Cuando interfiere con las actividades habituales del paciente pero no amenaza con la vida del paciente, y es necesario dar tratamiento farmacológico. 	MoléculasBioactivas LegislaciónFarmacológica
+¿Acorde a la NOM-200, cuando se considera un caso como severo?	Cuando interfiere con las actividades habituales del paciente, requiere tratamiento farmacológico y la suspensión del medicamento causante. 	MoléculasBioactivas LegislaciónFarmacológica
+¿Acorde a la NOM-220, cuando se considera un caso como cierto?	Cuando se manifiesta con una temporalidad plausible, no puede ser explicado de otra forma y es plausible clínicamente.	MoléculasBioactivas LegislaciónFarmacológica
+¿Acorde a la NOM-220, cuando se considera un caso como probable?	Es un caso cierto que al retirar el fármaco hay una respuesta clínicamente razonable. 	MoléculasBioactivas LegislaciónFarmacológica
+¿Acorde a la NOM-220, cuando se considera un caso como posible?	Cuando los efectos también pueden ser explicados por la enfermedad o por otros fármacos	MoléculasBioactivas LegislaciónFarmacológica
+¿Acorde a la NOM-220, cuando se considera un caso como improbable?	Cuando la reacción se explica mejor por la enfermedad o por otros fármacos o sustancias.	MoléculasBioactivas LegislaciónFarmacológica
+¿Cuántos días tiene una persona para reportar un caso grave acorde a la NOM-220?	7 días	MoléculasBioactivas LegislaciónFarmacológica
+¿Cuántos días tiene una persona para reportar un caso no grave acorde a la NOM-220?	90 días	MoléculasBioactivas LegislaciónFarmacológica
+¿Cuántos dias tiene una persona para reportar dos casos graves del mismo medicamento o del mismo lote acorde a la NOM-220?	48 horas. 	MoléculasBioactivas LegislaciónFarmacológica
+¿Cuál es la Norma Oficial Mexicana que vigila a los dispositivos médicos?	NOM-240	MoléculasBioactivas LegislaciónFarmacológica
+¿Qué se busca en un estudio de fase I para investigación farmacológica?	Que un medicamento sea seguro y tolerable. 	MoléculasBioactivas InvestigaciónFarmacológica
+¿Poblaciones prohibidas de tener en fase I a menos de que el estudio sea específico sobre la población?	Embarazadas, niños y personas de la tercera edad. 	MoléculasBioactivas InvestigaciónFarmacológica
+¿Qué se estudia durante un estudio de fase II?	Si el fármaco hace lo que tiene que hacer y si es eficaz. 	MoléculasBioactivas InvestigaciónFarmacológica
+¿Cuál es el objetivo de los estudios de fase III?	Disminuir errores por sesgo al incluir más pacientes más diversos. Evaluar si es mejor que otros medicamentos y si vale la pena lanzarlo al mercado. 	MoléculasBioactivas InvestigaciónFarmacológica
+¿Cuál es el objetivo de los estudios de fase IV?	Farmacovigilancia a largo plazo. 	MoléculasBioactivas InvestigaciónFarmacológica
+¿Cuáles transportadores son específicos de la placenta?	P-glucosil y BCRP	MoléculasBioactivas FarmaEnEmbarazo
+¿Qué es un agente teratogénico?	Aquellas sustancias que causan un conjunto característico de malformaciones y defectos congénitos en el bebé. 	MoléculasBioactivas FarmaEnEmbarazo
+¿Qué se significa que un medicamento esté clasificado como A respecto al riesgo en el embarazo?	No hay pruebas de riesgo en estudios humanos ni en animales	MoléculasBioactivas FarmaEnEmbarazo
+¿Qué se significa que un medicamento esté clasificado como B respecto al riesgo en el embarazo?	No hay estudios en animales con evidencia de riesgo fetal, pero no hay estudios en humanos	MoléculasBioactivas FarmaEnEmbarazo
+¿Qué se significa que un medicamento esté clasificado como C respecto al riesgo en el embarazo?	Efectos adversos en animales pero no hay estudios en humanos. Se puede usar si el beneficio sobrepasa los riesgos	MoléculasBioactivas FarmaEnEmbarazo
+¿Qué se significa que un medicamento esté clasificado como D respecto al riesgo en el embarazo?	Evidencia de riesgo fetal, pero se pueden usar si hay mayor beneficio para la madre. 	MoléculasBioactivas FarmaEnEmbarazo
+¿Qué se significa que un medicamento esté clasificado como X respecto al riesgo en el embarazo?	Estudios en humanos y en animales demuestran anomalías, por lo que NUNCA se deben de usar.	MoléculasBioactivas FarmaEnEmbarazo
