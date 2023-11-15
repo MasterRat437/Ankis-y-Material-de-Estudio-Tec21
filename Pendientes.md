@@ -55,13 +55,13 @@ Esta es una lista de tema con las materias de los cuales no tengo flashcards o m
 - Anfetaminas
 
 ## Material insuficiente/faltante
--Mecanismos celulares
--Sistema endócrino
--Genética Humana
--SIMUES
--Metabolismo y energía
--Aporte y consumo
--Herencia y desarrollo
--Inmunología
--Procesos Fisiopatológicos
+- Mecanismos celulares
+- Sistema endócrino
+- Genética Humana
+- SIMUES
+- Metabolismo y energía
+- Aporte y consumo
+- Herencia y desarrollo
+- Inmunología
+- Procesos Fisiopatológicos
 
