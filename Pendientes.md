@@ -1,5 +1,6 @@
 # **PENDIENTES DE ANKI Y MATERIALES**
 Esta es una lista de tema con las materias de los cuales no tengo flashcards o material, o no lo tengo suficientemente organizado para que sea correcto compartirlo.
+
 #Crecimiento y Desarrollo
 - Adaptacion respiratoria
 - Graficas estandarizacion
