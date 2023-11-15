@@ -1,21 +1,21 @@
 # **PENDIENTES DE ANKI Y MATERIALES**
 Esta es una lista de tema con las materias de los cuales no tengo flashcards o material, o no lo tengo suficientemente organizado para que sea correcto compartirlo.
 
-#Crecimiento y Desarrollo
+## Crecimiento y Desarrollo
 - Adaptacion respiratoria
 - Graficas estandarizacion
-#Desarrollo emocional y conductual
+## Desarrollo emocional y conductual
 - Funciones cognitivas superiores
 - Apego A&B
 - Diana Baumrind
 - Adolescencia
-#Morfofisiología renal
+## Morfofisiología renal
 - Anatomía Macroscópica renal
 - Regulacion del flujo sanguineo
 - Depuracion renal
 - Principios fisiologicos del equilibrio acido base
 - Procesos renales basicos
-#Sistema Nervioso
+## Sistema Nervioso
 - Medula espinal
 - Sistemas integradores corticales
 - Sistema somestesico
@@ -23,13 +23,13 @@ Esta es una lista de tema con las materias de los cuales no tengo flashcards o m
 - Sistema autonomo
 - Fuciones limbicas
 - Lenguaje
-#Embriología
+## Embriología
 - Blastocito
 - Implantacion
 - Aparicion del mesodermo
 - Embriología de Cabeza y cuello
 - Embriología de A. Digestivo
-#Microestructura Normal y patológica
+## Microestructura Normal y patológica
 - Histologia del aparato reproductor masculino
 - Anatomia reproductiva masculina
 - Ovogenesis
@@ -38,7 +38,7 @@ Esta es una lista de tema con las materias de los cuales no tengo flashcards o m
 - Inflamación
 - Reparación Tisular
 - Transformación neoplásica
-#Farmacología
+## Farmacología
 - Abstinencia
 - Alcohol
 - Benzoiacepinas
@@ -46,7 +46,7 @@ Esta es una lista de tema con las materias de los cuales no tengo flashcards o m
 - Cannabinoides
 - Cocaína
 - Anfetaminas
-#Material insuficiente/faltante
+## Material insuficiente/faltante
 -Mecanismos celulares
 -Sistema endócrino
 -Genética Humana
