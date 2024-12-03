@@ -1,0 +1,13 @@
+https://experiencia21.tec.mx/courses/292088
+https://experiencia21.tec.mx/courses/292252
+https://experiencia21.tec.mx/courses/162212
+https://experiencia21.tec.mx/courses/190726
+https://experiencia21.tec.mx/courses/190697
+https://experiencia21.tec.mx/courses/292138
+https://experiencia21.tec.mx/courses/229657
+https://experiencia21.tec.mx/courses/382978
+https://experiencia21.tec.mx/courses/229618
+https://experiencia21.tec.mx/courses/292189
+https://experiencia21.tec.mx/courses/190737
+https://experiencia21.tec.mx/courses/190673
+https://experiencia21.tec.mx/courses/229668
